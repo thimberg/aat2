@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\copyExcel\bin\Release\copyExcel.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\copyExcel\bin\Release\copyExcel.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\copyExcel\bin\Release\copyExcel.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\copyExcel\obj\Release\copyExcel.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\copyExcel\obj\Release\copyExcel.csproj.ResolveComReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\copyExcel\obj\Release\copyExcel.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\copyExcel\obj\Release\copyExcel.pdb

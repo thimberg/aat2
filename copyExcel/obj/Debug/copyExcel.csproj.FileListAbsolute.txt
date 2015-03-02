@@ -1,0 +1,14 @@
+C:\Users\admin\documents\visual studio 2013\Projects\aat\copyExcel\bin\Debug\copyExcel.exe.config
+C:\Users\admin\documents\visual studio 2013\Projects\aat\copyExcel\bin\Debug\copyExcel.exe
+C:\Users\admin\documents\visual studio 2013\Projects\aat\copyExcel\bin\Debug\copyExcel.pdb
+C:\Users\admin\documents\visual studio 2013\Projects\aat\copyExcel\obj\Debug\copyExcel.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2013\Projects\aat\copyExcel\obj\Debug\copyExcel.exe
+C:\Users\admin\documents\visual studio 2013\Projects\aat\copyExcel\obj\Debug\copyExcel.pdb
+C:\Users\admin\documents\visual studio 2013\Projects\aat\copyExcel\obj\Debug\copyExcel.csproj.ResolveComReference.cache
+C:\Work\Projects\aat\copyExcel\bin\Debug\copyExcel.exe.config
+C:\Work\Projects\aat\copyExcel\bin\Debug\copyExcel.exe
+C:\Work\Projects\aat\copyExcel\bin\Debug\copyExcel.pdb
+C:\Work\Projects\aat\copyExcel\obj\Debug\copyExcel.csproj.ResolveComReference.cache
+C:\Work\Projects\aat\copyExcel\obj\Debug\copyExcel.exe
+C:\Work\Projects\aat\copyExcel\obj\Debug\copyExcel.pdb
+C:\Work\Projects\aat\copyExcel\obj\Debug\copyExcel.csprojResolveAssemblyReference.cache

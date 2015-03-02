@@ -1,0 +1,13 @@
+C:\Work\Projects\aat\WpfAAT\bin\Debug\WpfAAT.exe.config
+C:\Work\Projects\aat\WpfAAT\bin\Debug\WpfAAT.exe
+C:\Work\Projects\aat\WpfAAT\bin\Debug\WpfAAT.pdb
+C:\Work\Projects\aat\WpfAAT\obj\Debug\MainWindow.baml
+C:\Work\Projects\aat\WpfAAT\obj\Debug\MainWindow.g.cs
+C:\Work\Projects\aat\WpfAAT\obj\Debug\App.g.cs
+C:\Work\Projects\aat\WpfAAT\obj\Debug\WpfAAT_MarkupCompile.cache
+C:\Work\Projects\aat\WpfAAT\obj\Debug\WpfAAT.g.resources
+C:\Work\Projects\aat\WpfAAT\obj\Debug\WpfAAT.Properties.Resources.resources
+C:\Work\Projects\aat\WpfAAT\obj\Debug\WpfAAT.csproj.GenerateResource.Cache
+C:\Work\Projects\aat\WpfAAT\obj\Debug\WpfAAT.exe
+C:\Work\Projects\aat\WpfAAT\obj\Debug\WpfAAT.pdb
+C:\Work\Projects\aat\WpfAAT\obj\Debug\WpfAAT.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+     03  ‚e‚`‚c‚q’nˆæƒR[ƒh.                                          
+       05  ‚e‚`‚c‚qŽ©Ž¡ÈƒR[ƒh.                                      
+         07  ‚e‚`‚c‚q“s“¹•{Œ§ƒR[ƒh                                   
+             PIC X(2).                                                    
+         07  ‚e‚`‚c‚qŽs‹æ’¬‘ºƒR[ƒh                                   
+             PIC X(3).                                                    
+       05  ‚e‚`‚c‚qŠ¿Žš“s“¹•{Œ§–¼                                     
+             PIC X(10).                                                   
+       05  ‚e‚`‚c‚qŠ¿ŽšŽs‹æ’¬‘º–¼                                     
+             PIC X(30).                                                   

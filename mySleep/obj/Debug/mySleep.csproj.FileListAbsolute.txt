@@ -1,0 +1,12 @@
+C:\Users\admin\documents\visual studio 2013\Projects\aat\mySleep\bin\Debug\mySleep.exe.config
+C:\Users\admin\documents\visual studio 2013\Projects\aat\mySleep\bin\Debug\mySleep.exe
+C:\Users\admin\documents\visual studio 2013\Projects\aat\mySleep\bin\Debug\mySleep.pdb
+C:\Users\admin\documents\visual studio 2013\Projects\aat\mySleep\obj\Debug\mySleep.exe
+C:\Users\admin\documents\visual studio 2013\Projects\aat\mySleep\obj\Debug\mySleep.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\mySleep\obj\Debug\mySleep.csprojResolveAssemblyReference.cache
+C:\Work\Projects\aat\mySleep\bin\Debug\mySleep.exe.config
+C:\Work\Projects\aat\mySleep\obj\Debug\mySleep.exe
+C:\Work\Projects\aat\mySleep\obj\Debug\mySleep.pdb
+C:\Work\Projects\aat\mySleep\bin\Debug\mySleep.exe
+C:\Work\Projects\aat\mySleep\bin\Debug\mySleep.pdb
+C:\Work\Projects\aat\mySleep\obj\Debug\mySleep.csprojResolveAssemblyReference.cache

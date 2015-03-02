@@ -1,0 +1,44 @@
+﻿2014/12/12 10:40:35	インデックスが範囲を超えています。負でない値で、コレクションのサイズよりも小さくなければなりません。
+パラメーター名:index
+2014/12/12 13:52:20	デバッグが開始しました。
+2014/12/12 13:52:23	外部exe実行：cobAddDisplay.exe<\\10.169.82.200\現新試験\事前準備\COBOL85修正後\\HBHUN551.cob C:\Work\Projects\aat\aat\bin\Debug\PreWork\src\HBHUN551.cob ＣＨＵＲ売上金額 ＨＣＨＮ販売チャネル ＨＣＨＮゲームタイプ ＨＣＨＮ売上金額 ＨＣＨＮブロックコード  ＨＣＨＮ回号 ＨＣＨＮ年度>
+2014/12/12 13:52:23	外部exe実行：CBL.EXE</M /Ccon /Dy /NOWARNING /O1 /IC:\Work\Cobol_分析\COPY\ /FeC:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\ HBHUN551.cob >
+2014/12/12 13:52:24	Std Output:COBOL85 Pro Version 8.7 
+(C) NEC Corporation 1998,2013
+    ***** ERROR SUMMARY LIST *****
+    00000  FATAL ERRORS
+    00000  WARNINGS
+    SUCCESSFULLY COMPILED
+Microsoft (R) Windows (R) Resource Compiler Version 6.3.9600.17298
+Copyright (C) Microsoft Corporation.  All rights reserved.
+Microsoft (R) Incremental Linker Version 12.00.31101.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+/SUBSYSTEM:CONSOLE /ENTRY:mainCRTStartup "HBHUN551.obj" "C:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\HBHUN551.res" "/OUT:C:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\HBHUN551.exe" cblrt.lib cblrts.lib cblxml.lib msvcrt.lib kernel32.lib 
+Microsoft (R) Manifest Tool version 6.3.9600.17298
+Copyright (c) Microsoft Corporation 2012. 
+All rights reserved.
+
+2014/12/12 13:52:24	デバッグが終了しました。
+2014/12/12 17:10:08	選択されたケースの結果ファイルが見つかりません。結果出力を先に実行してください。
+<HBHUN370-02>
+2014/12/12 17:10:13	選択されたケースの結果ファイルが見つかりません。結果出力を先に実行してください。
+<HBHUN370-06>
+2014/12/12 18:36:34	デバッグが開始しました。
+2014/12/12 18:36:48	外部exe実行：cobAddDisplay.exe<\\10.169.82.200\現新試験\事前準備\COBOL85修正後\\HBHUN551.cob C:\Work\Projects\aat\aat\bin\Debug\PreWork\src\HBHUN551.cob ＣＨＵＲ売上金額 ＨＣＨＮ販売チャネル ＨＣＨＮゲームタイプ ＨＣＨＮ売上金額 ＨＣＨＮブロックコード  ＨＣＨＮ回号 ＨＣＨＮ年度>
+2014/12/12 18:36:48	外部exe実行：CBL.EXE</M /Ccon /Dy /NOWARNING /O1 /IC:\Work\Cobol_分析\COPY\ /FeC:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\ HBHUN551.cob >
+2014/12/12 18:36:48	Std Output:COBOL85 Pro Version 8.7 
+(C) NEC Corporation 1998,2013
+    ***** ERROR SUMMARY LIST *****
+    00000  FATAL ERRORS
+    00000  WARNINGS
+    SUCCESSFULLY COMPILED
+Microsoft (R) Windows (R) Resource Compiler Version 6.3.9600.17298
+Copyright (C) Microsoft Corporation.  All rights reserved.
+Microsoft (R) Incremental Linker Version 12.00.31101.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+/SUBSYSTEM:CONSOLE /ENTRY:mainCRTStartup "HBHUN551.obj" "C:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\HBHUN551.res" "/OUT:C:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\HBHUN551.exe" cblrt.lib cblrts.lib cblxml.lib msvcrt.lib kernel32.lib 
+Microsoft (R) Manifest Tool version 6.3.9600.17298
+Copyright (c) Microsoft Corporation 2012. 
+All rights reserved.
+
+2014/12/12 18:36:48	デバッグが終了しました。

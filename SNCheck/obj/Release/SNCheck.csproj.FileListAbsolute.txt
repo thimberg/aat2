@@ -1,0 +1,5 @@
+C:\Work\Projects\aat\SNCheck\bin\Release\Com.OnForm32.dll
+C:\Work\Projects\aat\SNCheck\bin\Release\Com.OnForm32.pdb
+C:\Work\Projects\aat\SNCheck\obj\Release\Com.OnForm32.dll
+C:\Work\Projects\aat\SNCheck\obj\Release\Com.OnForm32.pdb
+C:\Work\Projects\aat\SNCheck\obj\Release\SNCheck.csprojResolveAssemblyReference.cache

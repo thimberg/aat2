@@ -1,0 +1,3863 @@
+﻿2014/11/28 15:29:32	実行　処理開始　(perform)
+2014/11/28 15:29:32	実行　処理終了　(perform)
+2014/11/28 15:29:32	[HBHUN340-01]の実行処理が開始した。
+2014/11/28 15:29:32	[HBHUN340-01]の実行処理にエラーが発生しました。ログファイルをご参照ください。
+2014/11/28 15:29:34	ディレクトリが空ではありません。
+
+2014/11/28 15:29:34	　　　☆☆☆実行処理が正常に終了しました。☆☆☆　　　
+2014/11/28 15:29:34	結果出力　処理開始　(export)
+2014/11/28 15:29:35	結果出力　処理終了　(export)
+2014/11/28 15:29:35	[HBHUN340-01]の結果出力処理が開始した。
+2014/11/28 15:29:36	[HBHUN340-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN340-01\IO\VIWKGGS>
+2014/11/28 15:29:36	[HBHUN340-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN340-01\IO\VIWKGYS>
+2014/11/28 15:29:37	[HBHUN340-01]の比較にエラーが発生しました。
+2014/11/28 15:29:37	\n出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN340-01\IO\VIWKGYS>
+2014/11/28 15:29:37	　　　☆☆☆結果出力処理が正常に終了しました。☆☆☆　　　
+2014/11/28 15:29:43	データ変換　処理開始　(convert)
+2014/11/28 15:29:43	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_090_業者別精算表).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_RQGYOSSN.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSS_業者別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSSN>
+2014/11/28 15:29:46	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSSN】データ変換完了しました！！
+
+2014/11/28 15:29:46	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 15:29:46	Std Output:	正常終了(DONE)
+
+2014/11/28 15:29:47	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 15:29:47	Std Output:	正常終了(DONE)
+
+2014/11/28 15:29:47	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_RQGYOSSN.exe<>
+2014/11/28 15:29:47	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 15:29:47	Std Output:	正常終了(DONE)
+
+2014/11/28 15:29:47	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_081_業者).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VIGYOSYA.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSA_業者ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSYA>
+2014/11/28 15:29:50	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSYA】データ変換完了しました！！
+
+2014/11/28 15:29:50	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 15:29:50	Std Output:	正常終了(DONE)
+
+2014/11/28 15:29:50	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 15:29:50	Std Output:	正常終了(DONE)
+
+2014/11/28 15:29:50	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGYOSYA.exe<>
+2014/11/28 15:29:51	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 15:29:51	Std Output:	正常終了(DONE)
+
+2014/11/28 15:29:51	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VIURIBA.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIURIBA0>
+2014/11/28 15:29:58	Std Output:データ変換中........
+下記の項目：\\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx中に存在あり、\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls中に存在なし。
+データ変換する後、下記の項目内容は初期化をされる。ご注意してください！
+************************************
+発売ゲームタイプ1
+発売ブロックコード1
+発売ゲームタイプ2
+発売ブロックコード2
+発売ゲームタイプ3
+発売ブロックコード3
+発売ゲームタイプ4
+発売ブロックコード4
+発売ゲームタイプ5
+発売ブロックコード5
+発売ゲームタイプ6
+発売ブロックコード6
+発売ゲームタイプ7
+発売ブロックコード7
+発売ゲームタイプ8
+発売ブロックコード8
+発売ゲームタイプ9
+発売ブロックコード9
+発売ゲームタイプ10
+発売ブロックコード10
+発売ゲームタイプ11
+発売ブロックコード11
+発売ゲームタイプ12
+発売ブロックコード12
+発売ゲームタイプ13
+発売ブロックコード13
+発売ゲームタイプ14
+発売ブロックコード14
+発売ゲームタイプ15
+発売ブロックコード15
+発売ゲームタイプ16
+発売ブロックコード16
+発売ゲームタイプ17
+発売ブロックコード17
+発売ゲームタイプ18
+発売ブロックコード18
+発売ゲームタイプ19
+発売ブロックコード19
+発売ゲームタイプ20
+発売ブロックコード20
+発売ゲームタイプ21
+発売ブロックコード21
+発売ゲームタイプ22
+発売ブロックコード22
+発売ゲームタイプ23
+発売ブロックコード23
+発売ゲームタイプ24
+発売ブロックコード24
+発売ゲームタイプ25
+発売ブロックコード25
+発売ゲームタイプ26
+発売ブロックコード26
+発売ゲームタイプ27
+発売ブロックコード27
+発売ゲームタイプ28
+発売ブロックコード28
+発売ゲームタイプ29
+発売ブロックコード29
+発売ゲームタイプ30
+発売ブロックコード30
+発売ゲームタイプ31
+発売ブロックコード31
+発売ゲームタイプ32
+発売ブロックコード32
+発売ゲームタイプ33
+発売ブロックコード33
+発売ゲームタイプ34
+発売ブロックコード34
+発売ゲームタイプ35
+発売ブロックコード35
+発売ゲームタイプ36
+発売ブロックコード36
+発売ゲームタイプ37
+発売ブロックコード37
+発売ゲームタイプ38
+発売ブロックコード38
+発売ゲームタイプ39
+発売ブロックコード39
+発売ゲームタイプ40
+発売ブロックコード40
+発売ゲームタイプ41
+発売ブロックコード41
+発売ゲームタイプ42
+発売ブロックコード42
+発売ゲームタイプ43
+発売ブロックコード43
+発売ゲームタイプ44
+発売ブロックコード44
+発売ゲームタイプ45
+発売ブロックコード45
+発売ゲームタイプ46
+発売ブロックコード46
+発売ゲームタイプ47
+発売ブロックコード47
+発売ゲームタイプ48
+発売ブロックコード48
+発売ゲームタイプ49
+発売ブロックコード49
+発売ゲームタイプ50
+発売ブロックコード50
+発売ゲームタイプ51
+発売ブロックコード51
+発売ゲームタイプ52
+発売ブロックコード52
+発売ゲームタイプ53
+発売ブロックコード53
+発売ゲームタイプ54
+発売ブロックコード54
+発売ゲームタイプ55
+発売ブロックコード55
+発売ゲームタイプ56
+発売ブロックコード56
+発売ゲームタイプ57
+発売ブロックコード57
+発売ゲームタイプ58
+発売ブロックコード58
+発売ゲームタイプ59
+発売ブロックコード59
+発売ゲームタイプ60
+発売ブロックコード60
+発売ゲームタイプ61
+発売ブロックコード61
+発売ゲームタイプ62
+発売ブロックコード62
+発売ゲームタイプ63
+発売ブロックコード63
+発売ゲームタイプ64
+発売ブロックコード64
+************************************
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIURIBA0】データ変換完了しました！！
+
+2014/11/28 15:29:58	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:29:58	Std Output:	正常終了(DONE)
+
+2014/11/28 15:29:58	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:29:58	Std Output:	正常終了(DONE)
+
+2014/11/28 15:29:58	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIURIBA.exe<>
+2014/11/28 15:29:59	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:29:59	Std Output:	正常終了(DONE)
+
+2014/11/28 15:29:59	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_037_運用管理1).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VRUNYKAN1.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUNK1_運用管理ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\INPUT\VRUNYKAN>
+2014/11/28 15:30:02	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\INPUT\VRUNYKAN】データ変換完了しました！！
+
+2014/11/28 15:30:02	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_037_運用管理1).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\aaa.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUNK1_運用管理ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYSSGM>
+2014/11/28 15:30:04	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYSSGM】データ変換完了しました！！
+
+2014/11/28 15:30:04	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 15:30:04	Std Output:	正常終了(DONE)
+
+2014/11/28 15:30:04	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 15:30:04	Std Output:	正常終了(DONE)
+
+2014/11/28 15:30:04	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_RQGYSSGM.exe<>
+2014/11/28 15:30:05	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 15:30:05	Std Output:	正常終了(DONE)
+
+2014/11/28 15:30:05	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_220_売場別ゲーム別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\IN01_LOTO_VIWKUGSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUGSS_売場別ゲーム別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKUGS0>
+2014/11/28 15:30:07	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKUGS0】データ変換完了しました！！
+
+2014/11/28 15:30:08	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 15:30:08	Std Output:	正常終了(DONE)
+
+2014/11/28 15:30:08	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 15:30:08	Std Output:	正常終了(DONE)
+
+2014/11/28 15:30:08	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIWKUGS.exe<>
+2014/11/28 15:30:09	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 15:30:09	Std Output:	正常終了(DONE)
+
+2014/11/28 15:30:09	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_227_売場別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\IN01_LOTO_VIWKURSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURSS_売場別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKURS0>
+2014/11/28 15:30:11	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKURS0】データ変換完了しました！！
+
+2014/11/28 15:30:11	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 15:30:11	Std Output:	正常終了(DONE)
+
+2014/11/28 15:30:11	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 15:30:11	Std Output:	正常終了(DONE)
+
+2014/11/28 15:30:11	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIWKURS.exe<>
+2014/11/28 15:30:12	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 15:30:12	Std Output:	正常終了(DONE)
+
+2014/11/28 15:30:12	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_087_業者別ゲーム別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\出力データ\out01_LOTO_VIWKGGSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGGSS_業者別ゲーム別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGGSH>
+2014/11/28 15:30:14	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGGSH】データ変換完了しました！！
+
+2014/11/28 15:30:14	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_092_業者別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\出力データ\out01_LOTO_VIWKGYSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSS_業者別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGYSH>
+2014/11/28 15:30:16	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGYSH】データ変換完了しました！！
+
+2014/11/28 15:30:17	データ変換　処理終了　(convert)
+2014/11/28 15:32:36	データ変換　処理開始　(convert)
+2014/11/28 15:32:37	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_090_業者別精算表).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_RQGYOSSN.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSS_業者別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSSN>
+2014/11/28 15:32:39	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSSN】データ変換完了しました！！
+
+2014/11/28 15:32:39	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 15:32:39	Std Output:	正常終了(DONE)
+
+2014/11/28 15:32:40	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 15:32:40	Std Output:	正常終了(DONE)
+
+2014/11/28 15:32:40	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_RQGYOSSN.exe<>
+2014/11/28 15:32:40	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 15:32:40	Std Output:	正常終了(DONE)
+
+2014/11/28 15:32:40	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_081_業者).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VIGYOSYA.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSA_業者ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSYA>
+2014/11/28 15:32:42	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSYA】データ変換完了しました！！
+
+2014/11/28 15:32:43	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 15:32:43	Std Output:	正常終了(DONE)
+
+2014/11/28 15:32:43	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 15:32:43	Std Output:	正常終了(DONE)
+
+2014/11/28 15:32:43	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGYOSYA.exe<>
+2014/11/28 15:32:43	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 15:32:43	Std Output:	正常終了(DONE)
+
+2014/11/28 15:32:44	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VIURIBA.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIURIBA0>
+2014/11/28 15:32:49	Std Output:データ変換中........
+下記の項目：\\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx中に存在あり、\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls中に存在なし。
+データ変換する後、下記の項目内容は初期化をされる。ご注意してください！
+************************************
+発売ゲームタイプ1
+発売ブロックコード1
+発売ゲームタイプ2
+発売ブロックコード2
+発売ゲームタイプ3
+発売ブロックコード3
+発売ゲームタイプ4
+発売ブロックコード4
+発売ゲームタイプ5
+発売ブロックコード5
+発売ゲームタイプ6
+発売ブロックコード6
+発売ゲームタイプ7
+発売ブロックコード7
+発売ゲームタイプ8
+発売ブロックコード8
+発売ゲームタイプ9
+発売ブロックコード9
+発売ゲームタイプ10
+発売ブロックコード10
+発売ゲームタイプ11
+発売ブロックコード11
+発売ゲームタイプ12
+発売ブロックコード12
+発売ゲームタイプ13
+発売ブロックコード13
+発売ゲームタイプ14
+発売ブロックコード14
+発売ゲームタイプ15
+発売ブロックコード15
+発売ゲームタイプ16
+発売ブロックコード16
+発売ゲームタイプ17
+発売ブロックコード17
+発売ゲームタイプ18
+発売ブロックコード18
+発売ゲームタイプ19
+発売ブロックコード19
+発売ゲームタイプ20
+発売ブロックコード20
+発売ゲームタイプ21
+発売ブロックコード21
+発売ゲームタイプ22
+発売ブロックコード22
+発売ゲームタイプ23
+発売ブロックコード23
+発売ゲームタイプ24
+発売ブロックコード24
+発売ゲームタイプ25
+発売ブロックコード25
+発売ゲームタイプ26
+発売ブロックコード26
+発売ゲームタイプ27
+発売ブロックコード27
+発売ゲームタイプ28
+発売ブロックコード28
+発売ゲームタイプ29
+発売ブロックコード29
+発売ゲームタイプ30
+発売ブロックコード30
+発売ゲームタイプ31
+発売ブロックコード31
+発売ゲームタイプ32
+発売ブロックコード32
+発売ゲームタイプ33
+発売ブロックコード33
+発売ゲームタイプ34
+発売ブロックコード34
+発売ゲームタイプ35
+発売ブロックコード35
+発売ゲームタイプ36
+発売ブロックコード36
+発売ゲームタイプ37
+発売ブロックコード37
+発売ゲームタイプ38
+発売ブロックコード38
+発売ゲームタイプ39
+発売ブロックコード39
+発売ゲームタイプ40
+発売ブロックコード40
+発売ゲームタイプ41
+発売ブロックコード41
+発売ゲームタイプ42
+発売ブロックコード42
+発売ゲームタイプ43
+発売ブロックコード43
+発売ゲームタイプ44
+発売ブロックコード44
+発売ゲームタイプ45
+発売ブロックコード45
+発売ゲームタイプ46
+発売ブロックコード46
+発売ゲームタイプ47
+発売ブロックコード47
+発売ゲームタイプ48
+発売ブロックコード48
+発売ゲームタイプ49
+発売ブロックコード49
+発売ゲームタイプ50
+発売ブロックコード50
+発売ゲームタイプ51
+発売ブロックコード51
+発売ゲームタイプ52
+発売ブロックコード52
+発売ゲームタイプ53
+発売ブロックコード53
+発売ゲームタイプ54
+発売ブロックコード54
+発売ゲームタイプ55
+発売ブロックコード55
+発売ゲームタイプ56
+発売ブロックコード56
+発売ゲームタイプ57
+発売ブロックコード57
+発売ゲームタイプ58
+発売ブロックコード58
+発売ゲームタイプ59
+発売ブロックコード59
+発売ゲームタイプ60
+発売ブロックコード60
+発売ゲームタイプ61
+発売ブロックコード61
+発売ゲームタイプ62
+発売ブロックコード62
+発売ゲームタイプ63
+発売ブロックコード63
+発売ゲームタイプ64
+発売ブロックコード64
+************************************
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIURIBA0】データ変換完了しました！！
+
+2014/11/28 15:32:49	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:32:49	Std Output:	正常終了(DONE)
+
+2014/11/28 15:32:50	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:32:50	Std Output:	正常終了(DONE)
+
+2014/11/28 15:32:50	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIURIBA.exe<>
+2014/11/28 15:32:50	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:32:50	Std Output:	正常終了(DONE)
+
+2014/11/28 15:32:50	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_037_運用管理1).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VRUNYKAN1.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUNK1_運用管理ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\INPUT\VRUNYKAN>
+2014/11/28 15:32:52	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\INPUT\VRUNYKAN】データ変換完了しました！！
+
+2014/11/28 15:32:52	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_037_運用管理1).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\aaa.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUNK1_運用管理ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYSSGM>
+2014/11/28 15:32:55	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYSSGM】データ変換完了しました！！
+
+2014/11/28 15:32:55	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 15:32:55	Std Output:	正常終了(DONE)
+
+2014/11/28 15:32:55	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 15:32:56	Std Output:	正常終了(DONE)
+
+2014/11/28 15:32:56	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_RQGYSSGM.exe<>
+2014/11/28 15:32:56	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 15:32:56	Std Output:	正常終了(DONE)
+
+2014/11/28 15:32:56	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_220_売場別ゲーム別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\IN01_LOTO_VIWKUGSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUGSS_売場別ゲーム別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKUGS0>
+2014/11/28 15:32:58	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKUGS0】データ変換完了しました！！
+
+2014/11/28 15:32:58	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 15:32:58	Std Output:	正常終了(DONE)
+
+2014/11/28 15:32:58	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 15:32:59	Std Output:	正常終了(DONE)
+
+2014/11/28 15:32:59	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIWKUGS.exe<>
+2014/11/28 15:32:59	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 15:32:59	Std Output:	正常終了(DONE)
+
+2014/11/28 15:32:59	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_227_売場別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\IN01_LOTO_VIWKURSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURSS_売場別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKURS0>
+2014/11/28 15:33:01	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKURS0】データ変換完了しました！！
+
+2014/11/28 15:33:01	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 15:33:01	Std Output:	正常終了(DONE)
+
+2014/11/28 15:33:01	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 15:33:02	Std Output:	正常終了(DONE)
+
+2014/11/28 15:33:02	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIWKURS.exe<>
+2014/11/28 15:33:02	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 15:33:02	Std Output:	正常終了(DONE)
+
+2014/11/28 15:33:02	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_087_業者別ゲーム別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\出力データ\out01_LOTO_VIWKGGSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGGSS_業者別ゲーム別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGGSH>
+2014/11/28 15:33:04	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGGSH】データ変換完了しました！！
+
+2014/11/28 15:33:04	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_092_業者別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\出力データ\out01_LOTO_VIWKGYSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSS_業者別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGYSH>
+2014/11/28 15:33:06	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGYSH】データ変換完了しました！！
+
+2014/11/28 15:33:07	データ変換　処理終了　(convert)
+2014/11/28 15:34:14	データ変換　処理開始　(convert)
+2014/11/28 15:34:15	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_007_ゲーム).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS020\入力データ\LOTO_VIGAME.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGAME_ゲームファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0>
+2014/11/28 15:34:17	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0】データ変換完了しました！！
+
+2014/11/28 15:34:17	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 15:34:17	Std Output:	正常終了(DONE)
+
+2014/11/28 15:34:17	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 15:34:17	Std Output:	正常終了(DONE)
+
+2014/11/28 15:34:17	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGAME.exe<>
+2014/11/28 15:34:18	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 15:34:18	Std Output:	正常終了(DONE)
+
+2014/11/28 15:34:19	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_007_ゲーム).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS020\入力データ\LOTO_VIGAME.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGAME_ゲームファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0>
+2014/11/28 15:34:21	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0】データ変換完了しました！！
+
+2014/11/28 15:34:21	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 15:34:21	Std Output:	正常終了(DONE)
+
+2014/11/28 15:34:21	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 15:34:22	Std Output:	正常終了(DONE)
+
+2014/11/28 15:34:22	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGAME.exe<>
+2014/11/28 15:34:22	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 15:34:22	Std Output:	正常終了(DONE)
+
+2014/11/28 15:34:23	データ変換　処理終了　(convert)
+2014/11/28 15:34:37	データ変換　処理開始　(convert)
+2014/11/28 15:34:38	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_007_ゲーム).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS020\入力データ\LOTO_VIGAME.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGAME_ゲームファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0>
+2014/11/28 15:34:40	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0】データ変換完了しました！！
+
+2014/11/28 15:34:40	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 15:34:40	Std Output:	正常終了(DONE)
+
+2014/11/28 15:34:41	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 15:34:41	Std Output:	正常終了(DONE)
+
+2014/11/28 15:34:41	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGAME.exe<>
+2014/11/28 15:34:41	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 15:34:41	Std Output:	正常終了(DONE)
+
+2014/11/28 15:34:42	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_007_ゲーム).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS020\入力データ\LOTO_VIGAME.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGAME_ゲームファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0>
+2014/11/28 15:34:44	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0】データ変換完了しました！！
+
+2014/11/28 15:34:45	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 15:34:45	Std Output:	正常終了(DONE)
+
+2014/11/28 15:34:45	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 15:34:45	Std Output:	正常終了(DONE)
+
+2014/11/28 15:34:45	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGAME.exe<>
+2014/11/28 15:34:46	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 15:34:46	Std Output:	正常終了(DONE)
+
+2014/11/28 15:34:46	データ変換　処理終了　(convert)
+2014/11/28 15:38:46	データ変換　処理開始　(convert)
+2014/11/28 15:38:46	データ変換　処理終了　(convert)
+2014/11/28 15:38:47	デバッグ　処理開始　(debug)
+2014/11/28 15:38:47	デバッグ　処理終了　(debug)
+2014/11/28 15:38:47	実行　処理開始　(perform)
+2014/11/28 15:38:47	実行　処理終了　(perform)
+2014/11/28 15:38:47	　　　☆☆☆実行処理が正常に終了しました。☆☆☆　　　
+2014/11/28 15:38:47	結果出力　処理開始　(export)
+2014/11/28 15:38:47	結果出力　処理終了　(export)
+2014/11/28 15:38:48	　　　☆☆☆結果出力処理が正常に終了しました。☆☆☆　　　
+2014/11/28 15:38:48	データ変換　処理開始　(convert)
+2014/11/28 15:38:48	データ変換　処理終了　(convert)
+2014/11/28 15:38:48	データ変換　処理開始　(convert)
+2014/11/28 15:38:49	データ変換　処理終了　(convert)
+2014/11/28 15:38:49	デバッグ　処理開始　(debug)
+2014/11/28 15:38:49	デバッグ　処理終了　(debug)
+2014/11/28 15:38:49	データ変換　処理開始　(convert)
+2014/11/28 15:38:49	データ変換　処理終了　(convert)
+2014/11/28 15:38:50	デバッグ　処理開始　(debug)
+2014/11/28 15:38:50	デバッグ　処理終了　(debug)
+2014/11/28 15:38:50	データ変換　処理開始　(convert)
+2014/11/28 15:38:51	データ変換　処理終了　(convert)
+2014/11/28 15:38:51	データ変換　処理開始　(convert)
+2014/11/28 15:38:51	データ変換　処理終了　(convert)
+2014/11/28 15:38:52	データ変換　処理開始　(convert)
+2014/11/28 15:38:52	データ変換　処理終了　(convert)
+2014/11/28 15:38:52	データ変換　処理開始　(convert)
+2014/11/28 15:38:53	データ変換　処理終了　(convert)
+2014/11/28 15:38:53	データ変換　処理開始　(convert)
+2014/11/28 15:38:54	データ変換　処理終了　(convert)
+2014/11/28 15:38:56	データ変換　処理開始　(convert)
+2014/11/28 15:38:56	データ変換　処理終了　(convert)
+2014/11/28 15:38:57	データ変換　処理開始　(convert)
+2014/11/28 15:38:57	データ変換　処理終了　(convert)
+2014/11/28 15:38:58	データ変換　処理開始　(convert)
+2014/11/28 15:38:58	データ変換　処理終了　(convert)
+2014/11/28 15:38:58	データ変換　処理開始　(convert)
+2014/11/28 15:38:59	データ変換　処理終了　(convert)
+2014/11/28 15:38:59	データ変換　処理開始　(convert)
+2014/11/28 15:38:59	データ変換　処理終了　(convert)
+2014/11/28 15:39:00	データ変換　処理開始　(convert)
+2014/11/28 15:39:00	データ変換　処理終了　(convert)
+2014/11/28 15:39:00	データ変換　処理開始　(convert)
+2014/11/28 15:39:01	データ変換　処理終了　(convert)
+2014/11/28 15:39:01	データ変換　処理開始　(convert)
+2014/11/28 15:39:01	データ変換　処理終了　(convert)
+2014/11/28 15:39:02	データ変換　処理開始　(convert)
+2014/11/28 15:39:02	データ変換　処理終了　(convert)
+2014/11/28 15:39:03	データ変換　処理開始　(convert)
+2014/11/28 15:39:03	データ変換　処理終了　(convert)
+2014/11/28 15:39:03	データ変換　処理開始　(convert)
+2014/11/28 15:39:03	データ変換　処理終了　(convert)
+2014/11/28 15:39:04	データ変換　処理開始　(convert)
+2014/11/28 15:39:04	データ変換　処理終了　(convert)
+2014/11/28 15:39:04	データ変換　処理開始　(convert)
+2014/11/28 15:39:04	データ変換　処理終了　(convert)
+2014/11/28 15:39:05	データ変換　処理開始　(convert)
+2014/11/28 15:39:05	データ変換　処理終了　(convert)
+2014/11/28 15:39:05	実行　処理開始　(perform)
+2014/11/28 15:39:05	実行　処理終了　(perform)
+2014/11/28 15:39:05	　　　☆☆☆実行処理が正常に終了しました。☆☆☆　　　
+2014/11/28 15:39:05	結果出力　処理開始　(export)
+2014/11/28 15:39:06	結果出力　処理終了　(export)
+2014/11/28 15:39:06	取り消し　処理開始　(exportCancel)
+2014/11/28 15:39:06	取り消し　処理終了　(exportCancel)
+2014/11/28 15:39:06	　　　※※※結果出力処理がキャンセルされました。※※※　　　
+2014/11/28 15:39:07	デバッグ　処理開始　(debug)
+2014/11/28 15:39:07	デバッグが開始しました。
+2014/11/28 15:39:07	外部exe実行：cobAddDisplay.exe<\\10.169.71.236\構成管理\事前準備\COBOL85修正後\\HSAAL020.cob C:\Work\Projects\aat\aat\bin\Debug\PreWork\src\HSAAL020.cob>
+2014/11/28 15:39:07	外部exe実行：cobAddDisplay.exe<\\10.169.71.236\構成管理\事前準備\COBOL85修正後\\HRATS010.cob C:\Work\Projects\aat\aat\bin\Debug\PreWork\src\HRATS010.cob>
+2014/11/28 15:39:08	外部exe実行：cobAddDisplay.exe<\\10.169.71.236\構成管理\事前準備\COBOL85修正後\\HSAAL040.cob C:\Work\Projects\aat\aat\bin\Debug\PreWork\src\HSAAL040.cob>
+2014/11/28 15:39:08	外部exe実行：cobAddDisplay.exe<\\10.169.71.236\構成管理\事前準備\COBOL85修正後\\HSAAL060.cob C:\Work\Projects\aat\aat\bin\Debug\PreWork\src\HSAAL060.cob>
+2014/11/28 15:39:08	外部exe実行：cobAddDisplay.exe<\\10.169.71.236\構成管理\事前準備\COBOL85修正後\\HSAAL250.cob C:\Work\Projects\aat\aat\bin\Debug\PreWork\src\HSAAL250.cob>
+2014/11/28 15:39:08	外部exe実行：cobAddDisplay.exe<\\10.169.71.236\構成管理\事前準備\COBOL85修正後\\HBHUN370.cob C:\Work\Projects\aat\aat\bin\Debug\PreWork\src\HBHUN370.cob>
+2014/11/28 15:39:08	外部exe実行：CBL.EXE</M /Ccon /Dy /NOWARNING /O1 /IC:\Work\Cobol_分析\COPY\ /FeC:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\ HBHUN370.cob HSAAL020.cob HRATS010.cob HSAAL040.cob HSAAL060.cob HSAAL250.cob>
+2014/11/28 15:39:11	Std Output:COBOL85 Pro Version 8.7 
+(C) NEC Corporation 1998,2013
+HBHUN370.cob:
+    ***** ERROR SUMMARY LIST *****
+    00000  FATAL ERRORS
+    00000  WARNINGS
+    SUCCESSFULLY COMPILED
+HSAAL020.cob:
+    ***** ERROR SUMMARY LIST *****
+    00000  FATAL ERRORS
+    00000  WARNINGS
+    SUCCESSFULLY COMPILED
+HRATS010.cob:
+    ***** ERROR SUMMARY LIST *****
+    00000  FATAL ERRORS
+    00000  WARNINGS
+    SUCCESSFULLY COMPILED
+HSAAL040.cob:
+    ***** ERROR SUMMARY LIST *****
+    00000  FATAL ERRORS
+    00000  WARNINGS
+    SUCCESSFULLY COMPILED
+HSAAL060.cob:
+    ***** ERROR SUMMARY LIST *****
+    00000  FATAL ERRORS
+    00000  WARNINGS
+    SUCCESSFULLY COMPILED
+HSAAL250.cob:
+    ***** ERROR SUMMARY LIST *****
+    00000  FATAL ERRORS
+    00000  WARNINGS
+    SUCCESSFULLY COMPILED
+Microsoft (R) Windows (R) Resource Compiler Version 6.3.9600.17298
+Copyright (C) Microsoft Corporation.  All rights reserved.
+Microsoft (R) Incremental Linker Version 12.00.31101.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+/SUBSYSTEM:CONSOLE /ENTRY:mainCRTStartup "HBHUN370.obj" "HSAAL020.obj" "HRATS010.obj" "HSAAL040.obj" "HSAAL060.obj" "HSAAL250.obj" "C:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\HBHUN370.res" "/OUT:C:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\HBHUN370.exe" cblrt.lib cblrts.lib cblxml.lib msvcrt.lib kernel32.lib 
+Microsoft (R) Manifest Tool version 6.3.9600.17298
+Copyright (c) Microsoft Corporation 2012. 
+All rights reserved.
+
+2014/11/28 15:39:11	デバッグが終了しました。
+2014/11/28 15:39:11	デバッグ　処理終了　(debug)
+2014/11/28 15:39:11	データ変換　処理開始　(convert)
+2014/11/28 15:39:13	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_056_回号別精算表ワーク).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN370_20141118\出力データ\LOTO_SQWKAISS.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFWKAI_回号別精算表ワークファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN370-03\NEW\SQWKAISS_回号別精算表ワーク.csv>
+2014/11/28 15:39:15	Std Output:データ変換中........
+下記の項目：\\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFWKAI_回号別精算表ワークファイル.xlsx中に存在あり、\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_056_回号別精算表ワーク).xls中に存在なし。
+データ変換する後、下記の項目内容は初期化をされる。ご注意してください！
+************************************
+※予備1※
+※予備2※
+※予備3※
+※予備4※
+※予備5※
+コンビ支払回号
+口数１
+口数２
+口数３
+口数４
+口数５
+口数６
+口数７
+口数８
+口数９
+口数１０
+口数１１
+※予備２※
+※予備３※
+************************************
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN370-03\NEW\SQWKAISS_回号別精算表ワーク.csv】データ変換完了しました！！
+
+2014/11/28 15:39:18	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_097_金融機関別手数料変更ゲーム情報).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN370_20141125\HBHUN370-06\VITSGMKY.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFTSGM_金融機関別手数料変更ゲーム情報ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN370-06\変換前\SGMKY>
+2014/11/28 15:39:20	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN370-06\変換前\SGMKY】データ変換完了しました！！
+
+2014/11/28 15:39:20	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VITSGMKY.cfm>
+2014/11/28 15:39:20	Std Output:	正常終了(DONE)
+
+2014/11/28 15:39:20	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VITSGMKY.cfm>
+2014/11/28 15:39:20	Std Output:	正常終了(DONE)
+
+2014/11/28 15:39:20	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VITSGMKY.exe<>
+2014/11/28 15:39:21	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VITSGMKY.cfm>
+2014/11/28 15:39:21	Std Output:	正常終了(DONE)
+
+2014/11/28 15:39:23	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_090_業者別精算表).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_RQGYOSSN.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSS_業者別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSSN>
+2014/11/28 15:39:26	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSSN】データ変換完了しました！！
+
+2014/11/28 15:39:26	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 15:39:26	Std Output:	正常終了(DONE)
+
+2014/11/28 15:39:26	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 15:39:26	Std Output:	正常終了(DONE)
+
+2014/11/28 15:39:26	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_RQGYOSSN.exe<>
+2014/11/28 15:39:27	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 15:39:27	Std Output:	正常終了(DONE)
+
+2014/11/28 15:39:27	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_081_業者).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VIGYOSYA.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSA_業者ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSYA>
+2014/11/28 15:39:30	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSYA】データ変換完了しました！！
+
+2014/11/28 15:39:30	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 15:39:30	Std Output:	正常終了(DONE)
+
+2014/11/28 15:39:30	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 15:39:30	Std Output:	正常終了(DONE)
+
+2014/11/28 15:39:30	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGYOSYA.exe<>
+2014/11/28 15:39:31	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 15:39:31	Std Output:	正常終了(DONE)
+
+2014/11/28 15:39:31	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VIURIBA.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIURIBA0>
+2014/11/28 15:39:39	Std Output:データ変換中........
+下記の項目：\\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx中に存在あり、\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls中に存在なし。
+データ変換する後、下記の項目内容は初期化をされる。ご注意してください！
+************************************
+発売ゲームタイプ1
+発売ブロックコード1
+発売ゲームタイプ2
+発売ブロックコード2
+発売ゲームタイプ3
+発売ブロックコード3
+発売ゲームタイプ4
+発売ブロックコード4
+発売ゲームタイプ5
+発売ブロックコード5
+発売ゲームタイプ6
+発売ブロックコード6
+発売ゲームタイプ7
+発売ブロックコード7
+発売ゲームタイプ8
+発売ブロックコード8
+発売ゲームタイプ9
+発売ブロックコード9
+発売ゲームタイプ10
+発売ブロックコード10
+発売ゲームタイプ11
+発売ブロックコード11
+発売ゲームタイプ12
+発売ブロックコード12
+発売ゲームタイプ13
+発売ブロックコード13
+発売ゲームタイプ14
+発売ブロックコード14
+発売ゲームタイプ15
+発売ブロックコード15
+発売ゲームタイプ16
+発売ブロックコード16
+発売ゲームタイプ17
+発売ブロックコード17
+発売ゲームタイプ18
+発売ブロックコード18
+発売ゲームタイプ19
+発売ブロックコード19
+発売ゲームタイプ20
+発売ブロックコード20
+発売ゲームタイプ21
+発売ブロックコード21
+発売ゲームタイプ22
+発売ブロックコード22
+発売ゲームタイプ23
+発売ブロックコード23
+発売ゲームタイプ24
+発売ブロックコード24
+発売ゲームタイプ25
+発売ブロックコード25
+発売ゲームタイプ26
+発売ブロックコード26
+発売ゲームタイプ27
+発売ブロックコード27
+発売ゲームタイプ28
+発売ブロックコード28
+発売ゲームタイプ29
+発売ブロックコード29
+発売ゲームタイプ30
+発売ブロックコード30
+発売ゲームタイプ31
+発売ブロックコード31
+発売ゲームタイプ32
+発売ブロックコード32
+発売ゲームタイプ33
+発売ブロックコード33
+発売ゲームタイプ34
+発売ブロックコード34
+発売ゲームタイプ35
+発売ブロックコード35
+発売ゲームタイプ36
+発売ブロックコード36
+発売ゲームタイプ37
+発売ブロックコード37
+発売ゲームタイプ38
+発売ブロックコード38
+発売ゲームタイプ39
+発売ブロックコード39
+発売ゲームタイプ40
+発売ブロックコード40
+発売ゲームタイプ41
+発売ブロックコード41
+発売ゲームタイプ42
+発売ブロックコード42
+発売ゲームタイプ43
+発売ブロックコード43
+発売ゲームタイプ44
+発売ブロックコード44
+発売ゲームタイプ45
+発売ブロックコード45
+発売ゲームタイプ46
+発売ブロックコード46
+発売ゲームタイプ47
+発売ブロックコード47
+発売ゲームタイプ48
+発売ブロックコード48
+発売ゲームタイプ49
+発売ブロックコード49
+発売ゲームタイプ50
+発売ブロックコード50
+発売ゲームタイプ51
+発売ブロックコード51
+発売ゲームタイプ52
+発売ブロックコード52
+発売ゲームタイプ53
+発売ブロックコード53
+発売ゲームタイプ54
+発売ブロックコード54
+発売ゲームタイプ55
+発売ブロックコード55
+発売ゲームタイプ56
+発売ブロックコード56
+発売ゲームタイプ57
+発売ブロックコード57
+発売ゲームタイプ58
+発売ブロックコード58
+発売ゲームタイプ59
+発売ブロックコード59
+発売ゲームタイプ60
+発売ブロックコード60
+発売ゲームタイプ61
+発売ブロックコード61
+発売ゲームタイプ62
+発売ブロックコード62
+発売ゲームタイプ63
+発売ブロックコード63
+発売ゲームタイプ64
+発売ブロックコード64
+************************************
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIURIBA0】データ変換完了しました！！
+
+2014/11/28 15:39:40	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:39:40	Std Output:	正常終了(DONE)
+
+2014/11/28 15:39:40	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:39:40	Std Output:	正常終了(DONE)
+
+2014/11/28 15:39:40	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIURIBA.exe<>
+2014/11/28 15:39:40	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:39:41	Std Output:	正常終了(DONE)
+
+2014/11/28 15:39:41	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_037_運用管理1).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VRUNYKAN1.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUNK1_運用管理ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\INPUT\VRUNYKAN>
+2014/11/28 15:39:43	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\INPUT\VRUNYKAN】データ変換完了しました！！
+
+2014/11/28 15:39:43	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_037_運用管理1).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\aaa.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUNK1_運用管理ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYSSGM>
+2014/11/28 15:39:45	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYSSGM】データ変換完了しました！！
+
+2014/11/28 15:39:46	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 15:39:46	Std Output:	正常終了(DONE)
+
+2014/11/28 15:39:46	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 15:39:46	Std Output:	正常終了(DONE)
+
+2014/11/28 15:39:46	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_RQGYSSGM.exe<>
+2014/11/28 15:39:47	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 15:39:47	Std Output:	正常終了(DONE)
+
+2014/11/28 15:39:47	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_220_売場別ゲーム別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\IN01_LOTO_VIWKUGSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUGSS_売場別ゲーム別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKUGS0>
+2014/11/28 15:39:49	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKUGS0】データ変換完了しました！！
+
+2014/11/28 15:39:49	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 15:39:49	Std Output:	正常終了(DONE)
+
+2014/11/28 15:39:49	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 15:39:49	Std Output:	正常終了(DONE)
+
+2014/11/28 15:39:49	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIWKUGS.exe<>
+2014/11/28 15:39:50	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 15:39:50	Std Output:	正常終了(DONE)
+
+2014/11/28 15:39:50	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_227_売場別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\IN01_LOTO_VIWKURSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURSS_売場別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKURS0>
+2014/11/28 15:39:52	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKURS0】データ変換完了しました！！
+
+2014/11/28 15:39:52	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 15:39:52	Std Output:	正常終了(DONE)
+
+2014/11/28 15:39:53	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 15:39:53	Std Output:	正常終了(DONE)
+
+2014/11/28 15:39:53	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIWKURS.exe<>
+2014/11/28 15:39:53	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 15:39:53	Std Output:	正常終了(DONE)
+
+2014/11/28 15:39:53	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_087_業者別ゲーム別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\出力データ\out01_LOTO_VIWKGGSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGGSS_業者別ゲーム別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGGSH>
+2014/11/28 15:39:55	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGGSH】データ変換完了しました！！
+
+2014/11/28 15:39:55	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_092_業者別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\出力データ\out01_LOTO_VIWKGYSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSS_業者別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGYSH>
+2014/11/28 15:39:58	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGYSH】データ変換完了しました！！
+
+2014/11/28 15:39:59	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_090_業者別精算表).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_RQGYOSSN.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSS_業者別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-02\変換前\GYOSSN>
+2014/11/28 15:40:01	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-02\変換前\GYOSSN】データ変換完了しました！！
+
+2014/11/28 15:40:01	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 15:40:01	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:01	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 15:40:01	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:01	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_RQGYOSSN.exe<>
+2014/11/28 15:40:02	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 15:40:02	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:02	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_081_業者).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VIGYOSYA.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSA_業者ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-02\変換前\GYOSYA>
+2014/11/28 15:40:04	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-02\変換前\GYOSYA】データ変換完了しました！！
+
+2014/11/28 15:40:05	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 15:40:05	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:05	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 15:40:05	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:05	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGYOSYA.exe<>
+2014/11/28 15:40:05	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 15:40:06	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:06	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VIURIBA.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-02\変換前\VIURIBA0>
+2014/11/28 15:40:13	Std Output:データ変換中........
+下記の項目：\\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx中に存在あり、\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls中に存在なし。
+データ変換する後、下記の項目内容は初期化をされる。ご注意してください！
+************************************
+発売ゲームタイプ1
+発売ブロックコード1
+発売ゲームタイプ2
+発売ブロックコード2
+発売ゲームタイプ3
+発売ブロックコード3
+発売ゲームタイプ4
+発売ブロックコード4
+発売ゲームタイプ5
+発売ブロックコード5
+発売ゲームタイプ6
+発売ブロックコード6
+発売ゲームタイプ7
+発売ブロックコード7
+発売ゲームタイプ8
+発売ブロックコード8
+発売ゲームタイプ9
+発売ブロックコード9
+発売ゲームタイプ10
+発売ブロックコード10
+発売ゲームタイプ11
+発売ブロックコード11
+発売ゲームタイプ12
+発売ブロックコード12
+発売ゲームタイプ13
+発売ブロックコード13
+発売ゲームタイプ14
+発売ブロックコード14
+発売ゲームタイプ15
+発売ブロックコード15
+発売ゲームタイプ16
+発売ブロックコード16
+発売ゲームタイプ17
+発売ブロックコード17
+発売ゲームタイプ18
+発売ブロックコード18
+発売ゲームタイプ19
+発売ブロックコード19
+発売ゲームタイプ20
+発売ブロックコード20
+発売ゲームタイプ21
+発売ブロックコード21
+発売ゲームタイプ22
+発売ブロックコード22
+発売ゲームタイプ23
+発売ブロックコード23
+発売ゲームタイプ24
+発売ブロックコード24
+発売ゲームタイプ25
+発売ブロックコード25
+発売ゲームタイプ26
+発売ブロックコード26
+発売ゲームタイプ27
+発売ブロックコード27
+発売ゲームタイプ28
+発売ブロックコード28
+発売ゲームタイプ29
+発売ブロックコード29
+発売ゲームタイプ30
+発売ブロックコード30
+発売ゲームタイプ31
+発売ブロックコード31
+発売ゲームタイプ32
+発売ブロックコード32
+発売ゲームタイプ33
+発売ブロックコード33
+発売ゲームタイプ34
+発売ブロックコード34
+発売ゲームタイプ35
+発売ブロックコード35
+発売ゲームタイプ36
+発売ブロックコード36
+発売ゲームタイプ37
+発売ブロックコード37
+発売ゲームタイプ38
+発売ブロックコード38
+発売ゲームタイプ39
+発売ブロックコード39
+発売ゲームタイプ40
+発売ブロックコード40
+発売ゲームタイプ41
+発売ブロックコード41
+発売ゲームタイプ42
+発売ブロックコード42
+発売ゲームタイプ43
+発売ブロックコード43
+発売ゲームタイプ44
+発売ブロックコード44
+発売ゲームタイプ45
+発売ブロックコード45
+発売ゲームタイプ46
+発売ブロックコード46
+発売ゲームタイプ47
+発売ブロックコード47
+発売ゲームタイプ48
+発売ブロックコード48
+発売ゲームタイプ49
+発売ブロックコード49
+発売ゲームタイプ50
+発売ブロックコード50
+発売ゲームタイプ51
+発売ブロックコード51
+発売ゲームタイプ52
+発売ブロックコード52
+発売ゲームタイプ53
+発売ブロックコード53
+発売ゲームタイプ54
+発売ブロックコード54
+発売ゲームタイプ55
+発売ブロックコード55
+発売ゲームタイプ56
+発売ブロックコード56
+発売ゲームタイプ57
+発売ブロックコード57
+発売ゲームタイプ58
+発売ブロックコード58
+発売ゲームタイプ59
+発売ブロックコード59
+発売ゲームタイプ60
+発売ブロックコード60
+発売ゲームタイプ61
+発売ブロックコード61
+発売ゲームタイプ62
+発売ブロックコード62
+発売ゲームタイプ63
+発売ブロックコード63
+発売ゲームタイプ64
+発売ブロックコード64
+************************************
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-02\変換前\VIURIBA0】データ変換完了しました！！
+
+2014/11/28 15:40:13	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:40:13	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:13	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:40:13	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:13	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIURIBA.exe<>
+2014/11/28 15:40:14	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:40:14	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:14	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_037_運用管理1).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VRUNYKAN1.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUNK1_運用管理ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-02\INPUT\VRUNYKAN>
+2014/11/28 15:40:17	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-02\INPUT\VRUNYKAN】データ変換完了しました！！
+
+2014/11/28 15:40:17	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_037_運用管理1).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\aaa.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUNK1_運用管理ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-02\変換前\GYSSGM>
+2014/11/28 15:40:18	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-02\変換前\GYSSGM】データ変換完了しました！！
+
+2014/11/28 15:40:19	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 15:40:19	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:19	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 15:40:19	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:19	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_RQGYSSGM.exe<>
+2014/11/28 15:40:20	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 15:40:20	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:20	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_220_売場別ゲーム別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\IN02_LOTO_VIWKUGSG.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUGSS_売場別ゲーム別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-02\変換前\VIWKUGS0>
+2014/11/28 15:40:22	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-02\変換前\VIWKUGS0】データ変換完了しました！！
+
+2014/11/28 15:40:22	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 15:40:22	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:22	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 15:40:22	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:22	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIWKUGS.exe<>
+2014/11/28 15:40:23	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 15:40:23	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:23	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_227_売場別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\IN02_LOTO_VIWKURSG.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURSS_売場別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-02\変換前\VIWKURS0>
+2014/11/28 15:40:25	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-02\変換前\VIWKURS0】データ変換完了しました！！
+
+2014/11/28 15:40:25	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 15:40:25	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:25	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 15:40:25	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:25	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIWKURS.exe<>
+2014/11/28 15:40:26	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 15:40:26	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:26	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_087_業者別ゲーム別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\出力データ\out02_LOTO_VIWKGGSG.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGGSS_業者別ゲーム別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-02\OUTPUT\VIWKGGSG>
+2014/11/28 15:40:28	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-02\OUTPUT\VIWKGGSG】データ変換完了しました！！
+
+2014/11/28 15:40:28	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_092_業者別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\出力データ\out02_LOTO_VIWKGYSG.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSS_業者別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-02\OUTPUT\VIWKGYSG>
+2014/11/28 15:40:30	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-02\OUTPUT\VIWKGYSG】データ変換完了しました！！
+
+2014/11/28 15:40:32	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_153_団体別精算表).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN360\入力データ\01_LOTO_RQDANSSN.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFDASS~CFDAPT_団体別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN360-01\変換前\DANSSN>
+2014/11/28 15:40:34	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN360-01\変換前\DANSSN】データ変換完了しました！！
+
+2014/11/28 15:40:35	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQDANSSN.cfm>
+2014/11/28 15:40:35	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:35	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\RQDANSSN.cfm>
+2014/11/28 15:40:35	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:35	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_RQDANSSN.exe<>
+2014/11/28 15:40:36	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQDANSSN.cfm>
+2014/11/28 15:40:36	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:36	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_154_団体別精算表ワーク).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN360\入力データ\01_LOTO_SQWDNSSN.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFWDNS_団体別精算表ワークファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN360-01\INPUT\SQWDNSSN>
+2014/11/28 15:40:38	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN360-01\INPUT\SQWDNSSN】データ変換完了しました！！
+
+2014/11/28 15:40:38	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_156_団体別納付情報更新履歴).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN360\入力データ\01_LOTO_VINFRKDN.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFRKDN_団体別納付情報更新履歴ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN360-01\変換前\NFRKDN>
+2014/11/28 15:40:39	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN360-01\変換前\NFRKDN】データ変換完了しました！！
+
+2014/11/28 15:40:40	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VINFRKDN.cfm>
+2014/11/28 15:40:40	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:40	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VINFRKDN.cfm>
+2014/11/28 15:40:40	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:40	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VINFRKDN.exe<>
+2014/11/28 15:40:41	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VINFRKDN.cfm>
+2014/11/28 15:40:41	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:41	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_153_団体別精算表).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN360\出力データ\01_LOTO_VIWKDNSN.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFDASS_団体別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN360-01\変換前\WKDNSN>
+2014/11/28 15:40:42	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN360-01\変換前\WKDNSN】データ変換完了しました！！
+
+2014/11/28 15:40:43	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKDNSN.cfm>
+2014/11/28 15:40:43	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:43	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIWKDNSN.cfm>
+2014/11/28 15:40:43	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:43	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIWKDNSN.exe<>
+2014/11/28 15:40:44	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKDNSN.cfm>
+2014/11/28 15:40:44	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:45	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_153_団体別精算表).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN360\入力データ\02_LOTO_RQDANSSN.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFDASS~CFDAPT_団体別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN360-02\変換前\DANSSN>
+2014/11/28 15:40:47	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN360-02\変換前\DANSSN】データ変換完了しました！！
+
+2014/11/28 15:40:47	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQDANSSN.cfm>
+2014/11/28 15:40:47	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:47	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\RQDANSSN.cfm>
+2014/11/28 15:40:47	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:47	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_RQDANSSN.exe<>
+2014/11/28 15:40:48	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQDANSSN.cfm>
+2014/11/28 15:40:48	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:48	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_154_団体別精算表ワーク).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN360\入力データ\02_LOTO_SQWDNSSN.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFWDNS_団体別精算表ワークファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN360-02\INPUT\SQWDNSSN>
+2014/11/28 15:40:50	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN360-02\INPUT\SQWDNSSN】データ変換完了しました！！
+
+2014/11/28 15:40:50	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_156_団体別納付情報更新履歴).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN360\入力データ\02_LOTO_VINFRKDN.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFRKDN_団体別納付情報更新履歴ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN360-02\変換前\NFRKDN>
+2014/11/28 15:40:52	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN360-02\変換前\NFRKDN】データ変換完了しました！！
+
+2014/11/28 15:40:52	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VINFRKDN.cfm>
+2014/11/28 15:40:52	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:52	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VINFRKDN.cfm>
+2014/11/28 15:40:52	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:52	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VINFRKDN.exe<>
+2014/11/28 15:40:53	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VINFRKDN.cfm>
+2014/11/28 15:40:53	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:53	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_153_団体別精算表).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN360\出力データ\02_LOTO_VIWKDNSN.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFDASS_団体別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN360-02\変換前\WKDNSN>
+2014/11/28 15:40:55	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN360-02\変換前\WKDNSN】データ変換完了しました！！
+
+2014/11/28 15:40:55	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKDNSN.cfm>
+2014/11/28 15:40:55	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:55	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIWKDNSN.cfm>
+2014/11/28 15:40:55	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:56	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIWKDNSN.exe<>
+2014/11/28 15:40:56	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKDNSN.cfm>
+2014/11/28 15:40:56	Std Output:	正常終了(DONE)
+
+2014/11/28 15:40:57	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_153_団体別精算表).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN360\入力データ\03_LOTO_RQDANSSN.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFDASS~CFDAPT_団体別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN360-03\変換前\DANSSN>
+2014/11/28 15:40:59	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN360-03\変換前\DANSSN】データ変換完了しました！！
+
+2014/11/28 15:41:00	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQDANSSN.cfm>
+2014/11/28 15:41:00	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:00	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\RQDANSSN.cfm>
+2014/11/28 15:41:00	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:00	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_RQDANSSN.exe<>
+2014/11/28 15:41:01	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQDANSSN.cfm>
+2014/11/28 15:41:01	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:01	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_154_団体別精算表ワーク).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN360\入力データ\03_LOTO_SQWDNSSN.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFWDNS_団体別精算表ワークファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN360-03\INPUT\SQWDNSSN>
+2014/11/28 15:41:02	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN360-03\INPUT\SQWDNSSN】データ変換完了しました！！
+
+2014/11/28 15:41:02	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_156_団体別納付情報更新履歴).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN360\入力データ\03_LOTO_VINFRKDN.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFRKDN_団体別納付情報更新履歴ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN360-03\変換前\NFRKDN>
+2014/11/28 15:41:04	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN360-03\変換前\NFRKDN】データ変換完了しました！！
+
+2014/11/28 15:41:04	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VINFRKDN.cfm>
+2014/11/28 15:41:04	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:05	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VINFRKDN.cfm>
+2014/11/28 15:41:05	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:05	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VINFRKDN.exe<>
+2014/11/28 15:41:05	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VINFRKDN.cfm>
+2014/11/28 15:41:05	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:05	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_153_団体別精算表).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN360\出力データ\03_LOTO_VIWKDNSN.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFDASS_団体別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN360-03\変換前\WKDNSN>
+2014/11/28 15:41:07	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN360-03\変換前\WKDNSN】データ変換完了しました！！
+
+2014/11/28 15:41:07	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKDNSN.cfm>
+2014/11/28 15:41:07	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:08	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIWKDNSN.cfm>
+2014/11/28 15:41:08	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:08	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIWKDNSN.exe<>
+2014/11/28 15:41:08	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKDNSN.cfm>
+2014/11/28 15:41:08	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:11	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_007_ゲーム).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS020\入力データ\LOTO_VIGAME.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGAME_ゲームファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0>
+2014/11/28 15:41:13	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0】データ変換完了しました！！
+
+2014/11/28 15:41:13	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 15:41:13	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:13	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 15:41:14	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:14	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGAME.exe<>
+2014/11/28 15:41:14	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 15:41:15	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:15	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_055_回号別精算表).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN350_20141119\出力データ\after_LOTO_VIWKKASN.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFKAIS_回号別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN350-01\変換前2\WKKASN>
+2014/11/28 15:41:33	'ConvertData.exe \\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_055_回号別精算表).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN350_20141119\出力データ\after_LOTO_VIWKKASN.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFKAIS_回号別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN350-01\変換前2\WKKASN' finished with exit code = -532462766: 
+ハンドルされていない例外: System.InvalidCastException: String "2014/01/01" から型 'Long' への変換は無効です。 ---> System.FormatException: 入力文字列の形式が正しくありません。
+   場所 Microsoft.VisualBasic.CompilerServices.Conversions.ParseDecimal(String Value, NumberFormatInfo NumberFormat)
+   場所 Microsoft.VisualBasic.CompilerServices.Conversions.ToLong(String Value)
+   --- 内部例外スタック トレースの終わり ---
+   場所 Microsoft.VisualBasic.CompilerServices.Conversions.ToLong(String Value)
+   場所 データ変換ツール.datachange.chartoComp3(String DecSrc, Int32 PackSize, String Bikou)
+   場所 データ変換ツール.datachange.dataCgn()
+   場所 データ変換ツール.datachange.main(String[] arg)
+
+Std output:
+データ変換中........
+
+
+2014/11/28 15:41:34	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKKASN.cfm>
+2014/11/28 15:41:34	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:34	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIWKKASN.cfm>
+2014/11/28 15:41:35	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:35	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIWKKASN.exe<>
+2014/11/28 15:41:35	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKKASN.cfm>
+2014/11/28 15:41:35	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:35	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_061_回号別販売チャネル別精算表).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN350_20141119\出力データ\after_LOTO_VIWKKSCH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFKSCH_回号別販売チャネル別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN350-01\変換前2\WKKSCH>
+2014/11/28 15:41:38	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN350-01\変換前2\WKKSCH】データ変換完了しました！！
+
+2014/11/28 15:41:38	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKKSCH.cfm>
+2014/11/28 15:41:38	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:38	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIWKKSCH.cfm>
+2014/11/28 15:41:38	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:38	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIWKKSCH.exe<>
+2014/11/28 15:41:39	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKKSCH.cfm>
+2014/11/28 15:41:39	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:40	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_029_バッチ起動管理).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS240\入力データ\01_LOTO_VRBCHKID.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFBCHK_バッチ起動管理ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS240-01\INPUT\VRBCHKID>
+2014/11/28 15:41:42	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS240-01\INPUT\VRBCHKID】データ変換完了しました！！
+
+2014/11/28 15:41:43	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_029_バッチ起動管理).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS240\入力データ\02_LOTO_VRBCHKID.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFBCHK_バッチ起動管理ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS240-02\INPUT\VRBCHKID>
+2014/11/28 15:41:45	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS240-02\INPUT\VRBCHKID】データ変換完了しました！！
+
+2014/11/28 15:41:45	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_037_運用管理1).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS240\入力データ\02_LOTO_VRUNYKAN1.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUNK1_運用管理ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS240-02\INPUT\VRUNYKAN>
+2014/11/28 15:41:48	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS240-02\INPUT\VRUNYKAN】データ変換完了しました！！
+
+2014/11/28 15:41:48	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_077_基本料基準値).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS240\入力データ\02_LOTO_VIKHRKZT.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFKHKZ_基本料基準値ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS240-02\変換前\KHRKZT>
+2014/11/28 15:41:50	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS240-02\変換前\KHRKZT】データ変換完了しました！！
+
+2014/11/28 15:41:50	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIKHRKZT.cfm>
+2014/11/28 15:41:50	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:50	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIKHRKZT.cfm>
+2014/11/28 15:41:51	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:51	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIKHRKZT.exe<>
+2014/11/28 15:41:51	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIKHRKZT.cfm>
+2014/11/28 15:41:51	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:51	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_081_業者).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS240\入力データ\02_LOTO_VIGYOSYA.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSA_業者ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS240-02\変換前\GYOSYA>
+2014/11/28 15:41:54	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS240-02\変換前\GYOSYA】データ変換完了しました！！
+
+2014/11/28 15:41:54	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 15:41:54	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:54	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 15:41:55	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:55	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGYOSYA.exe<>
+2014/11/28 15:41:55	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 15:41:55	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:55	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_143_精算履歴).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS240\入力データ\02_LOTO_VISRIREK.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFSSRR_精算履歴ファイル(精算日付(1)).xlsx C:\Work\temp\Work_データ加工\Test\HBHSS240-02\変換前\SRIREK>
+2014/11/28 15:41:58	Std Output:データ変換中........
+下記の項目：\\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFSSRR_精算履歴ファイル(精算日付(1)).xlsx中に存在あり、\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_143_精算履歴).xls中に存在なし。
+データ変換する後、下記の項目内容は初期化をされる。ご注意してください！
+************************************
+格納数
+精算日付2
+精算日付3
+精算日付4
+精算日付5
+精算日付6
+精算日付7
+精算日付8
+精算日付9
+精算日付10
+精算日付11
+精算日付12
+精算日付13
+精算日付14
+精算日付15
+精算日付16
+精算日付17
+精算日付18
+精算日付19
+精算日付20
+精算日付21
+精算日付22
+精算日付23
+精算日付24
+精算日付25
+精算日付26
+精算日付27
+精算日付28
+精算日付29
+精算日付30
+精算日付31
+************************************
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS240-02\変換前\SRIREK】データ変換完了しました！！
+
+2014/11/28 15:41:58	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VISRIREK.cfm>
+2014/11/28 15:41:58	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:58	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VISRIREK.cfm>
+2014/11/28 15:41:58	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:59	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VISRIREK.exe<>
+2014/11/28 15:41:59	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VISRIREK.cfm>
+2014/11/28 15:41:59	Std Output:	正常終了(DONE)
+
+2014/11/28 15:41:59	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_151_端末基本料情報).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS240\入力データ\02_LOTO_VIKHRZYO.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFKIJY_端末基本料情報ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS240-02\変換前\KHRZYO>
+2014/11/28 15:42:01	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS240-02\変換前\KHRZYO】データ変換完了しました！！
+
+2014/11/28 15:42:02	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIKHRZYO.cfm>
+2014/11/28 15:42:02	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:02	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIKHRZYO.cfm>
+2014/11/28 15:42:02	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:02	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIKHRZYO.exe<>
+2014/11/28 15:42:03	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIKHRZYO.cfm>
+2014/11/28 15:42:03	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:03	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_157_地域).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS240\入力データ\02_LOTO_VIADDRES.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFADRS_地域ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS240-02\変換前\ADDRES>
+2014/11/28 15:42:05	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS240-02\変換前\ADDRES】データ変換完了しました！！
+
+2014/11/28 15:42:05	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIADDRES.cfm>
+2014/11/28 15:42:05	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:05	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIADDRES.cfm>
+2014/11/28 15:42:05	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:05	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIADDRES.exe<>
+2014/11/28 15:42:06	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIADDRES.cfm>
+2014/11/28 15:42:06	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:06	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS240\入力データ\02_LOTO_VIURIBA.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS240-02\変換前\VIURIBA0>
+2014/11/28 15:42:14	Std Output:データ変換中........
+下記の項目：\\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx中に存在あり、\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls中に存在なし。
+データ変換する後、下記の項目内容は初期化をされる。ご注意してください！
+************************************
+発売ゲームタイプ1
+発売ブロックコード1
+発売ゲームタイプ2
+発売ブロックコード2
+発売ゲームタイプ3
+発売ブロックコード3
+発売ゲームタイプ4
+発売ブロックコード4
+発売ゲームタイプ5
+発売ブロックコード5
+発売ゲームタイプ6
+発売ブロックコード6
+発売ゲームタイプ7
+発売ブロックコード7
+発売ゲームタイプ8
+発売ブロックコード8
+発売ゲームタイプ9
+発売ブロックコード9
+発売ゲームタイプ10
+発売ブロックコード10
+発売ゲームタイプ11
+発売ブロックコード11
+発売ゲームタイプ12
+発売ブロックコード12
+発売ゲームタイプ13
+発売ブロックコード13
+発売ゲームタイプ14
+発売ブロックコード14
+発売ゲームタイプ15
+発売ブロックコード15
+発売ゲームタイプ16
+発売ブロックコード16
+発売ゲームタイプ17
+発売ブロックコード17
+発売ゲームタイプ18
+発売ブロックコード18
+発売ゲームタイプ19
+発売ブロックコード19
+発売ゲームタイプ20
+発売ブロックコード20
+発売ゲームタイプ21
+発売ブロックコード21
+発売ゲームタイプ22
+発売ブロックコード22
+発売ゲームタイプ23
+発売ブロックコード23
+発売ゲームタイプ24
+発売ブロックコード24
+発売ゲームタイプ25
+発売ブロックコード25
+発売ゲームタイプ26
+発売ブロックコード26
+発売ゲームタイプ27
+発売ブロックコード27
+発売ゲームタイプ28
+発売ブロックコード28
+発売ゲームタイプ29
+発売ブロックコード29
+発売ゲームタイプ30
+発売ブロックコード30
+発売ゲームタイプ31
+発売ブロックコード31
+発売ゲームタイプ32
+発売ブロックコード32
+発売ゲームタイプ33
+発売ブロックコード33
+発売ゲームタイプ34
+発売ブロックコード34
+発売ゲームタイプ35
+発売ブロックコード35
+発売ゲームタイプ36
+発売ブロックコード36
+発売ゲームタイプ37
+発売ブロックコード37
+発売ゲームタイプ38
+発売ブロックコード38
+発売ゲームタイプ39
+発売ブロックコード39
+発売ゲームタイプ40
+発売ブロックコード40
+発売ゲームタイプ41
+発売ブロックコード41
+発売ゲームタイプ42
+発売ブロックコード42
+発売ゲームタイプ43
+発売ブロックコード43
+発売ゲームタイプ44
+発売ブロックコード44
+発売ゲームタイプ45
+発売ブロックコード45
+発売ゲームタイプ46
+発売ブロックコード46
+発売ゲームタイプ47
+発売ブロックコード47
+発売ゲームタイプ48
+発売ブロックコード48
+発売ゲームタイプ49
+発売ブロックコード49
+発売ゲームタイプ50
+発売ブロックコード50
+発売ゲームタイプ51
+発売ブロックコード51
+発売ゲームタイプ52
+発売ブロックコード52
+発売ゲームタイプ53
+発売ブロックコード53
+発売ゲームタイプ54
+発売ブロックコード54
+発売ゲームタイプ55
+発売ブロックコード55
+発売ゲームタイプ56
+発売ブロックコード56
+発売ゲームタイプ57
+発売ブロックコード57
+発売ゲームタイプ58
+発売ブロックコード58
+発売ゲームタイプ59
+発売ブロックコード59
+発売ゲームタイプ60
+発売ブロックコード60
+発売ゲームタイプ61
+発売ブロックコード61
+発売ゲームタイプ62
+発売ブロックコード62
+発売ゲームタイプ63
+発売ブロックコード63
+発売ゲームタイプ64
+発売ブロックコード64
+************************************
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS240-02\変換前\VIURIBA0】データ変換完了しました！！
+
+2014/11/28 15:42:14	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:42:15	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:15	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:42:15	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:15	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIURIBA.exe<>
+2014/11/28 15:42:15	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:42:16	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:16	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_149_端末基本料ワーク).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS240\出力データ\02_LOTO_SQWKHNRK.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFWKHN_端末基本料ワークファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS240-02\NEW\SQWKHNRK>
+2014/11/28 15:42:17	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS240-02\NEW\SQWKHNRK】データ変換完了しました！！
+
+2014/11/28 15:42:21	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_037_運用管理1).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN551\入力データ\LOTO_VRUNYKAN1(運用管理1).csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUNK1_運用管理ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN551-03\INPUT\VRUNYKAN>
+2014/11/28 15:42:23	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN551-03\INPUT\VRUNYKAN】データ変換完了しました！！
+
+2014/11/28 15:42:23	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_081_業者).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN551\入力データ\03_インターネット販売入力VIGYOSYA.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSA_業者ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN551-03\変換前\GYOSYA>
+2014/11/28 15:42:25	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN551-03\変換前\GYOSYA】データ変換完了しました！！
+
+2014/11/28 15:42:26	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 15:42:26	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:26	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 15:42:27	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:27	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGYOSYA.exe<>
+2014/11/28 15:42:27	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 15:42:27	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:27	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_265_世代別運用管理(ゲーム終了状態)共通).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN551\入力データ\tmp.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFSUK1_世代別運用管理ファイル(共通部).xlsx C:\Work\temp\Work_データ加工\Test\HBHUN551-03\INPUT\VRSEUNKN_共通部>
+2014/11/28 15:42:29	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN551-03\INPUT\VRSEUNKN_共通部】データ変換完了しました！！
+
+2014/11/28 15:42:29	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_134_世代別運用管理(ゲーム終了状態)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN551\入力データ\03_インターネット販売入力VRSEUNKN1.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFSUK1_世代別運用管理ファイル(第二部分).xlsx C:\Work\temp\Work_データ加工\Test\HBHUN551-03\INPUT\VRSEUNKN_世帯区分２>
+2014/11/28 15:42:31	Std Output:データ変換中........
+下記の項目：\\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFSUK1_世代別運用管理ファイル(第二部分).xlsx中に存在あり、\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_134_世代別運用管理(ゲーム終了状態)).xls中に存在なし。
+データ変換する後、下記の項目内容は初期化をされる。ご注意してください！
+************************************
+ブロックコード
+Ｇ別障害取消Ｓ
+Ｇ別同期完了Ｓ
+************************************
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN551-03\INPUT\VRSEUNKN_世帯区分２】データ変換完了しました！！
+
+2014/11/28 15:42:31	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_134_世代別運用管理(ゲーム終了状態)第三部分).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN551\入力データ\tmp.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFSUK1_世代別運用管理ファイル(第三部分).xlsx C:\Work\temp\Work_データ加工\Test\HBHUN551-03\INPUT\VRSEUNKN_第三部分>
+2014/11/28 15:42:33	Std Output:データ変換中........
+下記の項目：\\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFSUK1_世代別運用管理ファイル(第三部分).xlsx中に存在あり、\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_134_世代別運用管理(ゲーム終了状態)第三部分).xls中に存在なし。
+データ変換する後、下記の項目内容は初期化をされる。ご注意してください！
+************************************
+ＳＵＫ１販売チャネルコード1
+ＳＵＫ１Ｃ別全ＦＣ終了Ｓ1
+ＳＵＫ１Ｃ別障害取消Ｓ1
+ＳＵＫ１Ｃ別同期完了Ｓ1
+ＳＵＫ１販売チャネルコード2
+ＳＵＫ１Ｃ別全ＦＣ終了Ｓ2
+ＳＵＫ１Ｃ別障害取消Ｓ2
+ＳＵＫ１Ｃ別同期完了Ｓ2
+ＳＵＫ１販売チャネルコード3
+ＳＵＫ１Ｃ別全ＦＣ終了Ｓ3
+ＳＵＫ１Ｃ別障害取消Ｓ3
+ＳＵＫ１Ｃ別同期完了Ｓ3
+ＳＵＫ１販売チャネルコード4
+ＳＵＫ１Ｃ別全ＦＣ終了Ｓ4
+ＳＵＫ１Ｃ別障害取消Ｓ4
+ＳＵＫ１Ｃ別同期完了Ｓ4
+ＳＵＫ１販売チャネルコード5
+ＳＵＫ１Ｃ別全ＦＣ終了Ｓ5
+ＳＵＫ１Ｃ別障害取消Ｓ5
+ＳＵＫ１Ｃ別同期完了Ｓ5
+ＳＵＫ１販売チャネルコード6
+ＳＵＫ１Ｃ別全ＦＣ終了Ｓ6
+ＳＵＫ１Ｃ別障害取消Ｓ6
+ＳＵＫ１Ｃ別同期完了Ｓ6
+ＳＵＫ１販売チャネルコード7
+ＳＵＫ１Ｃ別全ＦＣ終了Ｓ7
+ＳＵＫ１Ｃ別障害取消Ｓ7
+ＳＵＫ１Ｃ別同期完了Ｓ7
+ＳＵＫ１販売チャネルコード8
+ＳＵＫ１Ｃ別全ＦＣ終了Ｓ8
+ＳＵＫ１Ｃ別障害取消Ｓ8
+ＳＵＫ１Ｃ別同期完了Ｓ8
+ＳＵＫ１販売チャネルコード9
+ＳＵＫ１Ｃ別全ＦＣ終了Ｓ9
+ＳＵＫ１Ｃ別障害取消Ｓ9
+ＳＵＫ１Ｃ別同期完了Ｓ9
+ＳＵＫ１販売チャネルコード10
+ＳＵＫ１Ｃ別全ＦＣ終了Ｓ10
+ＳＵＫ１Ｃ別障害取消Ｓ10
+ＳＵＫ１Ｃ別同期完了Ｓ10
+************************************
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN551-03\INPUT\VRSEUNKN_第三部分】データ変換完了しました！！
+
+2014/11/28 15:42:33	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_229_売場別売上ワーク).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN551\入力データ\03_インターネット販売入力SQWURIUR.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFWUBU_売場別売上ワークファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN551-03\INPUT\SQWHURCH>
+2014/11/28 15:42:35	Std Output:データ変換中........
+下記の項目：\\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFWUBU_売場別売上ワークファイル.xlsx中に存在あり、\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_229_売場別売上ワーク).xls中に存在なし。
+データ変換する後、下記の項目内容は初期化をされる。ご注意してください！
+************************************
+※予備※
+************************************
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN551-03\INPUT\SQWHURCH】データ変換完了しました！！
+
+2014/11/28 15:42:35	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN551\入力データ\03_インターネット販売入力VIURIBA.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN551-03\変換前\VIURIBA0>
+2014/11/28 15:42:43	Std Output:データ変換中........
+下記の項目：\\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx中に存在あり、\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls中に存在なし。
+データ変換する後、下記の項目内容は初期化をされる。ご注意してください！
+************************************
+発売ゲームタイプ1
+発売ブロックコード1
+発売ゲームタイプ2
+発売ブロックコード2
+発売ゲームタイプ3
+発売ブロックコード3
+発売ゲームタイプ4
+発売ブロックコード4
+発売ゲームタイプ5
+発売ブロックコード5
+発売ゲームタイプ6
+発売ブロックコード6
+発売ゲームタイプ7
+発売ブロックコード7
+発売ゲームタイプ8
+発売ブロックコード8
+発売ゲームタイプ9
+発売ブロックコード9
+発売ゲームタイプ10
+発売ブロックコード10
+発売ゲームタイプ11
+発売ブロックコード11
+発売ゲームタイプ12
+発売ブロックコード12
+発売ゲームタイプ13
+発売ブロックコード13
+発売ゲームタイプ14
+発売ブロックコード14
+発売ゲームタイプ15
+発売ブロックコード15
+発売ゲームタイプ16
+発売ブロックコード16
+発売ゲームタイプ17
+発売ブロックコード17
+発売ゲームタイプ18
+発売ブロックコード18
+発売ゲームタイプ19
+発売ブロックコード19
+発売ゲームタイプ20
+発売ブロックコード20
+発売ゲームタイプ21
+発売ブロックコード21
+発売ゲームタイプ22
+発売ブロックコード22
+発売ゲームタイプ23
+発売ブロックコード23
+発売ゲームタイプ24
+発売ブロックコード24
+発売ゲームタイプ25
+発売ブロックコード25
+発売ゲームタイプ26
+発売ブロックコード26
+発売ゲームタイプ27
+発売ブロックコード27
+発売ゲームタイプ28
+発売ブロックコード28
+発売ゲームタイプ29
+発売ブロックコード29
+発売ゲームタイプ30
+発売ブロックコード30
+発売ゲームタイプ31
+発売ブロックコード31
+発売ゲームタイプ32
+発売ブロックコード32
+発売ゲームタイプ33
+発売ブロックコード33
+発売ゲームタイプ34
+発売ブロックコード34
+発売ゲームタイプ35
+発売ブロックコード35
+発売ゲームタイプ36
+発売ブロックコード36
+発売ゲームタイプ37
+発売ブロックコード37
+発売ゲームタイプ38
+発売ブロックコード38
+発売ゲームタイプ39
+発売ブロックコード39
+発売ゲームタイプ40
+発売ブロックコード40
+発売ゲームタイプ41
+発売ブロックコード41
+発売ゲームタイプ42
+発売ブロックコード42
+発売ゲームタイプ43
+発売ブロックコード43
+発売ゲームタイプ44
+発売ブロックコード44
+発売ゲームタイプ45
+発売ブロックコード45
+発売ゲームタイプ46
+発売ブロックコード46
+発売ゲームタイプ47
+発売ブロックコード47
+発売ゲームタイプ48
+発売ブロックコード48
+発売ゲームタイプ49
+発売ブロックコード49
+発売ゲームタイプ50
+発売ブロックコード50
+発売ゲームタイプ51
+発売ブロックコード51
+発売ゲームタイプ52
+発売ブロックコード52
+発売ゲームタイプ53
+発売ブロックコード53
+発売ゲームタイプ54
+発売ブロックコード54
+発売ゲームタイプ55
+発売ブロックコード55
+発売ゲームタイプ56
+発売ブロックコード56
+発売ゲームタイプ57
+発売ブロックコード57
+発売ゲームタイプ58
+発売ブロックコード58
+発売ゲームタイプ59
+発売ブロックコード59
+発売ゲームタイプ60
+発売ブロックコード60
+発売ゲームタイプ61
+発売ブロックコード61
+発売ゲームタイプ62
+発売ブロックコード62
+発売ゲームタイプ63
+発売ブロックコード63
+発売ゲームタイプ64
+発売ブロックコード64
+************************************
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN551-03\変換前\VIURIBA0】データ変換完了しました！！
+
+2014/11/28 15:42:43	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:42:43	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:44	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:42:44	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:44	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIURIBA.exe<>
+2014/11/28 15:42:44	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:42:44	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:44	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_234_発売開始ゲーム).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN551\入力データ\tmp.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFKAGM_発売開始ゲームファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN551-03\変換前\KASGMA>
+2014/11/28 15:42:46	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN551-03\変換前\KASGMA】データ変換完了しました！！
+
+2014/11/28 15:42:46	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIKASGMA.cfm>
+2014/11/28 15:42:47	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:47	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIKASGMA.cfm>
+2014/11/28 15:42:47	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:47	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIKASGMA.exe<>
+2014/11/28 15:42:47	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIKASGMA.cfm>
+2014/11/28 15:42:48	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:48	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_234_発売開始ゲーム).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN551\入力データ\03_インターネット販売入力VIKASGM.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFKAGM_発売開始ゲームファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN551-03\変換前\KASGMB>
+2014/11/28 15:42:49	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN551-03\変換前\KASGMB】データ変換完了しました！！
+
+2014/11/28 15:42:50	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIKASGMB.cfm>
+2014/11/28 15:42:50	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:50	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIKASGMB.cfm>
+2014/11/28 15:42:50	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:50	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIKASGMB.exe<>
+2014/11/28 15:42:51	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIKASGMB.cfm>
+2014/11/28 15:42:51	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:51	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_199_日別販売チャネル別売上累計).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN551\出力データ\03_インターネット販売出力beforeVIHCHNUR.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFHCHN_日別販売チャネル別売上累計ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN551-03\変換前\HCHNUR>
+2014/11/28 15:42:52	Std Output:データ変換中........
+下記の項目：\\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFHCHN_日別販売チャネル別売上累計ファイル.xlsx中に存在あり、\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_199_日別販売チャネル別売上累計).xls中に存在なし。
+データ変換する後、下記の項目内容は初期化をされる。ご注意してください！
+************************************
+※予備※
+************************************
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN551-03\変換前\HCHNUR】データ変換完了しました！！
+
+2014/11/28 15:42:53	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIHCHNUR.cfm>
+2014/11/28 15:42:53	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:53	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIHCHNUR.cfm>
+2014/11/28 15:42:53	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:53	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIHCHNUR.exe<>
+2014/11/28 15:42:54	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIHCHNUR.cfm>
+2014/11/28 15:42:54	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:54	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_238_販売チャネル別売上累計).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN551\出力データ\03_インターネット販売出力beforeVICHNURI.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFCHUR_販売チャネル別売上累計ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN551-03\変換前\CHNURI>
+2014/11/28 15:42:56	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN551-03\変換前\CHNURI】データ変換完了しました！！
+
+2014/11/28 15:42:56	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VICHNURI.cfm>
+2014/11/28 15:42:56	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:56	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VICHNURI.cfm>
+2014/11/28 15:42:56	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:56	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VICHNURI.exe<>
+2014/11/28 15:42:57	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VICHNURI.cfm>
+2014/11/28 15:42:57	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:57	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_199_日別販売チャネル別売上累計).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN551\出力データ\03_インターネット販売出力afterVIHCHNUR.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFHCHN_日別販売チャネル別売上累計ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN551-03\変換前2\HCHNUR>
+2014/11/28 15:42:59	Std Output:データ変換中........
+下記の項目：\\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFHCHN_日別販売チャネル別売上累計ファイル.xlsx中に存在あり、\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_199_日別販売チャネル別売上累計).xls中に存在なし。
+データ変換する後、下記の項目内容は初期化をされる。ご注意してください！
+************************************
+※予備※
+************************************
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN551-03\変換前2\HCHNUR】データ変換完了しました！！
+
+2014/11/28 15:42:59	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIHCHNUR.cfm>
+2014/11/28 15:42:59	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:59	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIHCHNUR.cfm>
+2014/11/28 15:42:59	Std Output:	正常終了(DONE)
+
+2014/11/28 15:42:59	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIHCHNUR.exe<>
+2014/11/28 15:43:00	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIHCHNUR.cfm>
+2014/11/28 15:43:00	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:00	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_238_販売チャネル別売上累計).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN551\出力データ\03_インターネット販売出力afterVICHNURI.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFCHUR_販売チャネル別売上累計ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN551-03\変換前2\CHNURI>
+2014/11/28 15:43:02	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN551-03\変換前2\CHNURI】データ変換完了しました！！
+
+2014/11/28 15:43:02	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VICHNURI.cfm>
+2014/11/28 15:43:02	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:02	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VICHNURI.cfm>
+2014/11/28 15:43:02	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:02	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VICHNURI.exe<>
+2014/11/28 15:43:03	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VICHNURI.cfm>
+2014/11/28 15:43:03	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:04	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_007_ゲーム).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS020\入力データ\LOTO_VIGAME.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGAME_ゲームファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0>
+2014/11/28 15:43:06	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0】データ変換完了しました！！
+
+2014/11/28 15:43:06	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 15:43:06	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:07	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 15:43:07	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:07	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGAME.exe<>
+2014/11/28 15:43:07	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 15:43:08	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:09	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_037_運用管理1).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS180\入力データ\01_入力データVRUNYKAN1.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUNK1_運用管理ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS180-01\INPUT\VRUNYKAN>
+2014/11/28 15:43:11	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS180-01\INPUT\VRUNYKAN】データ変換完了しました！！
+
+2014/11/28 15:43:12	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_077_基本料基準値).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS180\入力データ\01_入力データVIKHRKZT.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFKHKZ_基本料基準値ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS180-01\変換前\KHRKZT>
+2014/11/28 15:43:13	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS180-01\変換前\KHRKZT】データ変換完了しました！！
+
+2014/11/28 15:43:14	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIKHRKZT.cfm>
+2014/11/28 15:43:14	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:14	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIKHRKZT.cfm>
+2014/11/28 15:43:14	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:14	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIKHRKZT.exe<>
+2014/11/28 15:43:15	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIKHRKZT.cfm>
+2014/11/28 15:43:15	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:15	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_143_精算履歴).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS180\入力データ\01_入力データVISRIREK.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFSSRR_精算履歴ファイル(精算日付(1)).xlsx C:\Work\temp\Work_データ加工\Test\HBHSS180-01\変換前\SRIREK>
+2014/11/28 15:43:17	Std Output:データ変換中........
+下記の項目：\\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFSSRR_精算履歴ファイル(精算日付(1)).xlsx中に存在あり、\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_143_精算履歴).xls中に存在なし。
+データ変換する後、下記の項目内容は初期化をされる。ご注意してください！
+************************************
+格納数
+精算日付2
+精算日付3
+精算日付4
+精算日付5
+精算日付6
+精算日付7
+精算日付8
+精算日付9
+精算日付10
+精算日付11
+精算日付12
+精算日付13
+精算日付14
+精算日付15
+精算日付16
+精算日付17
+精算日付18
+精算日付19
+精算日付20
+精算日付21
+精算日付22
+精算日付23
+精算日付24
+精算日付25
+精算日付26
+精算日付27
+精算日付28
+精算日付29
+精算日付30
+精算日付31
+************************************
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS180-01\変換前\SRIREK】データ変換完了しました！！
+
+2014/11/28 15:43:17	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VISRIREK.cfm>
+2014/11/28 15:43:17	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:18	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VISRIREK.cfm>
+2014/11/28 15:43:18	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:18	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VISRIREK.exe<>
+2014/11/28 15:43:18	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VISRIREK.cfm>
+2014/11/28 15:43:19	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:19	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS180\入力データ\01_入力データVIURIBA.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS180-01\変換前\VIURIBA0>
+2014/11/28 15:43:25	Std Output:データ変換中........
+下記の項目：\\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx中に存在あり、\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls中に存在なし。
+データ変換する後、下記の項目内容は初期化をされる。ご注意してください！
+************************************
+発売ゲームタイプ1
+発売ブロックコード1
+発売ゲームタイプ2
+発売ブロックコード2
+発売ゲームタイプ3
+発売ブロックコード3
+発売ゲームタイプ4
+発売ブロックコード4
+発売ゲームタイプ5
+発売ブロックコード5
+発売ゲームタイプ6
+発売ブロックコード6
+発売ゲームタイプ7
+発売ブロックコード7
+発売ゲームタイプ8
+発売ブロックコード8
+発売ゲームタイプ9
+発売ブロックコード9
+発売ゲームタイプ10
+発売ブロックコード10
+発売ゲームタイプ11
+発売ブロックコード11
+発売ゲームタイプ12
+発売ブロックコード12
+発売ゲームタイプ13
+発売ブロックコード13
+発売ゲームタイプ14
+発売ブロックコード14
+発売ゲームタイプ15
+発売ブロックコード15
+発売ゲームタイプ16
+発売ブロックコード16
+発売ゲームタイプ17
+発売ブロックコード17
+発売ゲームタイプ18
+発売ブロックコード18
+発売ゲームタイプ19
+発売ブロックコード19
+発売ゲームタイプ20
+発売ブロックコード20
+発売ゲームタイプ21
+発売ブロックコード21
+発売ゲームタイプ22
+発売ブロックコード22
+発売ゲームタイプ23
+発売ブロックコード23
+発売ゲームタイプ24
+発売ブロックコード24
+発売ゲームタイプ25
+発売ブロックコード25
+発売ゲームタイプ26
+発売ブロックコード26
+発売ゲームタイプ27
+発売ブロックコード27
+発売ゲームタイプ28
+発売ブロックコード28
+発売ゲームタイプ29
+発売ブロックコード29
+発売ゲームタイプ30
+発売ブロックコード30
+発売ゲームタイプ31
+発売ブロックコード31
+発売ゲームタイプ32
+発売ブロックコード32
+発売ゲームタイプ33
+発売ブロックコード33
+発売ゲームタイプ34
+発売ブロックコード34
+発売ゲームタイプ35
+発売ブロックコード35
+発売ゲームタイプ36
+発売ブロックコード36
+発売ゲームタイプ37
+発売ブロックコード37
+発売ゲームタイプ38
+発売ブロックコード38
+発売ゲームタイプ39
+発売ブロックコード39
+発売ゲームタイプ40
+発売ブロックコード40
+発売ゲームタイプ41
+発売ブロックコード41
+発売ゲームタイプ42
+発売ブロックコード42
+発売ゲームタイプ43
+発売ブロックコード43
+発売ゲームタイプ44
+発売ブロックコード44
+発売ゲームタイプ45
+発売ブロックコード45
+発売ゲームタイプ46
+発売ブロックコード46
+発売ゲームタイプ47
+発売ブロックコード47
+発売ゲームタイプ48
+発売ブロックコード48
+発売ゲームタイプ49
+発売ブロックコード49
+発売ゲームタイプ50
+発売ブロックコード50
+発売ゲームタイプ51
+発売ブロックコード51
+発売ゲームタイプ52
+発売ブロックコード52
+発売ゲームタイプ53
+発売ブロックコード53
+発売ゲームタイプ54
+発売ブロックコード54
+発売ゲームタイプ55
+発売ブロックコード55
+発売ゲームタイプ56
+発売ブロックコード56
+発売ゲームタイプ57
+発売ブロックコード57
+発売ゲームタイプ58
+発売ブロックコード58
+発売ゲームタイプ59
+発売ブロックコード59
+発売ゲームタイプ60
+発売ブロックコード60
+発売ゲームタイプ61
+発売ブロックコード61
+発売ゲームタイプ62
+発売ブロックコード62
+発売ゲームタイプ63
+発売ブロックコード63
+発売ゲームタイプ64
+発売ブロックコード64
+************************************
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS180-01\変換前\VIURIBA0】データ変換完了しました！！
+
+2014/11/28 15:43:25	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:43:25	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:25	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:43:25	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:25	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIURIBA.exe<>
+2014/11/28 15:43:26	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:43:26	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:26	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_243_翌日ゲーム情報ワーク).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS180\入力データ\01_入力データSQWYKGMJ.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFWYG1_翌日ゲーム情報ワークファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS180-01\INPUT\SQWYKGMJ>
+2014/11/28 15:43:28	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS180-01\INPUT\SQWYKGMJ】データ変換完了しました！！
+
+2014/11/28 15:43:28	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_151_端末基本料情報).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS180\出力データ\01_出力データbeforeVIKHRZYO.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFKIJY_端末基本料情報ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS180-01\変換前\KHRZYO>
+2014/11/28 15:43:30	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS180-01\変換前\KHRZYO】データ変換完了しました！！
+
+2014/11/28 15:43:30	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIKHRZYO.cfm>
+2014/11/28 15:43:30	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:30	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIKHRZYO.cfm>
+2014/11/28 15:43:30	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:31	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIKHRZYO.exe<>
+2014/11/28 15:43:31	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIKHRZYO.cfm>
+2014/11/28 15:43:31	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:31	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_151_端末基本料情報).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS180\出力データ\01_出力データafterVIKHRZYO.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFKIJY_端末基本料情報ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS180-01\変換前2\KHRZYO>
+2014/11/28 15:43:33	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS180-01\変換前2\KHRZYO】データ変換完了しました！！
+
+2014/11/28 15:43:34	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIKHRZYO.cfm>
+2014/11/28 15:43:34	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:34	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIKHRZYO.cfm>
+2014/11/28 15:43:34	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:34	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIKHRZYO.exe<>
+2014/11/28 15:43:34	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIKHRZYO.cfm>
+2014/11/28 15:43:35	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:37	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_037_運用管理1).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS180\入力データ\02_入力データVRUNYKAN1.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUNK1_運用管理ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS180-02\INPUT\VRUNYKAN>
+2014/11/28 15:43:40	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS180-02\INPUT\VRUNYKAN】データ変換完了しました！！
+
+2014/11/28 15:43:40	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_077_基本料基準値).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS180\入力データ\02_入力データVIKHRKZT.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFKHKZ_基本料基準値ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS180-02\変換前\KHRKZT>
+2014/11/28 15:43:41	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS180-02\変換前\KHRKZT】データ変換完了しました！！
+
+2014/11/28 15:43:42	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIKHRKZT.cfm>
+2014/11/28 15:43:42	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:42	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIKHRKZT.cfm>
+2014/11/28 15:43:42	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:42	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIKHRKZT.exe<>
+2014/11/28 15:43:43	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIKHRKZT.cfm>
+2014/11/28 15:43:43	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:43	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_143_精算履歴).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS180\入力データ\02_入力データVISRIREK.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFSSRR_精算履歴ファイル(精算日付(1)).xlsx C:\Work\temp\Work_データ加工\Test\HBHSS180-02\変換前\SRIREK>
+2014/11/28 15:43:45	Std Output:データ変換中........
+下記の項目：\\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFSSRR_精算履歴ファイル(精算日付(1)).xlsx中に存在あり、\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_143_精算履歴).xls中に存在なし。
+データ変換する後、下記の項目内容は初期化をされる。ご注意してください！
+************************************
+格納数
+精算日付2
+精算日付3
+精算日付4
+精算日付5
+精算日付6
+精算日付7
+精算日付8
+精算日付9
+精算日付10
+精算日付11
+精算日付12
+精算日付13
+精算日付14
+精算日付15
+精算日付16
+精算日付17
+精算日付18
+精算日付19
+精算日付20
+精算日付21
+精算日付22
+精算日付23
+精算日付24
+精算日付25
+精算日付26
+精算日付27
+精算日付28
+精算日付29
+精算日付30
+精算日付31
+************************************
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS180-02\変換前\SRIREK】データ変換完了しました！！
+
+2014/11/28 15:43:46	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VISRIREK.cfm>
+2014/11/28 15:43:46	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:46	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VISRIREK.cfm>
+2014/11/28 15:43:46	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:46	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VISRIREK.exe<>
+2014/11/28 15:43:47	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VISRIREK.cfm>
+2014/11/28 15:43:47	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:47	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS180\入力データ\02_入力データVIURIBA.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS180-02\変換前\VIURIBA0>
+2014/11/28 15:43:52	Std Output:データ変換中........
+下記の項目：\\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx中に存在あり、\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls中に存在なし。
+データ変換する後、下記の項目内容は初期化をされる。ご注意してください！
+************************************
+発売ゲームタイプ1
+発売ブロックコード1
+発売ゲームタイプ2
+発売ブロックコード2
+発売ゲームタイプ3
+発売ブロックコード3
+発売ゲームタイプ4
+発売ブロックコード4
+発売ゲームタイプ5
+発売ブロックコード5
+発売ゲームタイプ6
+発売ブロックコード6
+発売ゲームタイプ7
+発売ブロックコード7
+発売ゲームタイプ8
+発売ブロックコード8
+発売ゲームタイプ9
+発売ブロックコード9
+発売ゲームタイプ10
+発売ブロックコード10
+発売ゲームタイプ11
+発売ブロックコード11
+発売ゲームタイプ12
+発売ブロックコード12
+発売ゲームタイプ13
+発売ブロックコード13
+発売ゲームタイプ14
+発売ブロックコード14
+発売ゲームタイプ15
+発売ブロックコード15
+発売ゲームタイプ16
+発売ブロックコード16
+発売ゲームタイプ17
+発売ブロックコード17
+発売ゲームタイプ18
+発売ブロックコード18
+発売ゲームタイプ19
+発売ブロックコード19
+発売ゲームタイプ20
+発売ブロックコード20
+発売ゲームタイプ21
+発売ブロックコード21
+発売ゲームタイプ22
+発売ブロックコード22
+発売ゲームタイプ23
+発売ブロックコード23
+発売ゲームタイプ24
+発売ブロックコード24
+発売ゲームタイプ25
+発売ブロックコード25
+発売ゲームタイプ26
+発売ブロックコード26
+発売ゲームタイプ27
+発売ブロックコード27
+発売ゲームタイプ28
+発売ブロックコード28
+発売ゲームタイプ29
+発売ブロックコード29
+発売ゲームタイプ30
+発売ブロックコード30
+発売ゲームタイプ31
+発売ブロックコード31
+発売ゲームタイプ32
+発売ブロックコード32
+発売ゲームタイプ33
+発売ブロックコード33
+発売ゲームタイプ34
+発売ブロックコード34
+発売ゲームタイプ35
+発売ブロックコード35
+発売ゲームタイプ36
+発売ブロックコード36
+発売ゲームタイプ37
+発売ブロックコード37
+発売ゲームタイプ38
+発売ブロックコード38
+発売ゲームタイプ39
+発売ブロックコード39
+発売ゲームタイプ40
+発売ブロックコード40
+発売ゲームタイプ41
+発売ブロックコード41
+発売ゲームタイプ42
+発売ブロックコード42
+発売ゲームタイプ43
+発売ブロックコード43
+発売ゲームタイプ44
+発売ブロックコード44
+発売ゲームタイプ45
+発売ブロックコード45
+発売ゲームタイプ46
+発売ブロックコード46
+発売ゲームタイプ47
+発売ブロックコード47
+発売ゲームタイプ48
+発売ブロックコード48
+発売ゲームタイプ49
+発売ブロックコード49
+発売ゲームタイプ50
+発売ブロックコード50
+発売ゲームタイプ51
+発売ブロックコード51
+発売ゲームタイプ52
+発売ブロックコード52
+発売ゲームタイプ53
+発売ブロックコード53
+発売ゲームタイプ54
+発売ブロックコード54
+発売ゲームタイプ55
+発売ブロックコード55
+発売ゲームタイプ56
+発売ブロックコード56
+発売ゲームタイプ57
+発売ブロックコード57
+発売ゲームタイプ58
+発売ブロックコード58
+発売ゲームタイプ59
+発売ブロックコード59
+発売ゲームタイプ60
+発売ブロックコード60
+発売ゲームタイプ61
+発売ブロックコード61
+発売ゲームタイプ62
+発売ブロックコード62
+発売ゲームタイプ63
+発売ブロックコード63
+発売ゲームタイプ64
+発売ブロックコード64
+************************************
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS180-02\変換前\VIURIBA0】データ変換完了しました！！
+
+2014/11/28 15:43:53	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:43:53	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:53	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:43:53	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:53	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIURIBA.exe<>
+2014/11/28 15:43:54	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:43:54	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:54	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_243_翌日ゲーム情報ワーク).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS180\入力データ\02_入力データSQWYKGMJ.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFWYG1_翌日ゲーム情報ワークファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS180-02\INPUT\SQWYKGMJ>
+2014/11/28 15:43:56	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS180-02\INPUT\SQWYKGMJ】データ変換完了しました！！
+
+2014/11/28 15:43:56	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_151_端末基本料情報).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS180\出力データ\02_出力データbeforeVIKHRZYO.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFKIJY_端末基本料情報ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS180-02\変換前\KHRZYO>
+2014/11/28 15:43:57	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS180-02\変換前\KHRZYO】データ変換完了しました！！
+
+2014/11/28 15:43:58	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIKHRZYO.cfm>
+2014/11/28 15:43:58	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:58	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIKHRZYO.cfm>
+2014/11/28 15:43:58	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:58	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIKHRZYO.exe<>
+2014/11/28 15:43:59	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIKHRZYO.cfm>
+2014/11/28 15:43:59	Std Output:	正常終了(DONE)
+
+2014/11/28 15:43:59	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_151_端末基本料情報).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS180\出力データ\02_出力データafterVIKHRZYO.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFKIJY_端末基本料情報ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS180-02\変換前2\KHRZYO>
+2014/11/28 15:44:01	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS180-02\変換前2\KHRZYO】データ変換完了しました！！
+
+2014/11/28 15:44:01	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIKHRZYO.cfm>
+2014/11/28 15:44:01	Std Output:	正常終了(DONE)
+
+2014/11/28 15:44:01	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIKHRZYO.cfm>
+2014/11/28 15:44:01	Std Output:	正常終了(DONE)
+
+2014/11/28 15:44:01	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIKHRZYO.exe<>
+2014/11/28 15:44:02	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIKHRZYO.cfm>
+2014/11/28 15:44:02	Std Output:	正常終了(DONE)
+
+2014/11/28 15:44:03	データ変換　処理終了　(convert)
+2014/11/28 15:44:17	データ変換　処理開始　(convert)
+2014/11/28 15:44:17	データ変換　処理終了　(convert)
+2014/11/28 15:44:18	データ変換　処理開始　(convert)
+2014/11/28 15:44:19	データ変換　処理終了　(convert)
+2014/11/28 15:44:23	結果出力　処理開始　(export)
+2014/11/28 15:44:23	結果出力　処理終了　(export)
+2014/11/28 15:44:24	　　　☆☆☆結果出力処理が正常に終了しました。☆☆☆　　　
+2014/11/28 15:44:25	結果出力　処理開始　(export)
+2014/11/28 15:44:26	結果出力　処理終了　(export)
+2014/11/28 15:44:26	　　　☆☆☆結果出力処理が正常に終了しました。☆☆☆　　　
+2014/11/28 15:44:27	実行　処理開始　(perform)
+2014/11/28 15:44:28	実行　処理終了　(perform)
+2014/11/28 15:44:28	　　　☆☆☆実行処理が正常に終了しました。☆☆☆　　　
+2014/11/28 15:44:28	結果出力　処理開始　(export)
+2014/11/28 15:44:28	結果出力　処理終了　(export)
+2014/11/28 15:44:29	　　　☆☆☆結果出力処理が正常に終了しました。☆☆☆　　　
+2014/11/28 15:44:30	実行　処理開始　(perform)
+2014/11/28 15:44:30	実行　処理終了　(perform)
+2014/11/28 15:44:30	　　　☆☆☆実行処理が正常に終了しました。☆☆☆　　　
+2014/11/28 15:44:30	結果出力　処理開始　(export)
+2014/11/28 15:44:30	結果出力　処理終了　(export)
+2014/11/28 15:44:31	　　　☆☆☆結果出力処理が正常に終了しました。☆☆☆　　　
+2014/11/28 15:44:43	デバッグ　処理開始　(debug)
+2014/11/28 15:44:43	デバッグ　処理終了　(debug)
+2014/11/28 15:44:49	データ変換　処理開始　(convert)
+2014/11/28 15:44:49	データ変換　処理終了　(convert)
+2014/11/28 15:45:45	データ変換　処理開始　(convert)
+2014/11/28 15:45:45	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_090_業者別精算表).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_RQGYOSSN.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSS_業者別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSSN>
+2014/11/28 15:45:47	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSSN】データ変換完了しました！！
+
+2014/11/28 15:45:48	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 15:45:48	Std Output:	正常終了(DONE)
+
+2014/11/28 15:45:48	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 15:45:48	Std Output:	正常終了(DONE)
+
+2014/11/28 15:45:48	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_RQGYOSSN.exe<>
+2014/11/28 15:45:49	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 15:45:49	Std Output:	正常終了(DONE)
+
+2014/11/28 15:45:49	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_081_業者).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VIGYOSYA.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSA_業者ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSYA>
+2014/11/28 15:45:51	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSYA】データ変換完了しました！！
+
+2014/11/28 15:45:51	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 15:45:51	Std Output:	正常終了(DONE)
+
+2014/11/28 15:45:51	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 15:45:52	Std Output:	正常終了(DONE)
+
+2014/11/28 15:45:52	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGYOSYA.exe<>
+2014/11/28 15:45:52	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 15:45:52	Std Output:	正常終了(DONE)
+
+2014/11/28 15:45:52	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VIURIBA.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIURIBA0>
+2014/11/28 15:45:58	Std Output:データ変換中........
+下記の項目：\\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx中に存在あり、\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls中に存在なし。
+データ変換する後、下記の項目内容は初期化をされる。ご注意してください！
+************************************
+発売ゲームタイプ1
+発売ブロックコード1
+発売ゲームタイプ2
+発売ブロックコード2
+発売ゲームタイプ3
+発売ブロックコード3
+発売ゲームタイプ4
+発売ブロックコード4
+発売ゲームタイプ5
+発売ブロックコード5
+発売ゲームタイプ6
+発売ブロックコード6
+発売ゲームタイプ7
+発売ブロックコード7
+発売ゲームタイプ8
+発売ブロックコード8
+発売ゲームタイプ9
+発売ブロックコード9
+発売ゲームタイプ10
+発売ブロックコード10
+発売ゲームタイプ11
+発売ブロックコード11
+発売ゲームタイプ12
+発売ブロックコード12
+発売ゲームタイプ13
+発売ブロックコード13
+発売ゲームタイプ14
+発売ブロックコード14
+発売ゲームタイプ15
+発売ブロックコード15
+発売ゲームタイプ16
+発売ブロックコード16
+発売ゲームタイプ17
+発売ブロックコード17
+発売ゲームタイプ18
+発売ブロックコード18
+発売ゲームタイプ19
+発売ブロックコード19
+発売ゲームタイプ20
+発売ブロックコード20
+発売ゲームタイプ21
+発売ブロックコード21
+発売ゲームタイプ22
+発売ブロックコード22
+発売ゲームタイプ23
+発売ブロックコード23
+発売ゲームタイプ24
+発売ブロックコード24
+発売ゲームタイプ25
+発売ブロックコード25
+発売ゲームタイプ26
+発売ブロックコード26
+発売ゲームタイプ27
+発売ブロックコード27
+発売ゲームタイプ28
+発売ブロックコード28
+発売ゲームタイプ29
+発売ブロックコード29
+発売ゲームタイプ30
+発売ブロックコード30
+発売ゲームタイプ31
+発売ブロックコード31
+発売ゲームタイプ32
+発売ブロックコード32
+発売ゲームタイプ33
+発売ブロックコード33
+発売ゲームタイプ34
+発売ブロックコード34
+発売ゲームタイプ35
+発売ブロックコード35
+発売ゲームタイプ36
+発売ブロックコード36
+発売ゲームタイプ37
+発売ブロックコード37
+発売ゲームタイプ38
+発売ブロックコード38
+発売ゲームタイプ39
+発売ブロックコード39
+発売ゲームタイプ40
+発売ブロックコード40
+発売ゲームタイプ41
+発売ブロックコード41
+発売ゲームタイプ42
+発売ブロックコード42
+発売ゲームタイプ43
+発売ブロックコード43
+発売ゲームタイプ44
+発売ブロックコード44
+発売ゲームタイプ45
+発売ブロックコード45
+発売ゲームタイプ46
+発売ブロックコード46
+発売ゲームタイプ47
+発売ブロックコード47
+発売ゲームタイプ48
+発売ブロックコード48
+発売ゲームタイプ49
+発売ブロックコード49
+発売ゲームタイプ50
+発売ブロックコード50
+発売ゲームタイプ51
+発売ブロックコード51
+発売ゲームタイプ52
+発売ブロックコード52
+発売ゲームタイプ53
+発売ブロックコード53
+発売ゲームタイプ54
+発売ブロックコード54
+発売ゲームタイプ55
+発売ブロックコード55
+発売ゲームタイプ56
+発売ブロックコード56
+発売ゲームタイプ57
+発売ブロックコード57
+発売ゲームタイプ58
+発売ブロックコード58
+発売ゲームタイプ59
+発売ブロックコード59
+発売ゲームタイプ60
+発売ブロックコード60
+発売ゲームタイプ61
+発売ブロックコード61
+発売ゲームタイプ62
+発売ブロックコード62
+発売ゲームタイプ63
+発売ブロックコード63
+発売ゲームタイプ64
+発売ブロックコード64
+************************************
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIURIBA0】データ変換完了しました！！
+
+2014/11/28 15:45:59	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:45:59	Std Output:	正常終了(DONE)
+
+2014/11/28 15:45:59	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:45:59	Std Output:	正常終了(DONE)
+
+2014/11/28 15:45:59	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIURIBA.exe<>
+2014/11/28 15:46:00	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 15:46:00	Std Output:	正常終了(DONE)
+
+2014/11/28 15:46:00	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_037_運用管理1).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VRUNYKAN1.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUNK1_運用管理ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\INPUT\VRUNYKAN>
+2014/11/28 15:46:02	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\INPUT\VRUNYKAN】データ変換完了しました！！
+
+2014/11/28 15:46:02	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_037_運用管理1).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\aaa.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUNK1_運用管理ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYSSGM>
+2014/11/28 15:46:05	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYSSGM】データ変換完了しました！！
+
+2014/11/28 15:46:05	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 15:46:05	Std Output:	正常終了(DONE)
+
+2014/11/28 15:46:05	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 15:46:05	Std Output:	正常終了(DONE)
+
+2014/11/28 15:46:05	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_RQGYSSGM.exe<>
+2014/11/28 15:46:06	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 15:46:06	Std Output:	正常終了(DONE)
+
+2014/11/28 15:46:06	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_220_売場別ゲーム別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\IN01_LOTO_VIWKUGSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUGSS_売場別ゲーム別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKUGS0>
+2014/11/28 15:46:08	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKUGS0】データ変換完了しました！！
+
+2014/11/28 15:46:08	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 15:46:08	Std Output:	正常終了(DONE)
+
+2014/11/28 15:46:08	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 15:46:08	Std Output:	正常終了(DONE)
+
+2014/11/28 15:46:08	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIWKUGS.exe<>
+2014/11/28 15:46:09	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 15:46:09	Std Output:	正常終了(DONE)
+
+2014/11/28 15:46:09	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_227_売場別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\IN01_LOTO_VIWKURSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURSS_売場別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKURS0>
+2014/11/28 15:46:11	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKURS0】データ変換完了しました！！
+
+2014/11/28 15:46:11	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 15:46:11	Std Output:	正常終了(DONE)
+
+2014/11/28 15:46:11	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 15:46:11	Std Output:	正常終了(DONE)
+
+2014/11/28 15:46:11	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIWKURS.exe<>
+2014/11/28 15:46:12	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 15:46:12	Std Output:	正常終了(DONE)
+
+2014/11/28 15:46:12	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_087_業者別ゲーム別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\出力データ\out01_LOTO_VIWKGGSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGGSS_業者別ゲーム別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGGSH>
+2014/11/28 15:46:14	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGGSH】データ変換完了しました！！
+
+2014/11/28 15:46:14	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_092_業者別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\出力データ\out01_LOTO_VIWKGYSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSS_業者別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGYSH>
+2014/11/28 15:46:16	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGYSH】データ変換完了しました！！
+
+2014/11/28 15:46:16	データ変換　処理終了　(convert)
+2014/11/28 16:14:14	データ変換　処理開始　(convert)
+2014/11/28 16:14:14	データ変換　処理終了　(convert)
+2014/11/28 16:14:15	データ変換　処理開始　(convert)
+2014/11/28 16:14:15	データ変換　処理終了　(convert)
+2014/11/28 16:14:16	データ変換　処理開始　(convert)
+2014/11/28 16:14:16	データ変換　処理終了　(convert)
+2014/11/28 16:17:38	データ変換　処理開始　(convert)
+2014/11/28 16:17:38	データ変換　処理終了　(convert)
+2014/11/28 16:17:39	データ変換　処理開始　(convert)
+2014/11/28 16:17:39	データ変換　処理終了　(convert)
+2014/11/28 16:17:39	データ変換　処理開始　(convert)
+2014/11/28 16:17:40	データ変換　処理終了　(convert)
+2014/11/28 16:17:40	データ変換　処理開始　(convert)
+2014/11/28 16:17:40	データ変換　処理終了　(convert)
+2014/11/28 16:17:48	データ変換　処理開始　(convert)
+2014/11/28 16:17:49	データ変換　処理終了　(convert)
+2014/11/28 16:17:49	データ変換　処理開始　(convert)
+2014/11/28 16:17:49	データ変換　処理終了　(convert)
+2014/11/28 16:17:50	データ変換　処理開始　(convert)
+2014/11/28 16:17:50	データ変換　処理終了　(convert)
+2014/11/28 16:17:52	データ変換　処理開始　(convert)
+2014/11/28 16:17:52	データ変換　処理終了　(convert)
+2014/11/28 16:17:53	データ変換　処理開始　(convert)
+2014/11/28 16:17:53	データ変換　処理終了　(convert)
+2014/11/28 16:17:53	データ変換　処理開始　(convert)
+2014/11/28 16:17:53	データ変換　処理終了　(convert)
+2014/11/28 16:17:54	データ変換　処理開始　(convert)
+2014/11/28 16:17:54	データ変換　処理終了　(convert)
+2014/11/28 16:34:27	データ変換　処理開始　(convert)
+2014/11/28 16:34:27	データ変換　処理終了　(convert)
+2014/11/28 16:34:27	データ変換　処理開始　(convert)
+2014/11/28 16:34:28	データ変換　処理終了　(convert)
+2014/11/28 16:34:28	データ変換　処理開始　(convert)
+2014/11/28 16:34:28	データ変換　処理終了　(convert)
+2014/11/28 16:34:29	データ変換　処理開始　(convert)
+2014/11/28 16:34:29	データ変換　処理終了　(convert)
+2014/11/28 16:34:30	データ変換　処理開始　(convert)
+2014/11/28 16:34:30	データ変換　処理終了　(convert)
+2014/11/28 16:34:31	データ変換　処理開始　(convert)
+2014/11/28 16:34:31	データ変換　処理終了　(convert)
+2014/11/28 16:34:31	データ変換　処理開始　(convert)
+2014/11/28 16:34:32	データ変換　処理終了　(convert)
+2014/11/28 16:34:32	データ変換　処理開始　(convert)
+2014/11/28 16:34:32	データ変換　処理終了　(convert)
+2014/11/28 16:34:50	データ変換　処理開始　(convert)
+2014/11/28 16:34:50	データ変換　処理終了　(convert)
+2014/11/28 16:35:12	データ変換　処理開始　(convert)
+2014/11/28 16:35:12	データ変換　処理終了　(convert)
+2014/11/28 16:35:13	データ変換　処理開始　(convert)
+2014/11/28 16:35:13	データ変換　処理終了　(convert)
+2014/11/28 16:35:14	データ変換　処理開始　(convert)
+2014/11/28 16:35:14	データ変換　処理終了　(convert)
+2014/11/28 16:36:58	データ変換　処理開始　(convert)
+2014/11/28 16:36:59	データ変換　処理終了　(convert)
+2014/11/28 16:37:00	データ変換　処理開始　(convert)
+2014/11/28 16:37:00	データ変換　処理終了　(convert)
+2014/11/28 16:37:01	データ変換　処理開始　(convert)
+2014/11/28 16:37:01	データ変換　処理終了　(convert)
+2014/11/28 16:37:02	データ変換　処理開始　(convert)
+2014/11/28 16:37:02	データ変換　処理終了　(convert)
+2014/11/28 16:37:03	データ変換　処理開始　(convert)
+2014/11/28 16:37:03	データ変換　処理終了　(convert)
+2014/11/28 16:37:03	データ変換　処理開始　(convert)
+2014/11/28 16:37:03	データ変換　処理終了　(convert)
+2014/11/28 16:37:04	データ変換　処理開始　(convert)
+2014/11/28 16:37:04	データ変換　処理終了　(convert)
+2014/11/28 16:37:05	データ変換　処理開始　(convert)
+2014/11/28 16:37:05	データ変換　処理終了　(convert)
+2014/11/28 16:37:06	データ変換　処理開始　(convert)
+2014/11/28 16:37:06	データ変換　処理終了　(convert)
+2014/11/28 16:37:06	データ変換　処理開始　(convert)
+2014/11/28 16:37:07	データ変換　処理終了　(convert)
+2014/11/28 16:37:07	データ変換　処理開始　(convert)
+2014/11/28 16:37:07	データ変換　処理終了　(convert)
+2014/11/28 16:37:08	データ変換　処理開始　(convert)
+2014/11/28 16:37:08	データ変換　処理終了　(convert)
+2014/11/28 16:37:09	データ変換　処理開始　(convert)
+2014/11/28 16:37:09	データ変換　処理終了　(convert)
+2014/11/28 16:37:10	データ変換　処理開始　(convert)
+2014/11/28 16:37:10	データ変換　処理終了　(convert)
+2014/11/28 16:37:10	データ変換　処理開始　(convert)
+2014/11/28 16:37:11	データ変換　処理終了　(convert)
+2014/11/28 16:37:11	データ変換　処理開始　(convert)
+2014/11/28 16:37:11	データ変換　処理終了　(convert)
+2014/11/28 16:37:12	データ変換　処理開始　(convert)
+2014/11/28 16:37:12	データ変換　処理終了　(convert)
+2014/11/28 16:37:13	データ変換　処理開始　(convert)
+2014/11/28 16:37:13	データ変換　処理終了　(convert)
+2014/11/28 16:37:13	データ変換　処理開始　(convert)
+2014/11/28 16:37:13	データ変換　処理終了　(convert)
+2014/11/28 16:37:14	データ変換　処理開始　(convert)
+2014/11/28 16:37:14	データ変換　処理終了　(convert)
+2014/11/28 16:37:15	データ変換　処理開始　(convert)
+2014/11/28 16:37:15	データ変換　処理終了　(convert)
+2014/11/28 16:37:15	データ変換　処理開始　(convert)
+2014/11/28 16:37:16	データ変換　処理終了　(convert)
+2014/11/28 16:37:16	データ変換　処理開始　(convert)
+2014/11/28 16:37:16	データ変換　処理終了　(convert)
+2014/11/28 16:37:34	データ変換　処理開始　(convert)
+2014/11/28 16:37:34	データ変換　処理終了　(convert)
+2014/11/28 16:37:35	データ変換　処理開始　(convert)
+2014/11/28 16:37:35	データ変換　処理終了　(convert)
+2014/11/28 16:37:36	データ変換　処理開始　(convert)
+2014/11/28 16:37:36	データ変換　処理終了　(convert)
+2014/11/28 16:37:36	データ変換　処理開始　(convert)
+2014/11/28 16:37:37	データ変換　処理終了　(convert)
+2014/11/28 16:37:37	データ変換　処理開始　(convert)
+2014/11/28 16:37:37	データ変換　処理終了　(convert)
+2014/11/28 16:37:38	データ変換　処理開始　(convert)
+2014/11/28 16:37:38	データ変換　処理終了　(convert)
+2014/11/28 16:37:38	データ変換　処理開始　(convert)
+2014/11/28 16:37:39	データ変換　処理終了　(convert)
+2014/11/28 16:37:39	データ変換　処理開始　(convert)
+2014/11/28 16:37:39	データ変換　処理終了　(convert)
+2014/11/28 16:37:40	データ変換　処理開始　(convert)
+2014/11/28 16:37:40	データ変換　処理終了　(convert)
+2014/11/28 16:37:41	データ変換　処理開始　(convert)
+2014/11/28 16:37:41	データ変換　処理終了　(convert)
+2014/11/28 16:37:42	データ変換　処理開始　(convert)
+2014/11/28 16:37:42	データ変換　処理終了　(convert)
+2014/11/28 16:38:04	データ変換　処理開始　(convert)
+2014/11/28 16:38:05	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_090_業者別精算表).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_RQGYOSSN.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSS_業者別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSSN>
+2014/11/28 16:38:08	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSSN】データ変換完了しました！！
+
+2014/11/28 16:38:09	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 16:38:09	Std Output:	正常終了(DONE)
+
+2014/11/28 16:38:09	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 16:38:09	Std Output:	正常終了(DONE)
+
+2014/11/28 16:38:09	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_RQGYOSSN.exe<>
+2014/11/28 16:38:10	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 16:38:10	Std Output:	正常終了(DONE)
+
+2014/11/28 16:38:10	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_081_業者).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VIGYOSYA.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSA_業者ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSYA>
+2014/11/28 16:38:13	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSYA】データ変換完了しました！！
+
+2014/11/28 16:38:13	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 16:38:13	Std Output:	正常終了(DONE)
+
+2014/11/28 16:38:13	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 16:38:13	Std Output:	正常終了(DONE)
+
+2014/11/28 16:38:13	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGYOSYA.exe<>
+2014/11/28 16:38:14	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 16:38:14	Std Output:	正常終了(DONE)
+
+2014/11/28 16:38:14	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VIURIBA.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIURIBA0>
+2014/11/28 16:38:20	Std Output:データ変換中........
+下記の項目：\\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx中に存在あり、\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls中に存在なし。
+データ変換する後、下記の項目内容は初期化をされる。ご注意してください！
+************************************
+発売ゲームタイプ1
+発売ブロックコード1
+発売ゲームタイプ2
+発売ブロックコード2
+発売ゲームタイプ3
+発売ブロックコード3
+発売ゲームタイプ4
+発売ブロックコード4
+発売ゲームタイプ5
+発売ブロックコード5
+発売ゲームタイプ6
+発売ブロックコード6
+発売ゲームタイプ7
+発売ブロックコード7
+発売ゲームタイプ8
+発売ブロックコード8
+発売ゲームタイプ9
+発売ブロックコード9
+発売ゲームタイプ10
+発売ブロックコード10
+発売ゲームタイプ11
+発売ブロックコード11
+発売ゲームタイプ12
+発売ブロックコード12
+発売ゲームタイプ13
+発売ブロックコード13
+発売ゲームタイプ14
+発売ブロックコード14
+発売ゲームタイプ15
+発売ブロックコード15
+発売ゲームタイプ16
+発売ブロックコード16
+発売ゲームタイプ17
+発売ブロックコード17
+発売ゲームタイプ18
+発売ブロックコード18
+発売ゲームタイプ19
+発売ブロックコード19
+発売ゲームタイプ20
+発売ブロックコード20
+発売ゲームタイプ21
+発売ブロックコード21
+発売ゲームタイプ22
+発売ブロックコード22
+発売ゲームタイプ23
+発売ブロックコード23
+発売ゲームタイプ24
+発売ブロックコード24
+発売ゲームタイプ25
+発売ブロックコード25
+発売ゲームタイプ26
+発売ブロックコード26
+発売ゲームタイプ27
+発売ブロックコード27
+発売ゲームタイプ28
+発売ブロックコード28
+発売ゲームタイプ29
+発売ブロックコード29
+発売ゲームタイプ30
+発売ブロックコード30
+発売ゲームタイプ31
+発売ブロックコード31
+発売ゲームタイプ32
+発売ブロックコード32
+発売ゲームタイプ33
+発売ブロックコード33
+発売ゲームタイプ34
+発売ブロックコード34
+発売ゲームタイプ35
+発売ブロックコード35
+発売ゲームタイプ36
+発売ブロックコード36
+発売ゲームタイプ37
+発売ブロックコード37
+発売ゲームタイプ38
+発売ブロックコード38
+発売ゲームタイプ39
+発売ブロックコード39
+発売ゲームタイプ40
+発売ブロックコード40
+発売ゲームタイプ41
+発売ブロックコード41
+発売ゲームタイプ42
+発売ブロックコード42
+発売ゲームタイプ43
+発売ブロックコード43
+発売ゲームタイプ44
+発売ブロックコード44
+発売ゲームタイプ45
+発売ブロックコード45
+発売ゲームタイプ46
+発売ブロックコード46
+発売ゲームタイプ47
+発売ブロックコード47
+発売ゲームタイプ48
+発売ブロックコード48
+発売ゲームタイプ49
+発売ブロックコード49
+発売ゲームタイプ50
+発売ブロックコード50
+発売ゲームタイプ51
+発売ブロックコード51
+発売ゲームタイプ52
+発売ブロックコード52
+発売ゲームタイプ53
+発売ブロックコード53
+発売ゲームタイプ54
+発売ブロックコード54
+発売ゲームタイプ55
+発売ブロックコード55
+発売ゲームタイプ56
+発売ブロックコード56
+発売ゲームタイプ57
+発売ブロックコード57
+発売ゲームタイプ58
+発売ブロックコード58
+発売ゲームタイプ59
+発売ブロックコード59
+発売ゲームタイプ60
+発売ブロックコード60
+発売ゲームタイプ61
+発売ブロックコード61
+発売ゲームタイプ62
+発売ブロックコード62
+発売ゲームタイプ63
+発売ブロックコード63
+発売ゲームタイプ64
+発売ブロックコード64
+************************************
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIURIBA0】データ変換完了しました！！
+
+2014/11/28 16:38:21	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 16:38:21	Std Output:	正常終了(DONE)
+
+2014/11/28 16:38:21	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 16:38:21	Std Output:	正常終了(DONE)
+
+2014/11/28 16:38:21	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIURIBA.exe<>
+2014/11/28 16:38:22	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 16:38:22	Std Output:	正常終了(DONE)
+
+2014/11/28 16:38:22	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_037_運用管理1).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VRUNYKAN1.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUNK1_運用管理ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\INPUT\VRUNYKAN>
+2014/11/28 16:38:25	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\INPUT\VRUNYKAN】データ変換完了しました！！
+
+2014/11/28 16:38:25	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_037_運用管理1).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\aaa.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUNK1_運用管理ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYSSGM>
+2014/11/28 16:38:28	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYSSGM】データ変換完了しました！！
+
+2014/11/28 16:38:28	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 16:38:28	Std Output:	正常終了(DONE)
+
+2014/11/28 16:38:28	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 16:38:28	Std Output:	正常終了(DONE)
+
+2014/11/28 16:38:28	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_RQGYSSGM.exe<>
+2014/11/28 16:38:29	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 16:38:29	Std Output:	正常終了(DONE)
+
+2014/11/28 16:38:29	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_220_売場別ゲーム別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\IN01_LOTO_VIWKUGSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUGSS_売場別ゲーム別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKUGS0>
+2014/11/28 16:38:31	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKUGS0】データ変換完了しました！！
+
+2014/11/28 16:38:31	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 16:38:31	Std Output:	正常終了(DONE)
+
+2014/11/28 16:38:31	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 16:38:31	Std Output:	正常終了(DONE)
+
+2014/11/28 16:38:31	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIWKUGS.exe<>
+2014/11/28 16:38:32	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 16:38:32	Std Output:	正常終了(DONE)
+
+2014/11/28 16:38:32	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_227_売場別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\IN01_LOTO_VIWKURSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURSS_売場別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKURS0>
+2014/11/28 16:38:34	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKURS0】データ変換完了しました！！
+
+2014/11/28 16:38:34	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 16:38:35	Std Output:	正常終了(DONE)
+
+2014/11/28 16:38:35	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 16:38:35	Std Output:	正常終了(DONE)
+
+2014/11/28 16:38:35	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIWKURS.exe<>
+2014/11/28 16:38:35	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 16:38:35	Std Output:	正常終了(DONE)
+
+2014/11/28 16:38:36	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_087_業者別ゲーム別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\出力データ\out01_LOTO_VIWKGGSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGGSS_業者別ゲーム別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGGSH>
+2014/11/28 16:38:38	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGGSH】データ変換完了しました！！
+
+2014/11/28 16:38:38	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_092_業者別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\出力データ\out01_LOTO_VIWKGYSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSS_業者別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGYSH>
+2014/11/28 16:38:40	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGYSH】データ変換完了しました！！
+
+2014/11/28 16:38:41	データ変換　処理終了　(convert)
+2014/11/28 17:00:37	データ変換　処理開始　(convert)
+2014/11/28 17:00:37	データ変換　処理終了　(convert)
+2014/11/28 17:01:06	データ変換　処理開始　(convert)
+2014/11/28 17:01:06	データ変換　処理終了　(convert)
+2014/11/28 17:01:08	データ変換　処理開始　(convert)
+2014/11/28 17:01:08	データ変換　処理終了　(convert)
+2014/11/28 17:01:08	データ変換　処理開始　(convert)
+2014/11/28 17:01:08	データ変換　処理終了　(convert)
+2014/11/28 17:01:09	データ変換　処理開始　(convert)
+2014/11/28 17:01:09	データ変換　処理終了　(convert)
+2014/11/28 17:01:10	データ変換　処理開始　(convert)
+2014/11/28 17:01:10	データ変換　処理終了　(convert)
+2014/11/28 17:01:12	データ変換　処理開始　(convert)
+2014/11/28 17:01:13	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_090_業者別精算表).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_RQGYOSSN.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSS_業者別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSSN>
+2014/11/28 17:01:15	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSSN】データ変換完了しました！！
+
+2014/11/28 17:01:16	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 17:01:16	Std Output:	正常終了(DONE)
+
+2014/11/28 17:01:16	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 17:01:16	Std Output:	正常終了(DONE)
+
+2014/11/28 17:01:16	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_RQGYOSSN.exe<>
+2014/11/28 17:01:17	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 17:01:17	Std Output:	正常終了(DONE)
+
+2014/11/28 17:01:17	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_081_業者).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VIGYOSYA.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSA_業者ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSYA>
+2014/11/28 17:01:19	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSYA】データ変換完了しました！！
+
+2014/11/28 17:01:19	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 17:01:19	Std Output:	正常終了(DONE)
+
+2014/11/28 17:01:20	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 17:01:20	Std Output:	正常終了(DONE)
+
+2014/11/28 17:01:20	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGYOSYA.exe<>
+2014/11/28 17:01:20	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 17:01:20	Std Output:	正常終了(DONE)
+
+2014/11/28 17:01:20	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VIURIBA.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIURIBA0>
+2014/11/28 17:01:27	Std Output:データ変換中........
+下記の項目：\\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx中に存在あり、\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls中に存在なし。
+データ変換する後、下記の項目内容は初期化をされる。ご注意してください！
+************************************
+発売ゲームタイプ1
+発売ブロックコード1
+発売ゲームタイプ2
+発売ブロックコード2
+発売ゲームタイプ3
+発売ブロックコード3
+発売ゲームタイプ4
+発売ブロックコード4
+発売ゲームタイプ5
+発売ブロックコード5
+発売ゲームタイプ6
+発売ブロックコード6
+発売ゲームタイプ7
+発売ブロックコード7
+発売ゲームタイプ8
+発売ブロックコード8
+発売ゲームタイプ9
+発売ブロックコード9
+発売ゲームタイプ10
+発売ブロックコード10
+発売ゲームタイプ11
+発売ブロックコード11
+発売ゲームタイプ12
+発売ブロックコード12
+発売ゲームタイプ13
+発売ブロックコード13
+発売ゲームタイプ14
+発売ブロックコード14
+発売ゲームタイプ15
+発売ブロックコード15
+発売ゲームタイプ16
+発売ブロックコード16
+発売ゲームタイプ17
+発売ブロックコード17
+発売ゲームタイプ18
+発売ブロックコード18
+発売ゲームタイプ19
+発売ブロックコード19
+発売ゲームタイプ20
+発売ブロックコード20
+発売ゲームタイプ21
+発売ブロックコード21
+発売ゲームタイプ22
+発売ブロックコード22
+発売ゲームタイプ23
+発売ブロックコード23
+発売ゲームタイプ24
+発売ブロックコード24
+発売ゲームタイプ25
+発売ブロックコード25
+発売ゲームタイプ26
+発売ブロックコード26
+発売ゲームタイプ27
+発売ブロックコード27
+発売ゲームタイプ28
+発売ブロックコード28
+発売ゲームタイプ29
+発売ブロックコード29
+発売ゲームタイプ30
+発売ブロックコード30
+発売ゲームタイプ31
+発売ブロックコード31
+発売ゲームタイプ32
+発売ブロックコード32
+発売ゲームタイプ33
+発売ブロックコード33
+発売ゲームタイプ34
+発売ブロックコード34
+発売ゲームタイプ35
+発売ブロックコード35
+発売ゲームタイプ36
+発売ブロックコード36
+発売ゲームタイプ37
+発売ブロックコード37
+発売ゲームタイプ38
+発売ブロックコード38
+発売ゲームタイプ39
+発売ブロックコード39
+発売ゲームタイプ40
+発売ブロックコード40
+発売ゲームタイプ41
+発売ブロックコード41
+発売ゲームタイプ42
+発売ブロックコード42
+発売ゲームタイプ43
+発売ブロックコード43
+発売ゲームタイプ44
+発売ブロックコード44
+発売ゲームタイプ45
+発売ブロックコード45
+発売ゲームタイプ46
+発売ブロックコード46
+発売ゲームタイプ47
+発売ブロックコード47
+発売ゲームタイプ48
+発売ブロックコード48
+発売ゲームタイプ49
+発売ブロックコード49
+発売ゲームタイプ50
+発売ブロックコード50
+発売ゲームタイプ51
+発売ブロックコード51
+発売ゲームタイプ52
+発売ブロックコード52
+発売ゲームタイプ53
+発売ブロックコード53
+発売ゲームタイプ54
+発売ブロックコード54
+発売ゲームタイプ55
+発売ブロックコード55
+発売ゲームタイプ56
+発売ブロックコード56
+発売ゲームタイプ57
+発売ブロックコード57
+発売ゲームタイプ58
+発売ブロックコード58
+発売ゲームタイプ59
+発売ブロックコード59
+発売ゲームタイプ60
+発売ブロックコード60
+発売ゲームタイプ61
+発売ブロックコード61
+発売ゲームタイプ62
+発売ブロックコード62
+発売ゲームタイプ63
+発売ブロックコード63
+発売ゲームタイプ64
+発売ブロックコード64
+************************************
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIURIBA0】データ変換完了しました！！
+
+2014/11/28 17:01:27	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 17:01:27	Std Output:	正常終了(DONE)
+
+2014/11/28 17:01:27	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 17:01:27	Std Output:	正常終了(DONE)
+
+2014/11/28 17:01:28	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIURIBA.exe<>
+2014/11/28 17:01:28	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 17:01:28	Std Output:	正常終了(DONE)
+
+2014/11/28 17:01:28	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_037_運用管理1).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VRUNYKAN1.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUNK1_運用管理ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\INPUT\VRUNYKAN>
+2014/11/28 17:01:30	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\INPUT\VRUNYKAN】データ変換完了しました！！
+
+2014/11/28 17:01:30	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_037_運用管理1).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\aaa.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUNK1_運用管理ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYSSGM>
+2014/11/28 17:01:32	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYSSGM】データ変換完了しました！！
+
+2014/11/28 17:01:33	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 17:01:33	Std Output:	正常終了(DONE)
+
+2014/11/28 17:01:33	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 17:01:33	Std Output:	正常終了(DONE)
+
+2014/11/28 17:01:33	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_RQGYSSGM.exe<>
+2014/11/28 17:01:34	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 17:01:34	Std Output:	正常終了(DONE)
+
+2014/11/28 17:01:34	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_220_売場別ゲーム別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\IN01_LOTO_VIWKUGSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUGSS_売場別ゲーム別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKUGS0>
+2014/11/28 17:01:36	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKUGS0】データ変換完了しました！！
+
+2014/11/28 17:01:36	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 17:01:36	Std Output:	正常終了(DONE)
+
+2014/11/28 17:01:36	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 17:01:36	Std Output:	正常終了(DONE)
+
+2014/11/28 17:01:36	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIWKUGS.exe<>
+2014/11/28 17:01:37	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 17:01:37	Std Output:	正常終了(DONE)
+
+2014/11/28 17:01:37	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_227_売場別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\IN01_LOTO_VIWKURSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURSS_売場別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKURS0>
+2014/11/28 17:01:39	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKURS0】データ変換完了しました！！
+
+2014/11/28 17:01:39	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 17:01:39	Std Output:	正常終了(DONE)
+
+2014/11/28 17:01:40	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 17:01:40	Std Output:	正常終了(DONE)
+
+2014/11/28 17:01:40	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIWKURS.exe<>
+2014/11/28 17:01:40	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 17:01:40	Std Output:	正常終了(DONE)
+
+2014/11/28 17:01:40	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_087_業者別ゲーム別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\出力データ\out01_LOTO_VIWKGGSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGGSS_業者別ゲーム別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGGSH>
+2014/11/28 17:01:42	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGGSH】データ変換完了しました！！
+
+2014/11/28 17:01:42	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_092_業者別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\出力データ\out01_LOTO_VIWKGYSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSS_業者別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGYSH>
+2014/11/28 17:01:44	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGYSH】データ変換完了しました！！
+
+2014/11/28 17:01:45	データ変換　処理終了　(convert)
+2014/11/28 17:02:37	データ変換　処理開始　(convert)
+2014/11/28 17:02:37	データ変換　処理終了　(convert)
+2014/11/28 17:02:38	データ変換　処理開始　(convert)
+2014/11/28 17:02:38	データ変換　処理終了　(convert)
+2014/11/28 17:02:38	データ変換　処理開始　(convert)
+2014/11/28 17:02:39	データ変換　処理終了　(convert)
+2014/11/28 17:02:42	データ変換　処理開始　(convert)
+2014/11/28 17:02:43	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_090_業者別精算表).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_RQGYOSSN.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSS_業者別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSSN>
+2014/11/28 17:02:45	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSSN】データ変換完了しました！！
+
+2014/11/28 17:02:45	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 17:02:45	Std Output:	正常終了(DONE)
+
+2014/11/28 17:02:45	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 17:02:45	Std Output:	正常終了(DONE)
+
+2014/11/28 17:02:45	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_RQGYOSSN.exe<>
+2014/11/28 17:02:46	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYOSSN.cfm>
+2014/11/28 17:02:46	Std Output:	正常終了(DONE)
+
+2014/11/28 17:02:46	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_081_業者).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VIGYOSYA.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSA_業者ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSYA>
+2014/11/28 17:02:48	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYOSYA】データ変換完了しました！！
+
+2014/11/28 17:02:49	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 17:02:49	Std Output:	正常終了(DONE)
+
+2014/11/28 17:02:49	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 17:02:49	Std Output:	正常終了(DONE)
+
+2014/11/28 17:02:49	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGYOSYA.exe<>
+2014/11/28 17:02:50	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGYOSYA.cfm>
+2014/11/28 17:02:50	Std Output:	正常終了(DONE)
+
+2014/11/28 17:02:50	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VIURIBA.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIURIBA0>
+2014/11/28 17:02:57	Std Output:データ変換中........
+下記の項目：\\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURBA_売場ファイル.xlsx中に存在あり、\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_203_売場).xls中に存在なし。
+データ変換する後、下記の項目内容は初期化をされる。ご注意してください！
+************************************
+発売ゲームタイプ1
+発売ブロックコード1
+発売ゲームタイプ2
+発売ブロックコード2
+発売ゲームタイプ3
+発売ブロックコード3
+発売ゲームタイプ4
+発売ブロックコード4
+発売ゲームタイプ5
+発売ブロックコード5
+発売ゲームタイプ6
+発売ブロックコード6
+発売ゲームタイプ7
+発売ブロックコード7
+発売ゲームタイプ8
+発売ブロックコード8
+発売ゲームタイプ9
+発売ブロックコード9
+発売ゲームタイプ10
+発売ブロックコード10
+発売ゲームタイプ11
+発売ブロックコード11
+発売ゲームタイプ12
+発売ブロックコード12
+発売ゲームタイプ13
+発売ブロックコード13
+発売ゲームタイプ14
+発売ブロックコード14
+発売ゲームタイプ15
+発売ブロックコード15
+発売ゲームタイプ16
+発売ブロックコード16
+発売ゲームタイプ17
+発売ブロックコード17
+発売ゲームタイプ18
+発売ブロックコード18
+発売ゲームタイプ19
+発売ブロックコード19
+発売ゲームタイプ20
+発売ブロックコード20
+発売ゲームタイプ21
+発売ブロックコード21
+発売ゲームタイプ22
+発売ブロックコード22
+発売ゲームタイプ23
+発売ブロックコード23
+発売ゲームタイプ24
+発売ブロックコード24
+発売ゲームタイプ25
+発売ブロックコード25
+発売ゲームタイプ26
+発売ブロックコード26
+発売ゲームタイプ27
+発売ブロックコード27
+発売ゲームタイプ28
+発売ブロックコード28
+発売ゲームタイプ29
+発売ブロックコード29
+発売ゲームタイプ30
+発売ブロックコード30
+発売ゲームタイプ31
+発売ブロックコード31
+発売ゲームタイプ32
+発売ブロックコード32
+発売ゲームタイプ33
+発売ブロックコード33
+発売ゲームタイプ34
+発売ブロックコード34
+発売ゲームタイプ35
+発売ブロックコード35
+発売ゲームタイプ36
+発売ブロックコード36
+発売ゲームタイプ37
+発売ブロックコード37
+発売ゲームタイプ38
+発売ブロックコード38
+発売ゲームタイプ39
+発売ブロックコード39
+発売ゲームタイプ40
+発売ブロックコード40
+発売ゲームタイプ41
+発売ブロックコード41
+発売ゲームタイプ42
+発売ブロックコード42
+発売ゲームタイプ43
+発売ブロックコード43
+発売ゲームタイプ44
+発売ブロックコード44
+発売ゲームタイプ45
+発売ブロックコード45
+発売ゲームタイプ46
+発売ブロックコード46
+発売ゲームタイプ47
+発売ブロックコード47
+発売ゲームタイプ48
+発売ブロックコード48
+発売ゲームタイプ49
+発売ブロックコード49
+発売ゲームタイプ50
+発売ブロックコード50
+発売ゲームタイプ51
+発売ブロックコード51
+発売ゲームタイプ52
+発売ブロックコード52
+発売ゲームタイプ53
+発売ブロックコード53
+発売ゲームタイプ54
+発売ブロックコード54
+発売ゲームタイプ55
+発売ブロックコード55
+発売ゲームタイプ56
+発売ブロックコード56
+発売ゲームタイプ57
+発売ブロックコード57
+発売ゲームタイプ58
+発売ブロックコード58
+発売ゲームタイプ59
+発売ブロックコード59
+発売ゲームタイプ60
+発売ブロックコード60
+発売ゲームタイプ61
+発売ブロックコード61
+発売ゲームタイプ62
+発売ブロックコード62
+発売ゲームタイプ63
+発売ブロックコード63
+発売ゲームタイプ64
+発売ブロックコード64
+************************************
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIURIBA0】データ変換完了しました！！
+
+2014/11/28 17:02:57	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 17:02:57	Std Output:	正常終了(DONE)
+
+2014/11/28 17:02:57	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 17:02:57	Std Output:	正常終了(DONE)
+
+2014/11/28 17:02:57	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIURIBA.exe<>
+2014/11/28 17:02:58	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIURIBA.cfm>
+2014/11/28 17:02:58	Std Output:	正常終了(DONE)
+
+2014/11/28 17:02:58	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_037_運用管理1).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\LOTO_VRUNYKAN1.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUNK1_運用管理ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\INPUT\VRUNYKAN>
+2014/11/28 17:03:00	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\INPUT\VRUNYKAN】データ変換完了しました！！
+
+2014/11/28 17:03:00	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_037_運用管理1).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\aaa.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUNK1_運用管理ファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYSSGM>
+2014/11/28 17:03:02	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\GYSSGM】データ変換完了しました！！
+
+2014/11/28 17:03:03	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 17:03:03	Std Output:	正常終了(DONE)
+
+2014/11/28 17:03:03	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 17:03:03	Std Output:	正常終了(DONE)
+
+2014/11/28 17:03:03	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_RQGYSSGM.exe<>
+2014/11/28 17:03:03	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\RQGYSSGM.cfm>
+2014/11/28 17:03:03	Std Output:	正常終了(DONE)
+
+2014/11/28 17:03:04	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_220_売場別ゲーム別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\IN01_LOTO_VIWKUGSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFUGSS_売場別ゲーム別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKUGS0>
+2014/11/28 17:03:05	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKUGS0】データ変換完了しました！！
+
+2014/11/28 17:03:06	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 17:03:06	Std Output:	正常終了(DONE)
+
+2014/11/28 17:03:06	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 17:03:06	Std Output:	正常終了(DONE)
+
+2014/11/28 17:03:06	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIWKUGS.exe<>
+2014/11/28 17:03:07	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKUGS.cfm>
+2014/11/28 17:03:07	Std Output:	正常終了(DONE)
+
+2014/11/28 17:03:07	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_227_売場別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\入力データ\IN01_LOTO_VIWKURSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFURSS_売場別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKURS0>
+2014/11/28 17:03:09	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\変換前\VIWKURS0】データ変換完了しました！！
+
+2014/11/28 17:03:09	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 17:03:09	Std Output:	正常終了(DONE)
+
+2014/11/28 17:03:09	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 17:03:09	Std Output:	正常終了(DONE)
+
+2014/11/28 17:03:09	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIWKURS.exe<>
+2014/11/28 17:03:10	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIWKURS.cfm>
+2014/11/28 17:03:10	Std Output:	正常終了(DONE)
+
+2014/11/28 17:03:10	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_087_業者別ゲーム別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\出力データ\out01_LOTO_VIWKGGSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGGSS_業者別ゲーム別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGGSH>
+2014/11/28 17:03:12	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGGSH】データ変換完了しました！！
+
+2014/11/28 17:03:12	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_092_業者別精算表更新用ワーク(発券端末用)).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHUN340\出力データ\out01_LOTO_VIWKGYSH.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGYSS_業者別精算表.xlsx C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGYSH>
+2014/11/28 17:03:14	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHUN340-01\OUTPUT\VIWKGYSH】データ変換完了しました！！
+
+2014/11/28 17:03:15	データ変換　処理終了　(convert)
+2014/11/28 17:04:03	データ変換　処理開始　(convert)
+2014/11/28 17:04:03	データ変換　処理終了　(convert)
+2014/11/28 17:04:03	データ変換　処理開始　(convert)
+2014/11/28 17:04:04	データ変換　処理終了　(convert)
+2014/11/28 17:04:04	データ変換　処理開始　(convert)
+2014/11/28 17:04:04	データ変換　処理終了　(convert)
+2014/11/28 17:28:21	データ変換　処理開始　(convert)
+2014/11/28 17:28:21	データ変換　処理終了　(convert)
+2014/11/28 17:28:41	データ変換　処理開始　(convert)
+2014/11/28 17:28:41	データ変換　処理終了　(convert)
+2014/11/28 17:28:43	データ変換　処理開始　(convert)
+2014/11/28 17:28:43	データ変換　処理終了　(convert)
+2014/11/28 17:28:51	データ変換　処理開始　(convert)
+2014/11/28 17:28:51	データ変換　処理終了　(convert)
+2014/11/28 17:28:52	データ変換　処理開始　(convert)
+2014/11/28 17:28:52	データ変換　処理終了　(convert)
+2014/11/28 17:28:53	データ変換　処理開始　(convert)
+2014/11/28 17:28:53	データ変換　処理終了　(convert)
+2014/11/28 17:28:54	データ変換　処理開始　(convert)
+2014/11/28 17:28:54	データ変換　処理終了　(convert)
+2014/11/28 17:29:01	データ変換　処理開始　(convert)
+2014/11/28 17:29:01	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_007_ゲーム).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS020\入力データ\LOTO_VIGAME.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGAME_ゲームファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0>
+2014/11/28 17:29:03	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0】データ変換完了しました！！
+
+2014/11/28 17:29:04	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:29:04	Std Output:	正常終了(DONE)
+
+2014/11/28 17:29:04	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:29:04	Std Output:	正常終了(DONE)
+
+2014/11/28 17:29:04	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGAME.exe<>
+2014/11/28 17:29:05	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:29:05	Std Output:	正常終了(DONE)
+
+2014/11/28 17:29:06	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_007_ゲーム).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS020\入力データ\LOTO_VIGAME.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGAME_ゲームファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0>
+2014/11/28 17:29:09	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0】データ変換完了しました！！
+
+2014/11/28 17:29:09	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:29:09	Std Output:	正常終了(DONE)
+
+2014/11/28 17:29:09	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:29:09	Std Output:	正常終了(DONE)
+
+2014/11/28 17:29:09	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGAME.exe<>
+2014/11/28 17:29:10	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:29:10	Std Output:	正常終了(DONE)
+
+2014/11/28 17:29:10	データ変換　処理終了　(convert)
+2014/11/28 17:29:34	データ変換　処理開始　(convert)
+2014/11/28 17:29:34	データ変換　処理終了　(convert)
+2014/11/28 17:29:35	データ変換　処理開始　(convert)
+2014/11/28 17:29:35	データ変換　処理終了　(convert)
+2014/11/28 17:29:38	データ変換　処理開始　(convert)
+2014/11/28 17:29:39	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_007_ゲーム).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS020\入力データ\LOTO_VIGAME.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGAME_ゲームファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0>
+2014/11/28 17:29:41	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0】データ変換完了しました！！
+
+2014/11/28 17:29:41	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:29:41	Std Output:	正常終了(DONE)
+
+2014/11/28 17:29:41	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:29:41	Std Output:	正常終了(DONE)
+
+2014/11/28 17:29:41	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGAME.exe<>
+2014/11/28 17:29:42	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:29:42	Std Output:	正常終了(DONE)
+
+2014/11/28 17:29:43	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_007_ゲーム).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS020\入力データ\LOTO_VIGAME.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGAME_ゲームファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0>
+2014/11/28 17:29:45	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0】データ変換完了しました！！
+
+2014/11/28 17:29:46	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:29:46	Std Output:	正常終了(DONE)
+
+2014/11/28 17:29:46	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:29:46	Std Output:	正常終了(DONE)
+
+2014/11/28 17:29:46	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGAME.exe<>
+2014/11/28 17:29:47	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:29:47	Std Output:	正常終了(DONE)
+
+2014/11/28 17:29:47	データ変換　処理終了　(convert)
+2014/11/28 17:34:44	データ変換　処理開始　(convert)
+2014/11/28 17:34:44	データ変換　処理終了　(convert)
+2014/11/28 17:34:44	データ変換　処理開始　(convert)
+2014/11/28 17:34:44	データ変換　処理終了　(convert)
+2014/11/28 17:34:47	データ変換　処理開始　(convert)
+2014/11/28 17:34:48	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_007_ゲーム).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS020\入力データ\LOTO_VIGAME.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGAME_ゲームファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0>
+2014/11/28 17:34:49	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0】データ変換完了しました！！
+
+2014/11/28 17:34:50	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:34:50	Std Output:	正常終了(DONE)
+
+2014/11/28 17:34:50	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:34:50	Std Output:	正常終了(DONE)
+
+2014/11/28 17:34:50	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGAME.exe<>
+2014/11/28 17:34:51	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:34:51	Std Output:	正常終了(DONE)
+
+2014/11/28 17:34:52	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_007_ゲーム).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS020\入力データ\LOTO_VIGAME.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGAME_ゲームファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0>
+2014/11/28 17:34:54	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0】データ変換完了しました！！
+
+2014/11/28 17:34:54	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:34:54	Std Output:	正常終了(DONE)
+
+2014/11/28 17:34:54	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:34:54	Std Output:	正常終了(DONE)
+
+2014/11/28 17:34:54	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGAME.exe<>
+2014/11/28 17:34:55	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:34:55	Std Output:	正常終了(DONE)
+
+2014/11/28 17:34:55	データ変換　処理終了　(convert)
+2014/11/28 17:35:15	実行　処理開始　(perform)
+2014/11/28 17:35:15	実行　処理終了　(perform)
+2014/11/28 17:35:15	[HBHUN370-01]の実行処理が開始した。
+2014/11/28 17:35:16	外部exe実行：CBLCTFM.EXE</r C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\HBHUN370-01.cfm>
+2014/11/28 17:35:16	Std Output:	正常終了(DONE)
+
+2014/11/28 17:35:17	外部exe実行：CBLCTFM.EXE</a C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\HBHUN370-01.cfm>
+2014/11/28 17:35:17	Std Output:	正常終了(DONE)
+
+2014/11/28 17:35:17	外部exe実行：C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\HBHUN370.exe<>
+2014/11/28 17:35:17	Std Output:HBHUN370-01 VRUNYKAN OPEN ERROR 99      
+
+2014/11/28 17:35:17	[HBHUN370-01]の実行処理にエラーが発生しました。ログファイルをご参照ください。
+2014/11/28 17:35:17	　　　☆☆☆実行処理が正常に終了しました。☆☆☆　　　
+2014/11/28 17:35:17	結果出力　処理開始　(export)
+2014/11/28 17:35:17	結果出力　処理終了　(export)
+2014/11/28 17:35:17	[HBHUN370-01]の結果出力処理が開始した。
+2014/11/28 17:35:18	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWJIKAN>
+2014/11/28 17:35:18	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWKAISS>
+2014/11/28 17:35:18	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWKGKSH>
+2014/11/28 17:35:18	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWKNYJY>
+2014/11/28 17:35:18	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWURISE>
+2014/11/28 17:35:18	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWURIUR>
+2014/11/28 17:35:18	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWURISS>
+2014/11/28 17:35:18	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\VIWURTES>
+2014/11/28 17:35:19	[HBHUN370-01]の比較にエラーが発生しました。
+2014/11/28 17:35:19	\n出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\VIWURTES>
+2014/11/28 17:35:19	　　　☆☆☆結果出力処理が正常に終了しました。☆☆☆　　　
+2014/11/28 17:35:46	実行　処理開始　(perform)
+2014/11/28 17:35:46	実行　処理終了　(perform)
+2014/11/28 17:35:46	[HBHUN370-01]の実行処理が開始した。
+2014/11/28 17:35:46	外部exe実行：CBLCTFM.EXE</r C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\HBHUN370-01.cfm>
+2014/11/28 17:35:47	Std Output:	正常終了(DONE)
+
+2014/11/28 17:35:47	外部exe実行：CBLCTFM.EXE</a C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\HBHUN370-01.cfm>
+2014/11/28 17:35:47	Std Output:	正常終了(DONE)
+
+2014/11/28 17:35:47	外部exe実行：C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\HBHUN370.exe<>
+2014/11/28 17:35:47	Std Output:HBHUN370-01 VRUNYKAN OPEN ERROR 99      
+
+2014/11/28 17:35:47	[HBHUN370-01]の実行処理にエラーが発生しました。ログファイルをご参照ください。
+2014/11/28 17:35:47	　　　☆☆☆実行処理が正常に終了しました。☆☆☆　　　
+2014/11/28 17:35:47	結果出力　処理開始　(export)
+2014/11/28 17:35:47	結果出力　処理終了　(export)
+2014/11/28 17:35:47	[HBHUN370-01]の結果出力処理が開始した。
+2014/11/28 17:35:48	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWJIKAN>
+2014/11/28 17:35:48	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWKAISS>
+2014/11/28 17:35:48	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWKGKSH>
+2014/11/28 17:35:48	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWKNYJY>
+2014/11/28 17:35:48	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWURISE>
+2014/11/28 17:35:48	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWURIUR>
+2014/11/28 17:35:48	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWURISS>
+2014/11/28 17:35:48	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\VIWURTES>
+2014/11/28 17:35:49	[HBHUN370-01]の比較にエラーが発生しました。
+2014/11/28 17:35:49	\n出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\VIWURTES>
+2014/11/28 17:35:49	　　　☆☆☆結果出力処理が正常に終了しました。☆☆☆　　　
+2014/11/28 17:35:52	実行　処理開始　(perform)
+2014/11/28 17:35:52	実行　処理終了　(perform)
+2014/11/28 17:35:52	[HBHUN370-01]の実行処理が開始した。
+2014/11/28 17:35:52	外部exe実行：CBLCTFM.EXE</r C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\HBHUN370-01.cfm>
+2014/11/28 17:35:52	Std Output:	正常終了(DONE)
+
+2014/11/28 17:35:53	外部exe実行：CBLCTFM.EXE</a C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\HBHUN370-01.cfm>
+2014/11/28 17:35:53	Std Output:	正常終了(DONE)
+
+2014/11/28 17:35:53	外部exe実行：C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\HBHUN370.exe<>
+2014/11/28 17:35:53	Std Output:HBHUN370-01 VRUNYKAN OPEN ERROR 99      
+
+2014/11/28 17:35:53	[HBHUN370-01]の実行処理にエラーが発生しました。ログファイルをご参照ください。
+2014/11/28 17:35:53	　　　☆☆☆実行処理が正常に終了しました。☆☆☆　　　
+2014/11/28 17:35:53	結果出力　処理開始　(export)
+2014/11/28 17:35:53	結果出力　処理終了　(export)
+2014/11/28 17:35:53	[HBHUN370-01]の結果出力処理が開始した。
+2014/11/28 17:35:54	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWJIKAN>
+2014/11/28 17:35:54	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWKAISS>
+2014/11/28 17:35:54	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWKGKSH>
+2014/11/28 17:35:54	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWKNYJY>
+2014/11/28 17:35:54	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWURISE>
+2014/11/28 17:35:54	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWURIUR>
+2014/11/28 17:35:54	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWURISS>
+2014/11/28 17:35:54	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\VIWURTES>
+2014/11/28 17:35:54	[HBHUN370-01]の比較にエラーが発生しました。
+2014/11/28 17:35:54	\n出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\VIWURTES>
+2014/11/28 17:35:55	　　　☆☆☆結果出力処理が正常に終了しました。☆☆☆　　　
+2014/11/28 17:36:36	データ変換　処理開始　(convert)
+2014/11/28 17:36:37	データ変換　処理終了　(convert)
+2014/11/28 17:36:37	データ変換　処理開始　(convert)
+2014/11/28 17:36:37	データ変換　処理終了　(convert)
+2014/11/28 17:36:40	実行　処理開始　(perform)
+2014/11/28 17:36:40	実行　処理終了　(perform)
+2014/11/28 17:36:40	[HBHUN370-01]の実行処理が開始した。
+2014/11/28 17:36:40	外部exe実行：CBLCTFM.EXE</r C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\HBHUN370-01.cfm>
+2014/11/28 17:36:41	Std Output:	正常終了(DONE)
+
+2014/11/28 17:36:41	外部exe実行：CBLCTFM.EXE</a C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\HBHUN370-01.cfm>
+2014/11/28 17:36:41	Std Output:	正常終了(DONE)
+
+2014/11/28 17:36:41	外部exe実行：C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\HBHUN370.exe<>
+2014/11/28 17:36:41	Std Output:HBHUN370-01 VRUNYKAN OPEN ERROR 99      
+
+2014/11/28 17:36:41	[HBHUN370-01]の実行処理にエラーが発生しました。ログファイルをご参照ください。
+2014/11/28 17:36:41	　　　☆☆☆実行処理が正常に終了しました。☆☆☆　　　
+2014/11/28 17:36:41	結果出力　処理開始　(export)
+2014/11/28 17:36:41	結果出力　処理終了　(export)
+2014/11/28 17:36:41	[HBHUN370-01]の結果出力処理が開始した。
+2014/11/28 17:36:42	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWJIKAN>
+2014/11/28 17:36:42	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWKAISS>
+2014/11/28 17:36:42	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWKGKSH>
+2014/11/28 17:36:42	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWKNYJY>
+2014/11/28 17:36:42	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWURISE>
+2014/11/28 17:36:42	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWURIUR>
+2014/11/28 17:36:42	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\SQWURISS>
+2014/11/28 17:36:42	[HBHUN370-01]の出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\VIWURTES>
+2014/11/28 17:36:43	[HBHUN370-01]の比較にエラーが発生しました。
+2014/11/28 17:36:43	\n出力ファイルが存在しません<C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN370-01\OUTPUT\VIWURTES>
+2014/11/28 17:36:44	　　　☆☆☆結果出力処理が正常に終了しました。☆☆☆　　　
+2014/11/28 17:36:51	データ変換　処理開始　(convert)
+2014/11/28 17:36:52	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_007_ゲーム).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS020\入力データ\LOTO_VIGAME.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGAME_ゲームファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0>
+2014/11/28 17:36:54	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0】データ変換完了しました！！
+
+2014/11/28 17:36:54	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:36:54	Std Output:	正常終了(DONE)
+
+2014/11/28 17:36:54	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:36:54	Std Output:	正常終了(DONE)
+
+2014/11/28 17:36:54	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGAME.exe<>
+2014/11/28 17:36:55	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:36:55	Std Output:	正常終了(DONE)
+
+2014/11/28 17:36:56	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_007_ゲーム).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS020\入力データ\LOTO_VIGAME.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGAME_ゲームファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0>
+2014/11/28 17:36:58	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0】データ変換完了しました！！
+
+2014/11/28 17:36:59	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:36:59	Std Output:	正常終了(DONE)
+
+2014/11/28 17:36:59	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:36:59	Std Output:	正常終了(DONE)
+
+2014/11/28 17:36:59	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGAME.exe<>
+2014/11/28 17:37:00	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:37:00	Std Output:	正常終了(DONE)
+
+2014/11/28 17:37:00	データ変換　処理終了　(convert)
+2014/11/28 17:37:02	データ変換　処理開始　(convert)
+2014/11/28 17:37:03	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_007_ゲーム).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS020\入力データ\LOTO_VIGAME.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGAME_ゲームファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0>
+2014/11/28 17:37:05	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0】データ変換完了しました！！
+
+2014/11/28 17:37:05	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:37:05	Std Output:	正常終了(DONE)
+
+2014/11/28 17:37:05	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:37:05	Std Output:	正常終了(DONE)
+
+2014/11/28 17:37:05	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGAME.exe<>
+2014/11/28 17:37:06	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:37:06	Std Output:	正常終了(DONE)
+
+2014/11/28 17:37:07	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_007_ゲーム).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS020\入力データ\LOTO_VIGAME.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGAME_ゲームファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0>
+2014/11/28 17:37:09	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0】データ変換完了しました！！
+
+2014/11/28 17:37:09	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:37:09	Std Output:	正常終了(DONE)
+
+2014/11/28 17:37:09	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:37:09	Std Output:	正常終了(DONE)
+
+2014/11/28 17:37:09	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGAME.exe<>
+2014/11/28 17:37:10	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 17:37:10	Std Output:	正常終了(DONE)
+
+2014/11/28 17:37:10	データ変換　処理終了　(convert)
+2014/11/28 17:37:12	データ変換　処理開始　(convert)
+2014/11/28 17:37:12	データ変換　処理終了　(convert)
+2014/11/28 17:37:13	データ変換　処理開始　(convert)
+2014/11/28 17:37:13	データ変換　処理終了　(convert)
+2014/11/28 18:12:35	データ変換　処理開始　(convert)
+2014/11/28 18:12:35	データ変換　処理終了　(convert)
+2014/11/28 18:12:37	データ変換　処理開始　(convert)
+2014/11/28 18:12:37	データ変換　処理終了　(convert)
+2014/11/28 18:12:47	データ変換　処理開始　(convert)
+2014/11/28 18:12:49	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_007_ゲーム).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS020\入力データ\LOTO_VIGAME.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGAME_ゲームファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0>
+2014/11/28 18:12:58	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0】データ変換完了しました！！
+
+2014/11/28 18:12:58	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 18:12:59	Std Output:	正常終了(DONE)
+
+2014/11/28 18:12:59	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 18:12:59	Std Output:	正常終了(DONE)
+
+2014/11/28 18:12:59	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGAME.exe<>
+2014/11/28 18:13:00	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 18:13:00	Std Output:	正常終了(DONE)
+
+2014/11/28 18:13:02	外部exe実行：ConvertData.exe<\\10.169.71.236\構成管理\事前準備\Work_データ加工\02_新規_DB定義\3.2_情報蓄積\UI1203_論理テーブル仕様(01_007_ゲーム).xls \\10.169.71.236\構成管理\事前準備\原本JAVAデータ\DB_HBHSS020\入力データ\LOTO_VIGAME.csv \\10.169.71.236\構成管理\事前準備\Work_データ加工\01_現行_Copy句\CFGAME_ゲームファイル.xlsx C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0>
+2014/11/28 18:13:05	Std Output:データ変換中........
+ファイル:【C:\Work\temp\Work_データ加工\Test\HBHSS020-01\変換前\VIGAME0】データ変換完了しました！！
+
+2014/11/28 18:13:05	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 18:13:05	Std Output:	正常終了(DONE)
+
+2014/11/28 18:13:05	外部exe実行：CBLCTFM.EXE</a C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 18:13:05	Std Output:	正常終了(DONE)
+
+2014/11/28 18:13:05	外部exe実行：\\10.169.71.236\構成管理\事前準備\Work_データ加工\03_IndexChange\IndexChange_VIGAME.exe<>
+2014/11/28 18:13:06	外部exe実行：CBLCTFM.EXE</r C:\Work\temp\Work_データ加工\Test\VIGAME.cfm>
+2014/11/28 18:13:06	Std Output:	正常終了(DONE)
+
+2014/11/28 18:13:06	データ変換　処理終了　(convert)
+2014/11/28 18:14:29	データ変換　処理開始　(convert)
+2014/11/28 18:16:00	データ変換　処理開始　(convert)
+2014/11/28 18:16:11	データ変換　処理終了　(convert)

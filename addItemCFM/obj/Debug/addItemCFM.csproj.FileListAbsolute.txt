@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\createCFM\addItemCFM\bin\Debug\addItemCFM.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\createCFM\addItemCFM\bin\Debug\addItemCFM.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\createCFM\addItemCFM\bin\Debug\addItemCFM.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\createCFM\addItemCFM\obj\Debug\addItemCFM.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\createCFM\addItemCFM\obj\Debug\addItemCFM.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\createCFM\addItemCFM\obj\Debug\addItemCFM.pdb
+C:\Work\Projects\aat\addItemCFM\bin\Debug\addItemCFM.exe.config
+C:\Work\Projects\aat\addItemCFM\bin\Debug\addItemCFM.exe
+C:\Work\Projects\aat\addItemCFM\bin\Debug\addItemCFM.pdb
+C:\Work\Projects\aat\addItemCFM\obj\Debug\addItemCFM.exe
+C:\Work\Projects\aat\addItemCFM\obj\Debug\addItemCFM.pdb

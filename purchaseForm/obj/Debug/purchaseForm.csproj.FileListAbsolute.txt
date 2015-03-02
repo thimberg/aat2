@@ -1,0 +1,10 @@
+C:\Work\Projects\aat\purchaseForm\bin\Debug\purchaseForm.exe.config
+C:\Work\Projects\aat\purchaseForm\bin\Debug\purchaseForm.exe
+C:\Work\Projects\aat\purchaseForm\bin\Debug\purchaseForm.pdb
+C:\Work\Projects\aat\purchaseForm\bin\Debug\Com.OnForm32.dll
+C:\Work\Projects\aat\purchaseForm\obj\Debug\purchaseForm.csprojResolveAssemblyReference.cache
+C:\Work\Projects\aat\purchaseForm\obj\Debug\purchaseForm.Form1.resources
+C:\Work\Projects\aat\purchaseForm\obj\Debug\purchaseForm.Properties.Resources.resources
+C:\Work\Projects\aat\purchaseForm\obj\Debug\purchaseForm.csproj.GenerateResource.Cache
+C:\Work\Projects\aat\purchaseForm\obj\Debug\purchaseForm.exe
+C:\Work\Projects\aat\purchaseForm\obj\Debug\purchaseForm.pdb

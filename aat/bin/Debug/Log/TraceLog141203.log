@@ -1,0 +1,711 @@
+﻿2014/12/03 17:26:42	実行　処理開始　(perform)
+2014/12/03 17:26:42	実行　処理終了　(perform)
+2014/12/03 17:26:42	[HBHUN551-01]の実行処理が開始した。
+2014/12/03 17:26:42	外部exe実行：CBLCTFM.EXE</r C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN551-01\HBHUN551-01.cfm>
+2014/12/03 17:26:42	Std Output:	正常終了(DONE)
+
+2014/12/03 17:26:43	外部exe実行：CBLCTFM.EXE</a C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN551-01\HBHUN551-01.cfm>
+2014/12/03 17:26:43	Std Output:	正常終了(DONE)
+
+2014/12/03 17:26:43	外部exe実行：C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN551-01\HBHUN551.exe<>
+2014/12/03 17:26:44	Std Output:ＨＣＨＮゲームタイプ = 06
+前ＨＣＨＮ売上金額 = 0000010370367
+ＷＫ－売上金額 = 0000003456789
+後ＨＣＨＮ売上金額 = 0000013827156
+REWRITE
+ＨＣＨＮ売上金額 = 0000010375367
+ＨＣＨＮ売上金額 = 0000000020000
+ＨＣＨＮ売上金額 = 0000013827156
+ＨＣＨＮ売上金額 = 0000010375367
+ＨＣＨＮ売上金額 = 0000000020000
+ＨＣＨＮ売上金額 = 0000017283945
+ＨＣＨＮ売上金額 = 0000000090000
+ＨＣＨＮ売上金額 = 0000051851835
+ＨＣＨＮ売上金額 = 0000000150000
+ＨＣＨＮ売上金額 = 0000000030000
+ＨＣＨＮ売上金額 = 0000000010000
+CLOSEED
+前　　　ＣＨＵＲ売上金額 = 0000010375367
+Ｔ累計売上金額 = 0000013827156
+後　　　ＣＨＵＲ売上金額 = 0000024202523
+CX00081
+OUTPUT 日別販売ＣＨ別売上累計Ｒ
+OUTPUT 日別販売ＣＨ別売上累計Ｒ
+WRITE 日別販売ＣＨ別売上累計Ｒ
+WRITE 日別販売ＣＨ別売上累計Ｒ
+WRITE 日別販売ＣＨ別売上累計Ｒ
+WRITE 日別販売ＣＨ別売上累計Ｒ
+WRITE 日別販売ＣＨ別売上累計Ｒ
+WRITE 日別販売ＣＨ別売上累計Ｒ
+WRITE 日別販売ＣＨ別売上累計Ｒ
+WRITE 日別販売ＣＨ別売上累計Ｒ
+WRITE 日別販売ＣＨ別売上累計Ｒ
+WRITE 日別販売ＣＨ別売上累計Ｒ
+
+2014/12/03 17:26:44	[HBHUN551-01]の実行処理が正常終了した。
+2014/12/03 17:26:44	　　　☆☆☆実行処理が正常に終了しました。☆☆☆　　　
+2014/12/03 17:26:44	結果出力　処理開始　(export)
+2014/12/03 17:26:44	結果出力　処理終了　(export)
+2014/12/03 17:26:44	[HBHUN551-01]の結果出力処理が開始した。
+2014/12/03 17:26:49	[HBHUN551-01]に不一致が発生しました。
+2014/12/03 17:26:50	　　　☆☆☆結果出力処理が正常に終了しました。☆☆☆　　　
+2014/12/03 17:28:43	デバッグ　処理開始　(debug)
+2014/12/03 17:28:43	デバッグが開始しました。
+2014/12/03 17:28:43	デバッグが終了しました。
+2014/12/03 17:28:43	デバッグ　処理終了　(debug)
+2014/12/03 17:42:12	デバッグ　処理開始　(debug)
+2014/12/03 17:42:13	デバッグが開始しました。
+2014/12/03 17:42:13	外部exe実行：cobAddDisplay.exe<\\10.169.71.236\構成管理\事前準備\COBOL85修正後\\HBHUN551.cob C:\Work\Projects\aat\aat\bin\Debug\PreWork\src\HBHUN551.cob>
+2014/12/03 17:42:13	外部exe実行：CBL.EXE</M /Ccon /Dy /NOWARNING /O1 /IC:\Work\Cobol_分析\COPY\ /FeC:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\ HBHUN551.cob CFWUBU.cbl CFKAGM.cbl CFUNK1.cbl CFUNK2.cbl CFUNK3.cbl CFSUK1.cbl CFGYSA.cbl CFURBA.cbl CFHCHN.cbl CFCHUR.cbl>
+2014/12/03 17:42:14	'CBL.EXE /M /Ccon /Dy /NOWARNING /O1 /IC:\Work\Cobol_分析\COPY\ /FeC:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\ HBHUN551.cob CFWUBU.cbl CFKAGM.cbl CFUNK1.cbl CFUNK2.cbl CFUNK3.cbl CFSUK1.cbl CFGYSA.cbl CFURBA.cbl CFHCHN.cbl CFCHUR.cbl' finished with exit code = 8: Std output:
+COBOL85 Pro Version 8.7 
+(C) NEC Corporation 1998,2013
+HBHUN551.cob:
+  LINE T-NAME   T-LINE L DIAGNO ***** DIAGNOSTIC MESSAGE LIST *****
+    10              10 F D1043  符号系名指定の書き方が誤っている．
+    14              14 F D1008  デバイスタイプが指定されていない．
+    15              15 F D1034  ORGANIZATION句の書き方が誤っている．
+    17              17 F F0015  UNK-RKEYはRELATIVE KEY句に指定できない．
+    18              18 F S0251  ‘FL-STS2’が誤っている．
+    20              20 F D1008  デバイスタイプが指定されていない．
+    21              21 F D1034  ORGANIZATION句の書き方が誤っている．
+    23              23 F F0015  SUK-RKEYはRELATIVE KEY句に指定できない．
+    24              24 F S0251  ‘FL-STS2’が誤っている．
+    25              25 F D2178  順ファイルに指定されたACCESS MODE句が誤ってい
+                                る．
+    26              26 F D1008  デバイスタイプが指定されていない．
+    27              27 F D1034  ORGANIZATION句の書き方が誤っている．
+    30              30 F S0251  ‘FL-STS2’が誤っている．
+    31              31 F D2178  順ファイルに指定されたACCESS MODE句が誤ってい
+                                る．
+    32              32 F D1008  デバイスタイプが指定されていない．
+    33              33 F D1034  ORGANIZATION句の書き方が誤っている．
+    36              36 F S0251  ‘FL-STS2’が誤っている．
+    38              38 F D1008  デバイスタイプが指定されていない．
+    41              41 F S0251  ‘FL-STS2’が誤っている．
+    42              42 F D2178  順ファイルに指定されたACCESS MODE句が誤ってい
+                                る．
+    43              43 F D1008  デバイスタイプが指定されていない．
+    44              44 F D1034  ORGANIZATION句の書き方が誤っている．
+    47              47 F S0251  ‘FL-STS2’が誤っている．
+    48              48 F D2178  順ファイルに指定されたACCESS MODE句が誤ってい
+                                る．
+    49              49 F D1008  デバイスタイプが指定されていない．
+    50              50 F D1034  ORGANIZATION句の書き方が誤っている．
+    52              52 F F0014  ＧＹＳＡ業者コードはRECORD KEY句に指定できな
+                                い．
+    53              53 F S0251  ‘FL-STS2’が誤っている．
+    54              54 F D2178  順ファイルに指定されたACCESS MODE句が誤ってい
+                                る．
+    55              55 F D1008  デバイスタイプが指定されていない．
+    56              56 F D1034  ORGANIZATION句の書き方が誤っている．
+    59              59 F S0251  ‘FL-STS2’が誤っている．
+    60              60 F D2178  順ファイルに指定されたACCESS MODE句が誤ってい
+                                る．
+    61              61 F D1008  デバイスタイプが指定されていない．
+    62              62 F D1034  ORGANIZATION句の書き方が誤っている．
+    65              65 F S0251  ‘FL-STS2’が誤っている．
+    68              68 F D2233  VALUE OF句が指定されていない．
+    81              72 F D2233  VALUE OF句が指定されていない．
+    93              76 F D2233  VALUE OF句が指定されていない．
+   106              81 F D2233  VALUE OF句が指定されていない．
+   107              82 F D2095  RECORD CONTAINS句の書き方が誤っている．
+   221              89 F D2233  VALUE OF句が指定されていない．
+   222              90 F D2095  RECORD CONTAINS句の書き方が誤っている．
+   265              93 F D2233  VALUE OF句が指定されていない．
+   312              97 F D2233  VALUE OF句が指定されていない．
+   423             101 F D2233  VALUE OF句が指定されていない．
+   439             105 F D2233  VALUE OF句が指定されていない．
+   483             143 F F0041  単位領域の大きさが６４Kバイトを超えている．
+   501             161 F H0006  SPCOMMITは定義されていない．
+   506             166 F H0006  ABORTは定義されていない．
+   513             173 F H0006  ABORTは定義されていない．
+   520             180 F H0006  ABORTは定義されていない．
+   527             187 F H0006  ABORTは定義されていない．
+   534             194 F H0006  ABORTは定義されていない．
+   537             197 F J0053  I-O句の指定が誤っている．
+   541             201 F H0006  ABORTは定義されていない．
+   544             204 F J0053  I-O句の指定が誤っている．
+   548             208 F H0006  ABORTは定義されていない．
+   552             212 F E0020  範囲符の記述が誤っている．
+   552             212 F J0054  AT END／INVALID KEY句を指定しなければならない
+                                ．
+   556             216 F H0006  ABORTは定義されていない．
+   580             240 F H0006  ABORTは定義されていない．
+   590             250 F H0006  ABORTは定義されていない．
+   608             268 F H0006  ABORTは定義されていない．
+   615             275 F H0006  ABORTは定義されていない．
+   622             282 F H0006  ABORTは定義されていない．
+   629             289 F H0006  ABORTは定義されていない．
+   636             296 F H0006  ABORTは定義されていない．
+   643             303 F H0006  ABORTは定義されていない．
+   650             310 F H0006  ABORTは定義されていない．
+   658             318 F H0006  ABORTは定義されていない．
+   668             328 F H0006  ABORTは定義されていない．
+   673             333 F C0017  許されない文字列がある．
+   673             333 F C0017  許されない文字列がある．
+   673             333 F S8251  ‘=’が誤っている．
+   685             345 F H0006  ABORTは定義されていない．
+   703             363 F H0006  ABORTは定義されていない．
+   711             371 F E0020  範囲符の記述が誤っている．
+   711             371 F J0054  AT END／INVALID KEY句を指定しなければならない
+                                ．
+   715             375 F H0006  ABORTは定義されていない．
+   723             383 F J0054  AT END／INVALID KEY句を指定しなければならない
+                                ．
+   723             383 F E0020  範囲符の記述が誤っている．
+   727             387 F H0006  ABORTは定義されていない．
+   743             403 F J0054  AT END／INVALID KEY句を指定しなければならない
+                                ．
+   743             403 F E0020  範囲符の記述が誤っている．
+   747             407 F H0006  ABORTは定義されていない．
+   751             411 F J0054  AT END／INVALID KEY句を指定しなければならない
+                                ．
+   751             411 F E0020  範囲符の記述が誤っている．
+   755             415 F H0006  ABORTは定義されていない．
+   761             421 F J0054  AT END／INVALID KEY句を指定しなければならない
+                                ．
+   762             422 F E0020  範囲符の記述が誤っている．
+   766             426 F E0020  範囲符の記述が誤っている．
+   770             430 F H0006  ABORTは定義されていない．
+   782             442 F E0020  範囲符の記述が誤っている．
+   786             446 F H0006  ABORTは定義されていない．
+   794             454 F H0006  ABORTは定義されていない．
+   826             486 F J0054  AT END／INVALID KEY句を指定しなければならない
+                                ．
+   826             486 F E0020  範囲符の記述が誤っている．
+   830             490 F H0006  ABORTは定義されていない．
+   864             524 F J0052  作用対象に指定できないファイルを指定している
+                                ．
+   870             530 F H0006  ABORTは定義されていない．
+   880             540 F H0006  ABORTは定義されていない．
+   906             566 F H0006  ABORTは定義されていない．
+   922             582 F J0054  AT END／INVALID KEY句を指定しなければならない
+                                ．
+   922             582 F E0020  範囲符の記述が誤っている．
+   927             587 F E0020  範囲符の記述が誤っている．
+   929             589 F H0006  SYSOUTは定義されていない．
+   931             591 F H0006  ABORTは定義されていない．
+   941             601 F E0020  範囲符の記述が誤っている．
+   943             603 F H0006  SYSOUTは定義されていない．
+   945             605 F H0006  ABORTは定義されていない．
+   951             611 F H0006  SYSOUTは定義されていない．
+   953             613 F H0006  ABORTは定義されていない．
+   978             638 F H0006  SYSOUTは定義されていない．
+   980             640 F H0006  ABORTは定義されていない．
+  1007             667 F E0020  範囲符の記述が誤っている．
+  1009             669 F H0006  SYSOUTは定義されていない．
+  1011             671 F H0006  ABORTは定義されていない．
+    ***** ERROR SUMMARY LIST *****
+    00118  FATAL ERRORS
+    00000  WARNINGS
+    UNSUCCESSFULLY COMPILED
+CFWUBU.cbl:
+ [S0004]  CFWUBU.cbl : 指定されたファイルが見つかりません
+
+
+2014/12/03 17:42:14	[HBHUN551.cob]'CBL.EXE /M /Ccon /Dy /NOWARNING /O1 /IC:\Work\Cobol_分析\COPY\ /FeC:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\ HBHUN551.cob CFWUBU.cbl CFKAGM.cbl CFUNK1.cbl CFUNK2.cbl CFUNK3.cbl CFSUK1.cbl CFGYSA.cbl CFURBA.cbl CFHCHN.cbl CFCHUR.cbl' finished with exit code = 8: Std output:
+COBOL85 Pro Version 8.7 
+(C) NEC Corporation 1998,2013
+HBHUN551.cob:
+  LINE T-NAME   T-LINE L DIAGNO ***** DIAGNOSTIC MESSAGE LIST *****
+    10              10 F D1043  符号系名指定の書き方が誤っている．
+    14              14 F D1008  デバイスタイプが指定されていない．
+    15              15 F D1034  ORGANIZATION句の書き方が誤っている．
+    17              17 F F0015  UNK-RKEYはRELATIVE KEY句に指定できない．
+    18              18 F S0251  ‘FL-STS2’が誤っている．
+    20              20 F D1008  デバイスタイプが指定されていない．
+    21              21 F D1034  ORGANIZATION句の書き方が誤っている．
+    23              23 F F0015  SUK-RKEYはRELATIVE KEY句に指定できない．
+    24              24 F S0251  ‘FL-STS2’が誤っている．
+    25              25 F D2178  順ファイルに指定されたACCESS MODE句が誤ってい
+                                る．
+    26              26 F D1008  デバイスタイプが指定されていない．
+    27              27 F D1034  ORGANIZATION句の書き方が誤っている．
+    30              30 F S0251  ‘FL-STS2’が誤っている．
+    31              31 F D2178  順ファイルに指定されたACCESS MODE句が誤ってい
+                                る．
+    32              32 F D1008  デバイスタイプが指定されていない．
+    33              33 F D1034  ORGANIZATION句の書き方が誤っている．
+    36              36 F S0251  ‘FL-STS2’が誤っている．
+    38              38 F D1008  デバイスタイプが指定されていない．
+    41              41 F S0251  ‘FL-STS2’が誤っている．
+    42              42 F D2178  順ファイルに指定されたACCESS MODE句が誤ってい
+                                る．
+    43              43 F D1008  デバイスタイプが指定されていない．
+    44              44 F D1034  ORGANIZATION句の書き方が誤っている．
+    47              47 F S0251  ‘FL-STS2’が誤っている．
+    48              48 F D2178  順ファイルに指定されたACCESS MODE句が誤ってい
+                                る．
+    49              49 F D1008  デバイスタイプが指定されていない．
+    50              50 F D1034  ORGANIZATION句の書き方が誤っている．
+    52              52 F F0014  ＧＹＳＡ業者コードはRECORD KEY句に指定できな
+                                い．
+    53              53 F S0251  ‘FL-STS2’が誤っている．
+    54              54 F D2178  順ファイルに指定されたACCESS MODE句が誤ってい
+                                る．
+    55              55 F D1008  デバイスタイプが指定されていない．
+    56              56 F D1034  ORGANIZATION句の書き方が誤っている．
+    59              59 F S0251  ‘FL-STS2’が誤っている．
+    60              60 F D2178  順ファイルに指定されたACCESS MODE句が誤ってい
+                                る．
+    61              61 F D1008  デバイスタイプが指定されていない．
+    62              62 F D1034  ORGANIZATION句の書き方が誤っている．
+    65              65 F S0251  ‘FL-STS2’が誤っている．
+    68              68 F D2233  VALUE OF句が指定されていない．
+    81              72 F D2233  VALUE OF句が指定されていない．
+    93              76 F D2233  VALUE OF句が指定されていない．
+   106              81 F D2233  VALUE OF句が指定されていない．
+   107              82 F D2095  RECORD CONTAINS句の書き方が誤っている．
+   221              89 F D2233  VALUE OF句が指定されていない．
+   222              90 F D2095  RECORD CONTAINS句の書き方が誤っている．
+   265              93 F D2233  VALUE OF句が指定されていない．
+   312              97 F D2233  VALUE OF句が指定されていない．
+   423             101 F D2233  VALUE OF句が指定されていない．
+   439             105 F D2233  VALUE OF句が指定されていない．
+   483             143 F F0041  単位領域の大きさが６４Kバイトを超えている．
+   501             161 F H0006  SPCOMMITは定義されていない．
+   506             166 F H0006  ABORTは定義されていない．
+   513             173 F H0006  ABORTは定義されていない．
+   520             180 F H0006  ABORTは定義されていない．
+   527             187 F H0006  ABORTは定義されていない．
+   534             194 F H0006  ABORTは定義されていない．
+   537             197 F J0053  I-O句の指定が誤っている．
+   541             201 F H0006  ABORTは定義されていない．
+   544             204 F J0053  I-O句の指定が誤っている．
+   548             208 F H0006  ABORTは定義されていない．
+   552             212 F E0020  範囲符の記述が誤っている．
+   552             212 F J0054  AT END／INVALID KEY句を指定しなければならない
+                                ．
+   556             216 F H0006  ABORTは定義されていない．
+   580             240 F H0006  ABORTは定義されていない．
+   590             250 F H0006  ABORTは定義されていない．
+   608             268 F H0006  ABORTは定義されていない．
+   615             275 F H0006  ABORTは定義されていない．
+   622             282 F H0006  ABORTは定義されていない．
+   629             289 F H0006  ABORTは定義されていない．
+   636             296 F H0006  ABORTは定義されていない．
+   643             303 F H0006  ABORTは定義されていない．
+   650             310 F H0006  ABORTは定義されていない．
+   658             318 F H0006  ABORTは定義されていない．
+   668             328 F H0006  ABORTは定義されていない．
+   673             333 F C0017  許されない文字列がある．
+   673             333 F C0017  許されない文字列がある．
+   673             333 F S8251  ‘=’が誤っている．
+   685             345 F H0006  ABORTは定義されていない．
+   703             363 F H0006  ABORTは定義されていない．
+   711             371 F E0020  範囲符の記述が誤っている．
+   711             371 F J0054  AT END／INVALID KEY句を指定しなければならない
+                                ．
+   715             375 F H0006  ABORTは定義されていない．
+   723             383 F J0054  AT END／INVALID KEY句を指定しなければならない
+                                ．
+   723             383 F E0020  範囲符の記述が誤っている．
+   727             387 F H0006  ABORTは定義されていない．
+   743             403 F J0054  AT END／INVALID KEY句を指定しなければならない
+                                ．
+   743             403 F E0020  範囲符の記述が誤っている．
+   747             407 F H0006  ABORTは定義されていない．
+   751             411 F J0054  AT END／INVALID KEY句を指定しなければならない
+                                ．
+   751             411 F E0020  範囲符の記述が誤っている．
+   755             415 F H0006  ABORTは定義されていない．
+   761             421 F J0054  AT END／INVALID KEY句を指定しなければならない
+                                ．
+   762             422 F E0020  範囲符の記述が誤っている．
+   766             426 F E0020  範囲符の記述が誤っている．
+   770             430 F H0006  ABORTは定義されていない．
+   782             442 F E0020  範囲符の記述が誤っている．
+   786             446 F H0006  ABORTは定義されていない．
+   794             454 F H0006  ABORTは定義されていない．
+   826             486 F J0054  AT END／INVALID KEY句を指定しなければならない
+                                ．
+   826             486 F E0020  範囲符の記述が誤っている．
+   830             490 F H0006  ABORTは定義されていない．
+   864             524 F J0052  作用対象に指定できないファイルを指定している
+                                ．
+   870             530 F H0006  ABORTは定義されていない．
+   880             540 F H0006  ABORTは定義されていない．
+   906             566 F H0006  ABORTは定義されていない．
+   922             582 F J0054  AT END／INVALID KEY句を指定しなければならない
+                                ．
+   922             582 F E0020  範囲符の記述が誤っている．
+   927             587 F E0020  範囲符の記述が誤っている．
+   929             589 F H0006  SYSOUTは定義されていない．
+   931             591 F H0006  ABORTは定義されていない．
+   941             601 F E0020  範囲符の記述が誤っている．
+   943             603 F H0006  SYSOUTは定義されていない．
+   945             605 F H0006  ABORTは定義されていない．
+   951             611 F H0006  SYSOUTは定義されていない．
+   953             613 F H0006  ABORTは定義されていない．
+   978             638 F H0006  SYSOUTは定義されていない．
+   980             640 F H0006  ABORTは定義されていない．
+  1007             667 F E0020  範囲符の記述が誤っている．
+  1009             669 F H0006  SYSOUTは定義されていない．
+  1011             671 F H0006  ABORTは定義されていない．
+    ***** ERROR SUMMARY LIST *****
+    00118  FATAL ERRORS
+    00000  WARNINGS
+    UNSUCCESSFULLY COMPILED
+CFWUBU.cbl:
+ [S0004]  CFWUBU.cbl : 指定されたファイルが見つかりません
+
+
+2014/12/03 18:26:39	デバッグがキャンセルされました。
+2014/12/03 18:26:39	デバッグ　処理終了　(debug)
+2014/12/03 18:26:41	デバッグ　処理開始　(debug)
+2014/12/03 18:26:41	デバッグが開始しました。
+2014/12/03 18:26:41	外部exe実行：cobAddDisplay.exe<\\10.169.71.236\構成管理\事前準備\COBOL85修正後\\HBHUN551.cob C:\Work\Projects\aat\aat\bin\Debug\PreWork\src\HBHUN551.cob>
+2014/12/03 18:26:41	外部exe実行：CBL.EXE</M /Ccon /Dy /NOWARNING /O1 /IC:\Work\Cobol_分析\COPY\ /FeC:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\ HBHUN551.cob CFWUBU.cbl CFKAGM.cbl CFUNK1.cbl CFUNK2.cbl CFUNK3.cbl CFSUK1.cbl CFGYSA.cbl CFURBA.cbl CFHCHN.cbl CFCHUR.cbl>
+2014/12/03 18:26:42	'CBL.EXE /M /Ccon /Dy /NOWARNING /O1 /IC:\Work\Cobol_分析\COPY\ /FeC:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\ HBHUN551.cob CFWUBU.cbl CFKAGM.cbl CFUNK1.cbl CFUNK2.cbl CFUNK3.cbl CFSUK1.cbl CFGYSA.cbl CFURBA.cbl CFHCHN.cbl CFCHUR.cbl' finished with exit code = 8: Std output:
+COBOL85 Pro Version 8.7 
+(C) NEC Corporation 1998,2013
+HBHUN551.cob:
+    ***** ERROR SUMMARY LIST *****
+    00000  FATAL ERRORS
+    00000  WARNINGS
+    SUCCESSFULLY COMPILED
+CFWUBU.cbl:
+ [S0004]  CFWUBU.cbl : 指定されたファイルが見つかりません
+
+
+2014/12/03 18:26:42	[HBHUN551.cob]'CBL.EXE /M /Ccon /Dy /NOWARNING /O1 /IC:\Work\Cobol_分析\COPY\ /FeC:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\ HBHUN551.cob CFWUBU.cbl CFKAGM.cbl CFUNK1.cbl CFUNK2.cbl CFUNK3.cbl CFSUK1.cbl CFGYSA.cbl CFURBA.cbl CFHCHN.cbl CFCHUR.cbl' finished with exit code = 8: Std output:
+COBOL85 Pro Version 8.7 
+(C) NEC Corporation 1998,2013
+HBHUN551.cob:
+    ***** ERROR SUMMARY LIST *****
+    00000  FATAL ERRORS
+    00000  WARNINGS
+    SUCCESSFULLY COMPILED
+CFWUBU.cbl:
+ [S0004]  CFWUBU.cbl : 指定されたファイルが見つかりません
+
+
+2014/12/03 18:27:02	デバッグが終了しました。
+2014/12/03 18:27:02	デバッグ　処理終了　(debug)
+2014/12/03 18:30:21	デバッグ　処理開始　(debug)
+2014/12/03 18:30:21	デバッグが開始しました。
+2014/12/03 18:30:21	外部exe実行：cobAddDisplay.exe<\\10.169.71.236\構成管理\事前準備\COBOL85修正後\\HSAAL020.cob C:\Work\Projects\aat\aat\bin\Debug\PreWork\src\HSAAL020.cob>
+2014/12/03 18:30:21	外部exe実行：cobAddDisplay.exe<\\10.169.71.236\構成管理\事前準備\COBOL85修正後\\HRATS010.cob C:\Work\Projects\aat\aat\bin\Debug\PreWork\src\HRATS010.cob>
+2014/12/03 18:30:22	外部exe実行：cobAddDisplay.exe<\\10.169.71.236\構成管理\事前準備\COBOL85修正後\\HSAAL040.cob C:\Work\Projects\aat\aat\bin\Debug\PreWork\src\HSAAL040.cob>
+2014/12/03 18:30:22	外部exe実行：cobAddDisplay.exe<\\10.169.71.236\構成管理\事前準備\COBOL85修正後\\HSAAL060.cob C:\Work\Projects\aat\aat\bin\Debug\PreWork\src\HSAAL060.cob>
+2014/12/03 18:30:22	外部exe実行：cobAddDisplay.exe<\\10.169.71.236\構成管理\事前準備\COBOL85修正後\\HSAAL250.cob C:\Work\Projects\aat\aat\bin\Debug\PreWork\src\HSAAL250.cob>
+2014/12/03 18:30:22	外部exe実行：cobAddDisplay.exe<\\10.169.71.236\構成管理\事前準備\COBOL85修正後\\HBHUN370.cob C:\Work\Projects\aat\aat\bin\Debug\PreWork\src\HBHUN370.cob>
+2014/12/03 18:30:30	'cobAddDisplay.exe \\10.169.71.236\構成管理\事前準備\COBOL85修正後\\HBHUN370.cob C:\Work\Projects\aat\aat\bin\Debug\PreWork\src\HBHUN370.cob' finished with exit code = -532462766: 
+ハンドルされていない例外: System.IO.IOException: 別のプロセスで使用されているため、プロセスはファイル 'C:\Work\Projects\aat\aat\bin\Debug\PreWork\src\HBHUN370.cob' にアクセスできません。
+   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   場所 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   場所 cobAddDisplay.Program.addDisplay(String srcFileName, String dstFileName)
+   場所 cobAddDisplay.Program.Main(String[] args)
+
+
+2014/12/03 18:30:30	外部exe実行：CBL.EXE</M /Ccon /Dy /NOWARNING /O1 /IC:\Work\Cobol_分析\COPY\ /FeC:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\ HBHUN370.cob HSAAL020.cob HRATS010.cob HSAAL040.cob HSAAL060.cob HSAAL250.cob>
+2014/12/03 18:30:33	Std Output:COBOL85 Pro Version 8.7 
+(C) NEC Corporation 1998,2013
+HBHUN370.cob:
+    ***** ERROR SUMMARY LIST *****
+    00000  FATAL ERRORS
+    00000  WARNINGS
+    SUCCESSFULLY COMPILED
+HSAAL020.cob:
+    ***** ERROR SUMMARY LIST *****
+    00000  FATAL ERRORS
+    00000  WARNINGS
+    SUCCESSFULLY COMPILED
+HRATS010.cob:
+    ***** ERROR SUMMARY LIST *****
+    00000  FATAL ERRORS
+    00000  WARNINGS
+    SUCCESSFULLY COMPILED
+HSAAL040.cob:
+    ***** ERROR SUMMARY LIST *****
+    00000  FATAL ERRORS
+    00000  WARNINGS
+    SUCCESSFULLY COMPILED
+HSAAL060.cob:
+    ***** ERROR SUMMARY LIST *****
+    00000  FATAL ERRORS
+    00000  WARNINGS
+    SUCCESSFULLY COMPILED
+HSAAL250.cob:
+    ***** ERROR SUMMARY LIST *****
+    00000  FATAL ERRORS
+    00000  WARNINGS
+    SUCCESSFULLY COMPILED
+Microsoft (R) Windows (R) Resource Compiler Version 6.3.9600.17298
+Copyright (C) Microsoft Corporation.  All rights reserved.
+Microsoft (R) Incremental Linker Version 12.00.31101.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+/SUBSYSTEM:CONSOLE /ENTRY:mainCRTStartup "HBHUN370.obj" "HSAAL020.obj" "HRATS010.obj" "HSAAL040.obj" "HSAAL060.obj" "HSAAL250.obj" "C:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\HBHUN370.res" "/OUT:C:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\HBHUN370.exe" cblrt.lib cblrts.lib cblxml.lib msvcrt.lib kernel32.lib 
+Microsoft (R) Manifest Tool version 6.3.9600.17298
+Copyright (c) Microsoft Corporation 2012. 
+All rights reserved.
+
+2014/12/03 18:30:33	外部exe実行：cobAddDisplay.exe<\\10.169.71.236\構成管理\事前準備\COBOL85修正後\\HBHUN551.cob C:\Work\Projects\aat\aat\bin\Debug\PreWork\src\HBHUN551.cob>
+2014/12/03 18:30:33	外部exe実行：CBL.EXE</M /Ccon /Dy /NOWARNING /O1 /IC:\Work\Cobol_分析\COPY\ /FeC:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\ HBHUN551.cob CFWUBU.cbl CFKAGM.cbl CFUNK1.cbl CFUNK2.cbl CFUNK3.cbl CFSUK1.cbl CFGYSA.cbl CFURBA.cbl CFHCHN.cbl CFCHUR.cbl>
+2014/12/03 18:30:33	'CBL.EXE /M /Ccon /Dy /NOWARNING /O1 /IC:\Work\Cobol_分析\COPY\ /FeC:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\ HBHUN551.cob CFWUBU.cbl CFKAGM.cbl CFUNK1.cbl CFUNK2.cbl CFUNK3.cbl CFSUK1.cbl CFGYSA.cbl CFURBA.cbl CFHCHN.cbl CFCHUR.cbl' finished with exit code = 8: Std output:
+COBOL85 Pro Version 8.7 
+(C) NEC Corporation 1998,2013
+HBHUN551.cob:
+    ***** ERROR SUMMARY LIST *****
+    00000  FATAL ERRORS
+    00000  WARNINGS
+    SUCCESSFULLY COMPILED
+CFWUBU.cbl:
+ [S0004]  CFWUBU.cbl : 指定されたファイルが見つかりません
+
+
+2014/12/03 18:30:33	[HBHUN551.cob]'CBL.EXE /M /Ccon /Dy /NOWARNING /O1 /IC:\Work\Cobol_分析\COPY\ /FeC:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\ HBHUN551.cob CFWUBU.cbl CFKAGM.cbl CFUNK1.cbl CFUNK2.cbl CFUNK3.cbl CFSUK1.cbl CFGYSA.cbl CFURBA.cbl CFHCHN.cbl CFCHUR.cbl' finished with exit code = 8: Std output:
+COBOL85 Pro Version 8.7 
+(C) NEC Corporation 1998,2013
+HBHUN551.cob:
+    ***** ERROR SUMMARY LIST *****
+    00000  FATAL ERRORS
+    00000  WARNINGS
+    SUCCESSFULLY COMPILED
+CFWUBU.cbl:
+ [S0004]  CFWUBU.cbl : 指定されたファイルが見つかりません
+
+
+2014/12/03 18:30:39	デバッグが終了しました。
+2014/12/03 18:30:39	デバッグ　処理終了　(debug)
+2014/12/03 18:32:05	デバッグ　処理開始　(debug)
+2014/12/03 18:32:05	デバッグが開始しました。
+2014/12/03 18:32:05	外部exe実行：cobAddDisplay.exe<\\10.169.71.236\構成管理\事前準備\COBOL85修正後\\HBHUN551.cob C:\Work\Projects\aat\aat\bin\Debug\PreWork\src\HBHUN551.cob>
+2014/12/03 18:32:05	外部exe実行：CBL.EXE</M /Ccon /Dy /NOWARNING /O1 /IC:\Work\Cobol_分析\COPY\ /FeC:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\ HBHUN551.cob >
+2014/12/03 18:32:06	Std Output:COBOL85 Pro Version 8.7 
+(C) NEC Corporation 1998,2013
+    ***** ERROR SUMMARY LIST *****
+    00000  FATAL ERRORS
+    00000  WARNINGS
+    SUCCESSFULLY COMPILED
+Microsoft (R) Windows (R) Resource Compiler Version 6.3.9600.17298
+Copyright (C) Microsoft Corporation.  All rights reserved.
+Microsoft (R) Incremental Linker Version 12.00.31101.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+/SUBSYSTEM:CONSOLE /ENTRY:mainCRTStartup "HBHUN551.obj" "C:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\HBHUN551.res" "/OUT:C:\Work\Projects\aat\aat\bin\Debug\PreWork\lib\HBHUN551.exe" cblrt.lib cblrts.lib cblxml.lib msvcrt.lib kernel32.lib 
+Microsoft (R) Manifest Tool version 6.3.9600.17298
+Copyright (c) Microsoft Corporation 2012. 
+All rights reserved.
+
+2014/12/03 18:32:06	デバッグが終了しました。
+2014/12/03 18:32:06	デバッグ　処理終了　(debug)
+2014/12/03 18:33:01	実行　処理開始　(perform)
+2014/12/03 18:33:01	実行　処理終了　(perform)
+2014/12/03 18:33:01	[HBHUN551-01]の実行処理が開始した。
+2014/12/03 18:33:02	外部exe実行：CBLCTFM.EXE</r C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN551-01\HBHUN551-01.cfm>
+2014/12/03 18:33:02	Std Output:	正常終了(DONE)
+
+2014/12/03 18:33:02	外部exe実行：CBLCTFM.EXE</a C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN551-01\HBHUN551-01.cfm>
+2014/12/03 18:33:02	Std Output:	正常終了(DONE)
+
+2014/12/03 18:33:02	外部exe実行：C:\Work\Projects\aat\aat\bin\Debug\Work\HBHUN551-01\HBHUN551.exe<>
+2014/12/03 18:33:03	Std Output:CX00011
+CX00012
+CX00013
+CX00014
+CX00015
+CX00016
+CX00017
+CX00018
+CX00020
+CX00023
+CX00026
+CX00025
+CX00038
+CX00039
+CX00041
+CX00043
+CX00042
+CX00044
+CX00047
+CX00046
+CX00049
+CX00050
+CX00051
+ＨＣＨＮゲームタイプ = 06
+前ＨＣＨＮ売上金額 = 0000010370367
+ＷＫ－売上金額 = 0000003456789
+後ＨＣＨＮ売上金額 = 0000013827156
+REWRITE
+CX00053
+CX00054
+CX00057
+CX00058
+CX00040
+CX00067
+CX00068
+CX00070
+ＨＣＨＮ売上金額 = 0000010375367
+CX00071
+CX00068
+CX00070
+ＨＣＨＮ売上金額 = 0000000020000
+CX00071
+CX00068
+CX00070
+ＨＣＨＮ売上金額 = 0000013827156
+CX00071
+CX00068
+CX00070
+ＨＣＨＮ売上金額 = 0000010375367
+CX00071
+CX00068
+CX00070
+ＨＣＨＮ売上金額 = 0000000020000
+CX00071
+CX00068
+CX00070
+ＨＣＨＮ売上金額 = 0000017283945
+CX00071
+CX00068
+CX00070
+ＨＣＨＮ売上金額 = 0000000090000
+CX00071
+CX00068
+CX00070
+ＨＣＨＮ売上金額 = 0000051851835
+CX00071
+CX00068
+CX00070
+ＨＣＨＮ売上金額 = 0000000150000
+CX00071
+CX00068
+CX00070
+ＨＣＨＮ売上金額 = 0000000030000
+CX00071
+CX00068
+CX00070
+ＨＣＨＮ売上金額 = 0000000010000
+CX00071
+CX00068
+CX00070
+CX00071
+CX00069
+CLOSEED
+CX00072
+CX00059
+CX00060
+CX00061
+CX00062
+CX00064
+CX00073
+CX00075
+CX00073
+CX00075
+CX00073
+前　　　ＣＨＵＲ売上金額 = 0000010375367
+Ｔ累計売上金額 = 0000013827156
+後　　　ＣＨＵＲ売上金額 = 0000024202523
+CX00077
+CX00078
+CX00081
+CX00081
+CX00075
+CX00073
+CX00075
+CX00073
+CX00075
+CX00073
+CX00075
+CX00073
+CX00075
+CX00073
+CX00075
+CX00073
+CX00075
+CX00073
+CX00075
+CX00073
+CX00075
+CX00074
+CX00066
+CX00065
+CX00062
+CX00065
+CX00063
+OUTPUT 日別販売ＣＨ別売上累計Ｒ
+OUTPUT 日別販売ＣＨ別売上累計Ｒ
+CX00082
+CX00083
+CX00085
+WRITE 日別販売ＣＨ別売上累計Ｒ
+CX00087
+CX00088
+CX00086
+CX00083
+CX00085
+WRITE 日別販売ＣＨ別売上累計Ｒ
+CX00087
+CX00088
+CX00086
+CX00083
+CX00086
+CX00083
+CX00085
+WRITE 日別販売ＣＨ別売上累計Ｒ
+CX00087
+CX00088
+CX00086
+CX00083
+CX00085
+WRITE 日別販売ＣＨ別売上累計Ｒ
+CX00087
+CX00088
+CX00086
+CX00083
+CX00085
+WRITE 日別販売ＣＨ別売上累計Ｒ
+CX00087
+CX00088
+CX00086
+CX00083
+CX00085
+WRITE 日別販売ＣＨ別売上累計Ｒ
+CX00087
+CX00088
+CX00086
+CX00083
+CX00085
+WRITE 日別販売ＣＨ別売上累計Ｒ
+CX00087
+CX00088
+CX00086
+CX00083
+CX00085
+WRITE 日別販売ＣＨ別売上累計Ｒ
+CX00087
+CX00088
+CX00086
+CX00083
+CX00085
+WRITE 日別販売ＣＨ別売上累計Ｒ
+CX00087
+CX00088
+CX00086
+CX00083
+CX00085
+WRITE 日別販売ＣＨ別売上累計Ｒ
+CX00087
+CX00088
+CX00086
+CX00084
+CX00027
+CX00028
+CX00029
+CX00030
+CX00031
+CX00032
+CX00033
+CX00034
+CX00037
+CX00036
+
+2014/12/03 18:33:03	[HBHUN551-01]の実行処理が正常終了した。
+2014/12/03 18:33:03	　　　☆☆☆実行処理が正常に終了しました。☆☆☆　　　
+2014/12/03 18:33:03	結果出力　処理開始　(export)
+2014/12/03 18:33:03	結果出力　処理終了　(export)
+2014/12/03 18:33:03	[HBHUN551-01]の結果出力処理が開始した。
+2014/12/03 18:33:06	[HBHUN551-01]に不一致が発生しました。
+2014/12/03 18:33:06	　　　☆☆☆結果出力処理が正常に終了しました。☆☆☆　　　

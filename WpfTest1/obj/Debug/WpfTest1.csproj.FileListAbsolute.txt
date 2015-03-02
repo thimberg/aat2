@@ -1,0 +1,17 @@
+C:\Work\Projects\aat\WpfTest1\bin\Debug\WpfTest1.exe.config
+C:\Work\Projects\aat\WpfTest1\bin\Debug\WpfTest1.exe
+C:\Work\Projects\aat\WpfTest1\bin\Debug\WpfTest1.pdb
+C:\Work\Projects\aat\WpfTest1\obj\Debug\MainWindow.baml
+C:\Work\Projects\aat\WpfTest1\obj\Debug\MainWindow.g.cs
+C:\Work\Projects\aat\WpfTest1\obj\Debug\App.g.cs
+C:\Work\Projects\aat\WpfTest1\obj\Debug\WpfTest1_MarkupCompile.cache
+C:\Work\Projects\aat\WpfTest1\obj\Debug\WpfTest1.g.resources
+C:\Work\Projects\aat\WpfTest1\obj\Debug\WpfTest1.Properties.Resources.resources
+C:\Work\Projects\aat\WpfTest1\obj\Debug\WpfTest1.csproj.GenerateResource.Cache
+C:\Work\Projects\aat\WpfTest1\obj\Debug\WpfTest1.exe
+C:\Work\Projects\aat\WpfTest1\obj\Debug\WpfTest1.pdb
+C:\Work\Projects\aat\WpfTest1\obj\Debug\WpfTest1.csprojResolveAssemblyReference.cache
+C:\Work\Projects\aat\WpfTest1\obj\Debug\WpfTest1.testForm.resources
+C:\Work\Projects\aat\WpfTest1\obj\Debug\WpfTest1.testForm2.resources
+C:\Work\Projects\aat\WpfTest1\obj\Debug\WpfTest1.ListViewU.resources
+C:\Work\Projects\aat\WpfTest1\obj\Debug\WpfTest1.testForm3.resources

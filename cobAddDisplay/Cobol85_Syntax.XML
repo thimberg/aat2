@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<syntax>
+    <token key='MOVE' type='INST' nature='STLN' noterm='2'>
+        <style id='01'>
+            <proc pos='1' cmd='ANY'/>
+            <proc pos='2' cmd='TO'/>
+            <proc pos='3' cmd='ANY'/>
+        </style>
+        <end endtag="ANY" />  
+        <end endtag="." />  
+    </token>
+    <token key='DISPLAY' type='INST' nature='STLN' noterm='2'>
+        <end endtag="ANY" />  
+        <end endtag="." />  
+    </token>
+    <token key='IF' type='COND' nature='ENCAP' noterm='2'>
+        <end endtag="ANY" />  
+        <end endtag="." />  
+    </token>
+    <token key='COMPUTE' type='COND' nature='ENCAP' noterm='2'>
+        <style id='01'>
+            <proc pos='1' cmd='ANY'/>
+            <proc pos='2' cmd='='/>
+            <proc pos='3' cmd='FORMULA'/>
+        </style>
+        <end endtag="END－COMPUTE" />  
+        <end endtag="." />  
+    </token>
+    <token key='PERFORM' type='COND' nature='ENCAP' noterm='2'>
+        <style id='01'>
+            <proc pos='1' cmd='ANY'/>
+            <proc pos='2' cmd='THRU'/>
+            <proc pos='3' cmd='ANY'/>
+        </style>
+        <end endtag="END-PERFORM" />  
+        <end endtag="." />  
+    </token>
+</syntax>

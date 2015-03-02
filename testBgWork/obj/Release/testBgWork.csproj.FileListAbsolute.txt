@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\testBgWork\bin\Release\testBgWork.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\testBgWork\bin\Release\testBgWork.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\testBgWork\bin\Release\testBgWork.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\testBgWork\obj\Release\testBgWork.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\testBgWork\obj\Release\aat.main.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\testBgWork\obj\Release\aat.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\testBgWork\obj\Release\testBgWork.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\testBgWork\obj\Release\testBgWork.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\testBgWork\obj\Release\testBgWork.pdb

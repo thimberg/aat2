@@ -1,0 +1,11 @@
+C:\Work\Projects\aat\CreateSN\bin\Release\CreateSN.exe.config
+C:\Work\Projects\aat\CreateSN\bin\Release\CreateSN.exe
+C:\Work\Projects\aat\CreateSN\bin\Release\CreateSN.pdb
+C:\Work\Projects\aat\CreateSN\bin\Release\Com.OnForm32.dll
+C:\Work\Projects\aat\CreateSN\bin\Release\Com.OnForm32.pdb
+C:\Work\Projects\aat\CreateSN\obj\Release\CreateSN.csprojResolveAssemblyReference.cache
+C:\Work\Projects\aat\CreateSN\obj\Release\CreateSN.Form1.resources
+C:\Work\Projects\aat\CreateSN\obj\Release\CreateSN.Properties.Resources.resources
+C:\Work\Projects\aat\CreateSN\obj\Release\CreateSN.csproj.GenerateResource.Cache
+C:\Work\Projects\aat\CreateSN\obj\Release\CreateSN.exe
+C:\Work\Projects\aat\CreateSN\obj\Release\CreateSN.pdb

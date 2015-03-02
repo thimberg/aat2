@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\mySleep\bin\Release\mySleep.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\mySleep\bin\Release\mySleep.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\mySleep\bin\Release\mySleep.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\mySleep\obj\Release\mySleep.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\mySleep\obj\Release\mySleep.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\aat\mySleep\obj\Release\mySleep.pdb
